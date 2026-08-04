@@ -1,0 +1,135 @@
+name: Poki SEO Monitor
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+# Tests run with read-only access. The monitor job opts into only the two
+# write permissions required for state persistence and issue creation.
+permissions:
+  contents: read
+
+concurrency:
+  group: poki-seo-monitor
+  cancel-in-progress: false
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@93cb6efe18208431cddfb8368fd83d5badbf9bfd # v5.0.1
+        with:
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@a309ff8b426b58ec0e2a45f0f869d46889d02405 # v6.2.0
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.lock
+
+      - name: Install locked dependencies and package
+        run: |
+          python -m pip install --require-hashes -r requirements.lock
+          python -m pip install --no-build-isolation --no-deps -e .
+
+      - name: Run tests
+        run: python -m pytest -q
+
+  monitor:
+    needs: test
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@93cb6efe18208431cddfb8368fd83d5badbf9bfd # v5.0.1
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@a309ff8b426b58ec0e2a45f0f869d46889d02405 # v6.2.0
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.lock
+
+      - name: Install locked dependencies and package
+        run: |
+          python -m pip install --require-hashes -r requirements.lock
+          python -m pip install --no-build-isolation --no-deps -e .
+
+      - name: Monitor Poki
+        id: monitor
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          MAX_GAMES_PER_RUN: "10"
+          TRENDS_GEO: US
+        run: |
+          summary_path="$RUNNER_TEMP/monitor-summary.json"
+          poki-seo-monitor | tee "$summary_path"
+          new_games="$(python -c 'import json, sys; value = json.load(open(sys.argv[1], encoding="utf-8"))["new"]; assert type(value) is int and value >= 0; print(value)' "$summary_path")"
+          printf 'new_games=%s\n' "$new_games" >> "$GITHUB_OUTPUT"
+
+      - name: Commit changed state and reports
+        id: commit
+        env:
+          NEW_GAMES: ${{ steps.monitor.outputs.new_games }}
+        run: |
+          changes="$(git status --porcelain -- data reports)"
+          if [ -z "$changes" ]; then
+            printf 'has_changes=false\n' >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- data reports
+          if git diff --cached --quiet; then
+            printf 'has_changes=false\n' >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          run_date="$(date -u +%F)"
+          git commit -m "data: $run_date Poki SEO update ($NEW_GAMES new games)"
+          printf 'has_changes=true\n' >> "$GITHUB_OUTPUT"
+
+      - name: Rebase and push generated commit
+        if: steps.commit.outputs.has_changes == 'true'
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          auth_header="$(printf 'x-access-token:%s' "$GITHUB_TOKEN" | base64 | tr -d '\n')"
+          git config --local http.https://github.com/.extraheader "AUTHORIZATION: basic $auth_header"
+          cleanup_auth() {
+            git config --local --unset-all http.https://github.com/.extraheader || true
+          }
+          trap cleanup_auth EXIT
+
+          for attempt in 1 2 3; do
+            if ! git fetch origin "$GITHUB_REF_NAME"; then
+              if [ "$attempt" -eq 3 ]; then
+                exit 1
+              fi
+              continue
+            fi
+
+            if ! git rebase "origin/$GITHUB_REF_NAME"; then
+              git rebase --abort
+              exit 1
+            fi
+
+            if git push origin "HEAD:$GITHUB_REF_NAME"; then
+              exit 0
+            fi
+
+            if [ "$attempt" -eq 3 ]; then
+              exit 1
+            fi
+          done

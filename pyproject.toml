@@ -1,0 +1,33 @@
+[build-system]
+requires = ["hatchling==1.28.0"]
+build-backend = "hatchling.build"
+
+[project]
+name = "poki-seo-monitor"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+  "beautifulsoup4>=4.13,<5",
+  "defusedxml>=0.7,<1",
+  "lxml>=5.3,<7",
+  "requests>=2.32,<3",
+  "trendspyg==1.1.1",
+]
+
+[project.optional-dependencies]
+dev = [
+  "hatchling==1.28.0",
+  "pytest>=8.3,<9",
+  "pytest-cov>=6,<8",
+  "responses>=0.25,<1",
+]
+
+[project.scripts]
+poki-seo-monitor = "poki_seo_monitor.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/poki_seo_monitor"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
