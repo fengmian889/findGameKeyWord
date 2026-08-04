@@ -34,7 +34,7 @@ jobs:
       - name: Install locked dependencies and package
         run: |
           python -m pip install --require-hashes -r requirements.lock
-          python -m pip install --no-build-isolation --no-deps -e .
+          python -m pip install --no-build-isolation --no-deps .
 
       - name: Run tests
         run: python -m pytest -q
@@ -63,7 +63,7 @@ jobs:
       - name: Install locked dependencies and package
         run: |
           python -m pip install --require-hashes -r requirements.lock
-          python -m pip install --no-build-isolation --no-deps -e .
+          python -m pip install --no-build-isolation --no-deps .
 
       - name: Monitor Poki
         id: monitor
