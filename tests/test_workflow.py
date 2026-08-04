@@ -40,7 +40,7 @@ def test_workflow_uses_python_312_and_runs_install_tests_and_monitor():
     assert workflow.count("cache-dependency-path: requirements.lock") == 2
     assert workflow.count("python -m pip install --require-hashes -r requirements.lock") == 2
     assert workflow.count(
-        "python -m pip install --no-build-isolation --no-deps -e ."
+        "python -m pip install --no-build-isolation --no-deps ."
     ) == 2
     assert "python -m pytest -q" in workflow
     assert "poki-seo-monitor" in workflow
