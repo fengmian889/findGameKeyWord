@@ -5,6 +5,11 @@ from pathlib import Path
 from typing import Mapping
 
 
+def _parse_serpapi_keys(raw: str) -> tuple[str, ...]:
+    """Parse comma-separated SerpAPI keys, ignoring empty entries."""
+    return tuple(key.strip() for key in raw.split(",") if key.strip())
+
+
 @dataclass(frozen=True)
 class Config:
     sitemap_index: str
@@ -18,6 +23,7 @@ class Config:
     baseline_sample_size: int
     github_repository: str | None
     github_token: str | None = field(repr=False)
+    serpapi_keys: tuple[str, ...] = field(default=(), repr=False)
 
     def __post_init__(self) -> None:
         if self.max_games_per_run <= 0:
@@ -26,6 +32,7 @@ class Config:
         object.__setattr__(
             self, "baseline_sample_size", max(0, self.baseline_sample_size)
         )
+        object.__setattr__(self, "serpapi_keys", tuple(self.serpapi_keys))
 
     @classmethod
     def from_env(cls, env: Mapping[str, str]) -> "Config":
@@ -46,4 +53,5 @@ class Config:
             baseline_sample_size=baseline_sample_size,
             github_repository=env.get("GITHUB_REPOSITORY") or None,
             github_token=env.get("GITHUB_TOKEN") or None,
+            serpapi_keys=_parse_serpapi_keys(env.get("SERPAPI_KEY", "")),
         )

@@ -9,6 +9,7 @@ from __future__ import annotations
 from collections import OrderedDict
 from collections.abc import Callable, Mapping
 from datetime import datetime, timedelta, timezone
+import itertools
 import math
 import multiprocessing
 import os
@@ -136,8 +137,18 @@ def _new_default_serp_state(
     )
 
 
+def _new_default_serpapi_trends_state(
+    monotonic: Callable[[], float] = time.monotonic,
+    sleep: Callable[[float], None] = time.sleep,
+) -> _DefaultHttpState:
+    return _DefaultHttpState(
+        cache_limit=256, ttl=12 * 60 * 60, interval=1.0, monotonic=monotonic, sleep=sleep
+    )
+
+
 _DEFAULT_AUTOCOMPLETE_STATE = _new_default_autocomplete_state()
 _DEFAULT_SERP_STATE = _new_default_serp_state()
+_DEFAULT_SERPAPI_TRENDS_STATE = _new_default_serpapi_trends_state()
 
 
 def _reset_default_http_state(
@@ -146,9 +157,10 @@ def _reset_default_http_state(
     sleep: Callable[[float], None] = time.sleep,
 ) -> None:
     """Reset shared default endpoint state; intended for deterministic tests."""
-    global _DEFAULT_AUTOCOMPLETE_STATE, _DEFAULT_SERP_STATE
+    global _DEFAULT_AUTOCOMPLETE_STATE, _DEFAULT_SERP_STATE, _DEFAULT_SERPAPI_TRENDS_STATE
     _DEFAULT_AUTOCOMPLETE_STATE = _new_default_autocomplete_state(monotonic, sleep)
     _DEFAULT_SERP_STATE = _new_default_serp_state(monotonic, sleep)
+    _DEFAULT_SERPAPI_TRENDS_STATE = _new_default_serpapi_trends_state(monotonic, sleep)
 
 
 class AutocompleteProvider:
@@ -282,6 +294,133 @@ class GoogleTrendsProvider:
             rising_queries=_rising_queries(rising),
             rising_queries_observed=True,
         )
+
+
+class SerpApiTrendsProvider:
+    """Read Google Trends data via SerpAPI HTTP endpoints.
+
+    Makes two HTTP GET requests to SerpAPI for TIMESERIES and RELATED_QUERIES
+    data, with 12h TTL cache and 1s pacer between requests.
+
+    Accepts a pool of API keys and rotates through them round-robin to spread
+    usage across multiple accounts.
+    """
+
+    def __init__(
+        self,
+        api_keys: str | tuple[str, ...],
+        fetch: Callable[[str, dict[str, str]], Any] | None = None,
+        *,
+        pace_custom: bool = False,
+        monotonic: Callable[[], float] = time.monotonic,
+        sleep: Callable[[float], None] = time.sleep,
+    ) -> None:
+        if isinstance(api_keys, str):
+            api_keys = (api_keys,)
+        if not api_keys:
+            raise ValueError("At least one SerpAPI key is required")
+        self._api_keys = api_keys
+        self._key_cycle = itertools.cycle(api_keys)
+        self._key_lock = threading.Lock()
+        self._default_network = fetch is None
+        self._session = build_session() if self._default_network else None
+        self._fetch = fetch or self._default_fetch
+        custom_clock = monotonic is not time.monotonic or sleep is not time.sleep
+        if self._default_network and not custom_clock:
+            state = _DEFAULT_SERPAPI_TRENDS_STATE
+        else:
+            state = _new_default_serpapi_trends_state(monotonic, sleep)
+        self._cache = state.cache
+        self._pacer = state.pacer if self._default_network or pace_custom else None
+
+    def _next_key(self) -> str:
+        with self._key_lock:
+            return next(self._key_cycle)
+
+    def _default_fetch(self, engine: str, params: dict[str, str]) -> Any:
+        assert self._session is not None
+        assert self._pacer is not None
+        self._pacer.wait()
+        request_params = {"api_key": self._next_key(), "engine": engine, **params}
+        response = self._session.get(
+            "https://serpapi.com/search",
+            params=request_params,
+            timeout=(10, 20),
+            allow_redirects=False,
+        )
+        response.raise_for_status()
+        return response.json()
+
+    def research(self, keyword: str, geo: str) -> SearchSignals:
+        cache_key = f"{_normalise_text(keyword)}:{geo.casefold()}"
+        cached, value = self._cache.get(cache_key)
+        if cached:
+            return value
+
+        # Fetch TIMESERIES data
+        timeseries_payload = self._fetch(
+            "google_trends",
+            {"q": keyword, "geo": geo, "data_type": "TIMESERIES"},
+        )
+
+        # Fetch RELATED_QUERIES data
+        related_payload = self._fetch(
+            "google_trends",
+            {"q": keyword, "geo": geo, "data_type": "RELATED_QUERIES"},
+        )
+
+        # Extract and transform timeseries data
+        interest_over_time = timeseries_payload.get("interest_over_time")
+        if not isinstance(interest_over_time, Mapping):
+            raise ValueError("Malformed SerpAPI TIMESERIES payload")
+
+        timeline_data = interest_over_time.get("timeline_data")
+        if not isinstance(timeline_data, list):
+            raise ValueError("Malformed SerpAPI TIMESERIES payload")
+
+        # Transform to _trend_observations compatible format
+        points: list[dict[str, Any]] = []
+        for entry in timeline_data:
+            if not isinstance(entry, Mapping):
+                continue
+            timestamp = entry.get("timestamp")
+            values = entry.get("values")
+            if not isinstance(values, list) or not values:
+                continue
+            first_value = values[0]
+            if not isinstance(first_value, Mapping):
+                continue
+            # Use extracted_value if available, otherwise parse value string
+            value = first_value.get("extracted_value", first_value.get("value"))
+            if timestamp is not None and value is not None:
+                # Convert unix timestamp to ISO format
+                try:
+                    dt = datetime.fromtimestamp(int(timestamp), tz=timezone.utc)
+                    points.append({"date": dt.isoformat(), "value": value})
+                except (ValueError, TypeError):
+                    continue
+
+        # Extract related queries
+        related_queries = related_payload.get("related_queries")
+        if not isinstance(related_queries, Mapping):
+            raise ValueError("Malformed SerpAPI RELATED_QUERIES payload")
+
+        rising = related_queries.get("rising")
+        if not isinstance(rising, list):
+            rising = []
+
+        observations = _trend_observations(points)
+        trend_7d, trend_30d, trend_90d = _trend_windows(observations)
+        result = SearchSignals(
+            trend_7d=trend_7d,
+            trend_30d=trend_30d,
+            trend_90d=trend_90d,
+            rising_queries=_rising_queries(rising),
+            rising_queries_observed=True,
+        )
+
+        self._cache.put(cache_key, result)
+        return result
 
 
 def _run_with_deadline(operation: Callable[[], Any], deadline_seconds: float) -> Any:
@@ -619,7 +758,7 @@ def _is_strong_domain(host: str) -> bool:
 def collect_signals(
     keyword: str,
     geo: str,
-    trends: GoogleTrendsProvider,
+    trends: GoogleTrendsProvider | SerpApiTrendsProvider,
     autocomplete: AutocompleteProvider,
     include_trends: bool = True,
     serp: SerpCompetitionProvider | None = None,

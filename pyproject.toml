@@ -11,10 +11,12 @@ dependencies = [
   "defusedxml>=0.7,<1",
   "lxml>=5.3,<7",
   "requests>=2.32,<3",
-  "trendspyg==1.1.1",
 ]
 
 [project.optional-dependencies]
+trends = [
+  "trendspyg==1.1.1",
+]
 dev = [
   "hatchling==1.28.0",
   "pytest>=8.3,<9",

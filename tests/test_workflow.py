@@ -64,7 +64,8 @@ def test_dependency_lock_contains_hashes():
     assert "hatchling==1.28.0" in pyproject
     assert "hatchling==1.28.0 \\\n    --hash=sha256:" in lock
     assert "pytest==" in lock
-    assert "trendspyg==1.1.1" in lock
+    # trendspyg is now optional and should NOT be in the lock file
+    assert "trendspyg" not in lock
 
 
 def test_workflow_commits_only_changed_outputs_and_retries_authenticated_push():

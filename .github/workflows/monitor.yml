@@ -69,6 +69,7 @@ jobs:
         id: monitor
         env:
           GITHUB_TOKEN: ${{ github.token }}
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
           MAX_GAMES_PER_RUN: "10"
           TRENDS_GEO: US
         run: |

@@ -7,6 +7,7 @@ import poki_seo_monitor.signals as signals_module
 from poki_seo_monitor.signals import (
     AutocompleteProvider,
     GoogleTrendsProvider,
+    SerpApiTrendsProvider,
     SerpCompetitionProvider,
     collect_signals,
     parse_serp_hosts,
@@ -741,3 +742,296 @@ def test_injected_providers_do_not_trigger_trendspyg_import() -> None:
     provider.research("goal heads", "US")
 
     assert "trendspyg" not in sys.modules
+
+
+def _serpapi_timeseries_payload(values: list[int], base_timestamp: int = 1777852800) -> dict[str, object]:
+    return {
+        "interest_over_time": {
+            "timeline_data": [
+                {
+                    "date": f"Day {index}",
+                    "timestamp": str(base_timestamp + index * 86400),
+                    "values": [
+                        {"query": "test", "value": str(value), "extracted_value": value}
+                    ],
+                }
+                for index, value in enumerate(values)
+            ]
+        }
+    }
+
+
+def _serpapi_related_payload(rising: list[dict[str, object]]) -> dict[str, object]:
+    return {"related_queries": {"rising": rising}}
+
+
+def test_serpapi_trends_parses_timeseries_and_related_queries() -> None:
+    calls: list[tuple[str, dict[str, str]]] = []
+
+    def fetch(engine: str, params: dict[str, str]) -> dict[str, object]:
+        calls.append((engine, params))
+        if params["data_type"] == "TIMESERIES":
+            return _serpapi_timeseries_payload([30, 70], base_timestamp=1711324800)
+        return _serpapi_related_payload(
+            [{"query": "goal heads 2", "value": "Breakout", "extracted_value": 20200}]
+        )
+
+    provider = SerpApiTrendsProvider("test-key", fetch=fetch)
+    signals = provider.research("goal heads", "US")
+
+    assert signals.trend_7d == 50.0
+    assert signals.trend_30d == 50.0
+    assert signals.trend_90d == 50.0
+    assert signals.rising_queries == ("goal heads 2",)
+    assert signals.rising_queries_observed is True
+    assert len(calls) == 2
+    assert calls[0] == ("google_trends", {"q": "goal heads", "geo": "US", "data_type": "TIMESERIES"})
+    assert calls[1] == ("google_trends", {"q": "goal heads", "geo": "US", "data_type": "RELATED_QUERIES"})
+
+
+def test_serpapi_trends_caches_results() -> None:
+    calls: list[str] = []
+
+    def fetch(engine: str, params: dict[str, str]) -> dict[str, object]:
+        calls.append(params["data_type"])
+        if params["data_type"] == "TIMESERIES":
+            return _serpapi_timeseries_payload([50])
+        return _serpapi_related_payload([])
+
+    provider = SerpApiTrendsProvider("test-key", fetch=fetch)
+    first = provider.research("goal heads", "US")
+    second = provider.research("goal heads", "US")
+    third = provider.research("Goal Heads", "us")
+
+    assert first is second
+    assert first is third
+    assert calls == ["TIMESERIES", "RELATED_QUERIES"]
+
+
+def test_serpapi_trends_paces_default_network_calls(monkeypatch: pytest.MonkeyPatch) -> None:
+    sleeps: list[float] = []
+    calls: list[str] = []
+
+    class Response:
+        def __init__(self, data: dict[str, object]) -> None:
+            self._data = data
+
+        def raise_for_status(self) -> None:
+            pass
+
+        def json(self) -> dict[str, object]:
+            return self._data
+
+    class Session:
+        def get(self, url: str, *, params: dict[str, str], **kwargs: object) -> Response:
+            calls.append(params["data_type"])
+            if params["data_type"] == "TIMESERIES":
+                return Response(_serpapi_timeseries_payload([50]))
+            return Response(_serpapi_related_payload([]))
+
+    monkeypatch.setattr(signals_module, "build_session", lambda: Session())
+    provider = SerpApiTrendsProvider("test-key", monotonic=lambda: 0.0, sleep=sleeps.append)
+
+    provider.research("goal heads", "US")
+
+    assert len(calls) == 2
+    assert sleeps == [1.0]
+
+
+def test_serpapi_trends_handles_empty_rising_queries() -> None:
+    def fetch(engine: str, params: dict[str, str]) -> dict[str, object]:
+        if params["data_type"] == "TIMESERIES":
+            return _serpapi_timeseries_payload([50])
+        return _serpapi_related_payload([])
+
+    provider = SerpApiTrendsProvider("test-key", fetch=fetch)
+    signals = provider.research("goal heads", "US")
+
+    assert signals.rising_queries == ()
+    assert signals.rising_queries_observed is True
+
+
+def test_serpapi_trends_rejects_malformed_timeseries_payload() -> None:
+    def fetch(engine: str, params: dict[str, str]) -> dict[str, object]:
+        if params["data_type"] == "TIMESERIES":
+            return {"interest_over_time": "not a dict"}
+        return _serpapi_related_payload([])
+
+    provider = SerpApiTrendsProvider("test-key", fetch=fetch)
+
+    with pytest.raises(ValueError, match="Malformed SerpAPI TIMESERIES payload"):
+        provider.research("goal heads", "US")
+
+
+def test_serpapi_trends_rejects_malformed_related_queries_payload() -> None:
+    def fetch(engine: str, params: dict[str, str]) -> dict[str, object]:
+        if params["data_type"] == "TIMESERIES":
+            return _serpapi_timeseries_payload([50])
+        return {"related_queries": "not a dict"}
+
+    provider = SerpApiTrendsProvider("test-key", fetch=fetch)
+
+    with pytest.raises(ValueError, match="Malformed SerpAPI RELATED_QUERIES payload"):
+        provider.research("goal heads", "US")
+
+
+def test_serpapi_trends_skips_entries_with_invalid_timestamps_or_values() -> None:
+    def fetch(engine: str, params: dict[str, str]) -> dict[str, object]:
+        if params["data_type"] == "TIMESERIES":
+            return {
+                "interest_over_time": {
+                    "timeline_data": [
+                        {
+                            "date": "Day 0",
+                            "timestamp": "not-a-number",
+                            "values": [{"query": "test", "extracted_value": 50}],
+                        },
+                        {
+                            "date": "Day 1",
+                            "timestamp": "1711324800",
+                            "values": [{"query": "test", "extracted_value": 70}],
+                        },
+                        {
+                            "date": "Day 2",
+                            "timestamp": "1711411200",
+                            "values": [],
+                        },
+                    ]
+                }
+            }
+        return _serpapi_related_payload([])
+
+    provider = SerpApiTrendsProvider("test-key", fetch=fetch)
+    signals = provider.research("goal heads", "US")
+
+    assert signals.trend_7d == 70.0
+
+
+def test_serpapi_trends_uses_extracted_value_over_value_string() -> None:
+    def fetch(engine: str, params: dict[str, str]) -> dict[str, object]:
+        if params["data_type"] == "TIMESERIES":
+            return {
+                "interest_over_time": {
+                    "timeline_data": [
+                        {
+                            "date": "Day 0",
+                            "timestamp": "1711324800",
+                            "values": [
+                                {"query": "test", "value": "75", "extracted_value": 75}
+                            ],
+                        }
+                    ]
+                }
+            }
+        return _serpapi_related_payload([])
+
+    provider = SerpApiTrendsProvider("test-key", fetch=fetch)
+    signals = provider.research("goal heads", "US")
+
+    assert signals.trend_7d == 75.0
+
+
+def test_collect_signals_works_with_serpapi_trends_provider() -> None:
+    def fetch(engine: str, params: dict[str, str]) -> dict[str, object]:
+        if params["data_type"] == "TIMESERIES":
+            return _serpapi_timeseries_payload([60])
+        return _serpapi_related_payload([{"query": "goal heads online", "extracted_value": 500}])
+
+    trends = SerpApiTrendsProvider("test-key", fetch=fetch)
+    autocomplete = AutocompleteProvider(fetch=lambda keyword: [keyword, ["goal heads game"]])
+
+    signals = collect_signals("goal heads", "US", trends, autocomplete)
+
+    assert signals.trend_7d == 60.0
+    assert signals.rising_queries == ("goal heads online",)
+    assert signals.autocomplete == ("goal heads game",)
+    assert signals.errors == ()
+
+
+def test_serpapi_trends_default_fetch_uses_correct_endpoint(monkeypatch: pytest.MonkeyPatch) -> None:
+    calls: list[tuple[str, dict[str, str], tuple[int, int]]] = []
+    status_called = False
+
+    class Response:
+        def __init__(self, data: dict[str, object]) -> None:
+            self._data = data
+
+        def raise_for_status(self) -> None:
+            nonlocal status_called
+            status_called = True
+
+        def json(self) -> dict[str, object]:
+            return self._data
+
+    class Session:
+        def get(
+            self,
+            url: str,
+            *,
+            params: dict[str, str],
+            timeout: tuple[int, int],
+            allow_redirects: bool,
+        ) -> Response:
+            assert allow_redirects is False
+            calls.append((url, params, timeout))
+            if params["data_type"] == "TIMESERIES":
+                return Response(_serpapi_timeseries_payload([50]))
+            return Response(_serpapi_related_payload([]))
+
+    monkeypatch.setattr(signals_module, "build_session", lambda: Session())
+
+    provider = SerpApiTrendsProvider("my-api-key")
+    provider.research("goal heads", "US")
+
+    assert status_called is True
+    assert len(calls) == 2
+    for url, params, timeout in calls:
+        assert url == "https://serpapi.com/search"
+        assert params["api_key"] == "my-api-key"
+        assert params["engine"] == "google_trends"
+        assert timeout == (10, 20)
+
+
+def test_serpapi_trends_rotates_keys_round_robin(monkeypatch: pytest.MonkeyPatch) -> None:
+    keys_used: list[str] = []
+
+    class Response:
+        def __init__(self, data: dict[str, object]) -> None:
+            self._data = data
+
+        def raise_for_status(self) -> None:
+            pass
+
+        def json(self) -> dict[str, object]:
+            return self._data
+
+    class Session:
+        def get(self, url: str, *, params: dict[str, str], **kwargs: object) -> Response:
+            keys_used.append(params["api_key"])
+            if params["data_type"] == "TIMESERIES":
+                return Response(_serpapi_timeseries_payload([50]))
+            return Response(_serpapi_related_payload([]))
+
+    monkeypatch.setattr(signals_module, "build_session", lambda: Session())
+
+    provider = SerpApiTrendsProvider(("key-a", "key-b", "key-c"))
+
+    # Each research() makes 2 API calls (TIMESERIES + RELATED_QUERIES)
+    provider.research("alpha", "US")   # calls 1,2 -> key-a, key-b
+    provider.research("beta", "US")    # calls 3,4 -> key-c, key-a
+    provider.research("gamma", "US")   # calls 5,6 -> key-b, key-c
+
+    assert keys_used == ["key-a", "key-b", "key-c", "key-a", "key-b", "key-c"]
+
+
+def test_serpapi_trends_rejects_empty_key_pool() -> None:
+    with pytest.raises(ValueError, match="At least one SerpAPI key"):
+        SerpApiTrendsProvider(())
+
+
+def test_serpapi_trends_accepts_single_key_as_string() -> None:
+    provider = SerpApiTrendsProvider("single-key", fetch=lambda e, p: _serpapi_timeseries_payload([50]) if p["data_type"] == "TIMESERIES" else _serpapi_related_payload([]))
+
+    assert provider._api_keys == ("single-key",)
+    signals = provider.research("test", "US")
+    assert signals.trend_7d == 50.0

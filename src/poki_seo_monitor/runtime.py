@@ -19,6 +19,7 @@ from .state import RECHECK_DELAYS
 from .signals import (
     AutocompleteProvider,
     GoogleTrendsProvider,
+    SerpApiTrendsProvider,
     SerpCompetitionProvider,
     collect_signals,
     parse_serp_hosts,
@@ -72,7 +73,12 @@ def build_monitor(config: Config) -> Monitor:
         return parse_serp_hosts(response.text)
 
     autocomplete = AutocompleteProvider(fetch=autocomplete_fetch, pace_custom=True)
-    trends = GoogleTrendsProvider()
+    if config.serpapi_keys:
+        trends: GoogleTrendsProvider | SerpApiTrendsProvider = SerpApiTrendsProvider(
+            config.serpapi_keys
+        )
+    else:
+        trends = GoogleTrendsProvider()
     serp = SerpCompetitionProvider(fetch_hosts=serp_fetch, pace_custom=True)
     issue_post = (
         github_issue_poster(config.github_repository, config.github_token, session)
