@@ -6510,6 +6510,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/family-life-simulator": {
+      "first_seen": "2026-08-04T19:55:22.841089+00:00",
+      "issue_error": null,
+      "issue_number": 2,
+      "new_games_rank": null,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-08-11T19:55:22.841089+00:00",
+        "2026-08-18T19:55:22.841089+00:00",
+        "2026-09-03T19:55:22.841089+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-04/family-life-simulator.md",
+      "researched_at": "2026-08-04T19:55:22.841089+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "sitemap": "2026-08-04T19:55:22.841089+00:00"
+      },
+      "sources": [
+        "sitemap"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/family-sort": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -13301,6 +13324,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/paperio-2": {
+      "first_seen": "2026-08-04T19:55:22.841089+00:00",
+      "issue_error": null,
+      "issue_number": 2,
+      "new_games_rank": null,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-08-11T19:55:22.841089+00:00",
+        "2026-08-18T19:55:22.841089+00:00",
+        "2026-09-03T19:55:22.841089+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-04/paperio-2.md",
+      "researched_at": "2026-08-04T19:55:22.841089+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "sitemap": "2026-08-04T19:55:22.841089+00:00"
+      },
+      "sources": [
+        "sitemap"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/parakite-ninja": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
