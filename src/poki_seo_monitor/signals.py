@@ -466,7 +466,8 @@ class SerpApiTrendsProvider:
             errors=tuple(errors),
             rising_queries_observed=rising_queries_observed,
         )
-        self._cache.put(cache_key, result)
+        if successful_components:
+            self._cache.put(cache_key, result)
         return result
 
 

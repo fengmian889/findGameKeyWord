@@ -932,6 +932,27 @@ def test_serpapi_diagnostics_redact_secrets_and_urls() -> None:
     assert "keys=error,search_metadata" in rendered
 
 
+def test_serpapi_trends_does_not_cache_when_both_components_fail() -> None:
+    calls: list[str] = []
+
+    def fetch(engine: str, params: dict[str, str]) -> dict[str, object]:
+        calls.append(params["data_type"])
+        return {"error": "no data", "search_metadata": {"status": "Error"}}
+
+    provider = SerpApiTrendsProvider("test-key", fetch=fetch)
+    first = provider.research("goal heads", "US")
+    second = provider.research("goal heads", "US")
+
+    assert calls == [
+        "TIMESERIES",
+        "RELATED_QUERIES",
+        "TIMESERIES",
+        "RELATED_QUERIES",
+    ]
+    assert len(first.errors) == 2
+    assert len(second.errors) == 2
+
+
 def test_serpapi_trends_skips_entries_with_invalid_timestamps_or_values() -> None:
     def fetch(engine: str, params: dict[str, str]) -> dict[str, object]:
         if params["data_type"] == "TIMESERIES":
