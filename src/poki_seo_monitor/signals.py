@@ -825,6 +825,8 @@ def collect_signals(
             trend_signals = trends.research(keyword, geo)
         except Exception as error:  # Providers are optional external integrations.
             errors.append(_provider_error("trends", error))
+        else:
+            errors.extend(trend_signals.errors)
     if include_autocomplete:
         try:
             autocomplete_values = autocomplete.suggest(keyword)

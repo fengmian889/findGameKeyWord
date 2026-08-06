@@ -3,6 +3,7 @@ import sys
 
 import pytest
 
+from poki_seo_monitor.models import SearchSignals
 import poki_seo_monitor.signals as signals_module
 from poki_seo_monitor.signals import (
     AutocompleteProvider,
@@ -400,6 +401,29 @@ def test_collect_signals_degrades_when_trends_fail() -> None:
     assert signals.rising_queries_observed is False
     assert signals.autocomplete_observed is True
     assert signals.errors == ("trends: RuntimeError: trend service unavailable",)
+
+
+def test_collect_signals_keeps_partial_trends_and_provider_errors() -> None:
+    class PartialTrends:
+        def research(self, keyword: str, geo: str) -> SearchSignals:
+            return SearchSignals(
+                trend_7d=75.0,
+                errors=(
+                    "trends: RuntimeError: SerpAPI RELATED_QUERIES unavailable",
+                ),
+            )
+
+    result = collect_signals(
+        "goal heads",
+        "US",
+        PartialTrends(),
+        AutocompleteProvider(fetch=lambda keyword: [keyword, []]),
+    )
+
+    assert result.trend_7d == 75.0
+    assert result.errors == (
+        "trends: RuntimeError: SerpAPI RELATED_QUERIES unavailable",
+    )
 
 
 def test_collect_signals_skips_disabled_providers_without_an_error() -> None:
