@@ -296,6 +296,80 @@ class GoogleTrendsProvider:
         )
 
 
+def _serpapi_response_context(payload: object) -> str:
+    if not isinstance(payload, Mapping):
+        return f"response_type={type(payload).__name__}"
+    safe_keys = sorted(
+        key
+        for key in payload
+        if isinstance(key, str)
+        and re.fullmatch(r"[A-Za-z0-9_]{1,40}", key)
+        and not re.search(r"token|api[_-]?key|secret|password", key, re.IGNORECASE)
+    )[:8]
+    details = [f"keys={','.join(safe_keys) or 'none'}"]
+    metadata = payload.get("search_metadata")
+    if isinstance(metadata, Mapping):
+        status = metadata.get("status")
+        if isinstance(status, (str, int, float, bool)):
+            details.append(f"status={status}")
+    error = payload.get("error")
+    if isinstance(error, str) and error.strip():
+        details.append(f"error={error}")
+    return " ".join(details)
+
+
+def _serpapi_payload_error(data_type: str, payload: object) -> ValueError:
+    return ValueError(
+        f"SerpAPI {data_type} unavailable ({_serpapi_response_context(payload)})"
+    )
+
+
+def _parse_serpapi_timeseries(
+    payload: object,
+) -> tuple[float | None, float | None, float | None]:
+    if not isinstance(payload, Mapping):
+        raise _serpapi_payload_error("TIMESERIES", payload)
+    interest_over_time = payload.get("interest_over_time")
+    if not isinstance(interest_over_time, Mapping):
+        raise _serpapi_payload_error("TIMESERIES", payload)
+    timeline_data = interest_over_time.get("timeline_data")
+    if not isinstance(timeline_data, list):
+        raise _serpapi_payload_error("TIMESERIES", payload)
+
+    points: list[dict[str, Any]] = []
+    for entry in timeline_data:
+        if not isinstance(entry, Mapping):
+            continue
+        timestamp = entry.get("timestamp")
+        values = entry.get("values")
+        if not isinstance(values, list) or not values:
+            continue
+        first_value = values[0]
+        if not isinstance(first_value, Mapping):
+            continue
+        value = first_value.get("extracted_value", first_value.get("value"))
+        if timestamp is None or value is None:
+            continue
+        try:
+            observed_at = datetime.fromtimestamp(int(timestamp), tz=timezone.utc)
+        except (ValueError, TypeError):
+            continue
+        points.append({"date": observed_at.isoformat(), "value": value})
+    return _trend_windows(_trend_observations(points))
+
+
+def _parse_serpapi_related_queries(payload: object) -> tuple[str, ...]:
+    if not isinstance(payload, Mapping):
+        raise _serpapi_payload_error("RELATED_QUERIES", payload)
+    related_queries = payload.get("related_queries")
+    if not isinstance(related_queries, Mapping):
+        raise _serpapi_payload_error("RELATED_QUERIES", payload)
+    rising = related_queries.get("rising")
+    if not isinstance(rising, list):
+        rising = []
+    return _rising_queries(rising)
+
+
 class SerpApiTrendsProvider:
     """Read Google Trends data via SerpAPI HTTP endpoints.
 
@@ -357,69 +431,43 @@ class SerpApiTrendsProvider:
         if cached:
             return value
 
-        # Fetch TIMESERIES data
-        timeseries_payload = self._fetch(
-            "google_trends",
-            {"q": keyword, "geo": geo, "data_type": "TIMESERIES"},
-        )
+        errors: list[str] = []
+        successful_components = 0
+        trend_7d = trend_30d = trend_90d = None
+        rising_queries: tuple[str, ...] = ()
+        rising_queries_observed = False
 
-        # Fetch RELATED_QUERIES data
-        related_payload = self._fetch(
-            "google_trends",
-            {"q": keyword, "geo": geo, "data_type": "RELATED_QUERIES"},
-        )
+        try:
+            payload = self._fetch(
+                "google_trends",
+                {"q": keyword, "geo": geo, "data_type": "TIMESERIES"},
+            )
+            trend_7d, trend_30d, trend_90d = _parse_serpapi_timeseries(payload)
+            successful_components += 1
+        except Exception as error:
+            errors.append(_serpapi_component_error("TIMESERIES", error))
 
-        # Extract and transform timeseries data
-        interest_over_time = timeseries_payload.get("interest_over_time")
-        if not isinstance(interest_over_time, Mapping):
-            raise ValueError("Malformed SerpAPI TIMESERIES payload")
+        try:
+            payload = self._fetch(
+                "google_trends",
+                {"q": keyword, "geo": geo, "data_type": "RELATED_QUERIES"},
+            )
+            rising_queries = _parse_serpapi_related_queries(payload)
+            rising_queries_observed = True
+            successful_components += 1
+        except Exception as error:
+            errors.append(_serpapi_component_error("RELATED_QUERIES", error))
 
-        timeline_data = interest_over_time.get("timeline_data")
-        if not isinstance(timeline_data, list):
-            raise ValueError("Malformed SerpAPI TIMESERIES payload")
-
-        # Transform to _trend_observations compatible format
-        points: list[dict[str, Any]] = []
-        for entry in timeline_data:
-            if not isinstance(entry, Mapping):
-                continue
-            timestamp = entry.get("timestamp")
-            values = entry.get("values")
-            if not isinstance(values, list) or not values:
-                continue
-            first_value = values[0]
-            if not isinstance(first_value, Mapping):
-                continue
-            # Use extracted_value if available, otherwise parse value string
-            value = first_value.get("extracted_value", first_value.get("value"))
-            if timestamp is not None and value is not None:
-                # Convert unix timestamp to ISO format
-                try:
-                    dt = datetime.fromtimestamp(int(timestamp), tz=timezone.utc)
-                    points.append({"date": dt.isoformat(), "value": value})
-                except (ValueError, TypeError):
-                    continue
-
-        # Extract related queries
-        related_queries = related_payload.get("related_queries")
-        if not isinstance(related_queries, Mapping):
-            raise ValueError("Malformed SerpAPI RELATED_QUERIES payload")
-
-        rising = related_queries.get("rising")
-        if not isinstance(rising, list):
-            rising = []
-
-        observations = _trend_observations(points)
-        trend_7d, trend_30d, trend_90d = _trend_windows(observations)
         result = SearchSignals(
             trend_7d=trend_7d,
             trend_30d=trend_30d,
             trend_90d=trend_90d,
-            rising_queries=_rising_queries(rising),
-            rising_queries_observed=True,
+            rising_queries=rising_queries,
+            errors=tuple(errors),
+            rising_queries_observed=rising_queries_observed,
         )
-
-        self._cache.put(cache_key, result)
+        if successful_components:
+            self._cache.put(cache_key, result)
         return result
 
 
@@ -777,6 +825,8 @@ def collect_signals(
             trend_signals = trends.research(keyword, geo)
         except Exception as error:  # Providers are optional external integrations.
             errors.append(_provider_error("trends", error))
+        else:
+            errors.extend(trend_signals.errors)
     if include_autocomplete:
         try:
             autocomplete_values = autocomplete.suggest(keyword)
@@ -810,6 +860,15 @@ def _provider_error(provider: str, error: Exception) -> str:
     message = _WHITESPACE.sub(" ", message).strip()
     rendered = f"{provider}: {type(error).__name__}: {message}"
     return rendered[:160]
+
+
+def _serpapi_component_error(data_type: str, error: Exception) -> str:
+    if str(error).startswith(f"SerpAPI {data_type} "):
+        return _provider_error("trends", error)
+    wrapped = RuntimeError(
+        f"SerpAPI {data_type} failed ({type(error).__name__}): {error}"
+    )
+    return _provider_error("trends", wrapped)
 
 
 def _redact_assignment(match: re.Match[str]) -> str:

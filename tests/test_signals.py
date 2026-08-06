@@ -3,6 +3,7 @@ import sys
 
 import pytest
 
+from poki_seo_monitor.models import SearchSignals
 import poki_seo_monitor.signals as signals_module
 from poki_seo_monitor.signals import (
     AutocompleteProvider,
@@ -400,6 +401,29 @@ def test_collect_signals_degrades_when_trends_fail() -> None:
     assert signals.rising_queries_observed is False
     assert signals.autocomplete_observed is True
     assert signals.errors == ("trends: RuntimeError: trend service unavailable",)
+
+
+def test_collect_signals_keeps_partial_trends_and_provider_errors() -> None:
+    class PartialTrends:
+        def research(self, keyword: str, geo: str) -> SearchSignals:
+            return SearchSignals(
+                trend_7d=75.0,
+                errors=(
+                    "trends: RuntimeError: SerpAPI RELATED_QUERIES unavailable",
+                ),
+            )
+
+    result = collect_signals(
+        "goal heads",
+        "US",
+        PartialTrends(),
+        AutocompleteProvider(fetch=lambda keyword: [keyword, []]),
+    )
+
+    assert result.trend_7d == 75.0
+    assert result.errors == (
+        "trends: RuntimeError: SerpAPI RELATED_QUERIES unavailable",
+    )
 
 
 def test_collect_signals_skips_disabled_providers_without_an_error() -> None:
@@ -851,28 +875,106 @@ def test_serpapi_trends_handles_empty_rising_queries() -> None:
     assert signals.rising_queries_observed is True
 
 
-def test_serpapi_trends_rejects_malformed_timeseries_payload() -> None:
+def test_serpapi_trends_keeps_timeseries_when_related_queries_are_missing() -> None:
     def fetch(engine: str, params: dict[str, str]) -> dict[str, object]:
         if params["data_type"] == "TIMESERIES":
-            return {"interest_over_time": "not a dict"}
-        return _serpapi_related_payload([])
+            return _serpapi_timeseries_payload([40, 60])
+        return {"search_metadata": {"status": "Success"}}
 
-    provider = SerpApiTrendsProvider("test-key", fetch=fetch)
+    signals = SerpApiTrendsProvider("test-key", fetch=fetch).research(
+        "goal heads", "US"
+    )
 
-    with pytest.raises(ValueError, match="Malformed SerpAPI TIMESERIES payload"):
-        provider.research("goal heads", "US")
+    assert signals.trend_7d == 50.0
+    assert signals.trend_30d == 50.0
+    assert signals.trend_90d == 50.0
+    assert signals.rising_queries == ()
+    assert signals.rising_queries_observed is False
+    assert len(signals.errors) == 1
+    assert "SerpAPI RELATED_QUERIES" in signals.errors[0]
 
 
-def test_serpapi_trends_rejects_malformed_related_queries_payload() -> None:
+def test_serpapi_trends_keeps_related_queries_when_timeseries_is_missing() -> None:
     def fetch(engine: str, params: dict[str, str]) -> dict[str, object]:
         if params["data_type"] == "TIMESERIES":
-            return _serpapi_timeseries_payload([50])
-        return {"related_queries": "not a dict"}
+            return {"search_metadata": {"status": "Success"}}
+        return _serpapi_related_payload(
+            [{"query": "goal heads online", "extracted_value": 500}]
+        )
+
+    signals = SerpApiTrendsProvider("test-key", fetch=fetch).research(
+        "goal heads", "US"
+    )
+
+    assert signals.trend_7d is None
+    assert signals.trend_30d is None
+    assert signals.trend_90d is None
+    assert signals.rising_queries == ("goal heads online",)
+    assert signals.rising_queries_observed is True
+    assert len(signals.errors) == 1
+    assert "SerpAPI TIMESERIES" in signals.errors[0]
+
+
+def test_serpapi_trends_still_fetches_related_queries_after_timeseries_request_fails() -> None:
+    calls: list[str] = []
+
+    def fetch(engine: str, params: dict[str, str]) -> dict[str, object]:
+        calls.append(params["data_type"])
+        if params["data_type"] == "TIMESERIES":
+            raise OSError("temporary outage")
+        return _serpapi_related_payload([{"query": "goal heads game"}])
+
+    signals = SerpApiTrendsProvider("test-key", fetch=fetch).research(
+        "goal heads", "US"
+    )
+
+    assert calls == ["TIMESERIES", "RELATED_QUERIES"]
+    assert signals.rising_queries == ("goal heads game",)
+    assert any("TIMESERIES" in error for error in signals.errors)
+
+
+def test_serpapi_diagnostics_redact_secrets_and_urls() -> None:
+    secret = "secret-value"
+
+    def fetch(engine: str, params: dict[str, str]) -> dict[str, object]:
+        return {
+            "api_key": secret,
+            "error": f"token={secret} https://example.test/private",
+            "search_metadata": {"status": "Error"},
+        }
+
+    signals = SerpApiTrendsProvider("test-key", fetch=fetch).research(
+        "goal heads", "US"
+    )
+    rendered = " ".join(signals.errors)
+
+    assert secret not in rendered
+    assert "https://example.test/private" not in rendered
+    assert "<redacted>" in rendered
+    assert "<url>" in rendered
+    assert "status=Error" in rendered
+    assert "keys=error,search_metadata" in rendered
+
+
+def test_serpapi_trends_does_not_cache_when_both_components_fail() -> None:
+    calls: list[str] = []
+
+    def fetch(engine: str, params: dict[str, str]) -> dict[str, object]:
+        calls.append(params["data_type"])
+        return {"error": "no data", "search_metadata": {"status": "Error"}}
 
     provider = SerpApiTrendsProvider("test-key", fetch=fetch)
+    first = provider.research("goal heads", "US")
+    second = provider.research("goal heads", "US")
 
-    with pytest.raises(ValueError, match="Malformed SerpAPI RELATED_QUERIES payload"):
-        provider.research("goal heads", "US")
+    assert calls == [
+        "TIMESERIES",
+        "RELATED_QUERIES",
+        "TIMESERIES",
+        "RELATED_QUERIES",
+    ]
+    assert len(first.errors) == 2
+    assert len(second.errors) == 2
 
 
 def test_serpapi_trends_skips_entries_with_invalid_timestamps_or_values() -> None:
