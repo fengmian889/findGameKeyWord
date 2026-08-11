@@ -8311,17 +8311,16 @@
     "https://poki.com/en/g/gobattle2": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "issue_error": null,
-      "issue_number": null,
+      "issue_number": 11,
       "new_games_rank": 1,
       "notification_pending": false,
       "recheck_at": [
-        "2026-08-11T09:33:02.886697+00:00",
         "2026-08-18T09:33:02.886697+00:00",
         "2026-09-03T09:33:02.886697+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-04/gobattle2.md",
-      "researched_at": "2026-08-04T09:33:02.886697+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-11/gobattle2.md",
+      "researched_at": "2026-08-11T13:40:58.659038+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-08-04T09:33:02.886697+00:00",
@@ -8981,17 +8980,13 @@
     "https://poki.com/en/g/hide-and-paint": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "issue_error": null,
-      "issue_number": null,
+      "issue_number": 11,
       "new_games_rank": 2,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-08-11T09:33:02.886697+00:00",
-        "2026-08-18T09:33:02.886697+00:00",
-        "2026-09-03T09:33:02.886697+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-04/hide-and-paint.md",
-      "researched_at": "2026-08-04T09:33:02.886697+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-11/hide-and-paint.md",
+      "researched_at": "2026-08-11T13:40:58.659038+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-08-04T09:33:02.886697+00:00",
@@ -18325,17 +18320,13 @@
     "https://poki.com/en/g/subway-surfers": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "issue_error": null,
-      "issue_number": null,
-      "new_games_rank": 3,
+      "issue_number": 11,
+      "new_games_rank": 2,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-08-11T09:33:02.886697+00:00",
-        "2026-08-18T09:33:02.886697+00:00",
-        "2026-09-03T09:33:02.886697+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-04/subway-surfers.md",
-      "researched_at": "2026-08-04T09:33:02.886697+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-11/subway-surfers.md",
+      "researched_at": "2026-08-11T13:40:58.659038+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-08-04T09:33:02.886697+00:00",
@@ -19136,7 +19127,7 @@
     },
     "https://poki.com/en/g/tag": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
-      "new_games_rank": 4,
+      "new_games_rank": 3,
       "recheck_at": [],
       "recheck_plan_started": false,
       "retry_at": null,
@@ -19939,14 +19930,16 @@
     },
     "https://poki.com/en/g/tiny-baker-ocean-jelly-cake": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
-      "new_games_rank": null,
+      "new_games_rank": 13,
       "recheck_at": [],
       "recheck_plan_started": false,
       "retry_at": null,
       "source_first_seen": {
+        "new_games": "2026-08-11T13:40:58.659038+00:00",
         "sitemap": "2026-08-04T09:33:02.886697+00:00"
       },
       "sources": [
+        "new_games",
         "sitemap"
       ],
       "status": "baseline"
