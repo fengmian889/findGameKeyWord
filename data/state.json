@@ -2750,6 +2750,25 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/build-your-island": {
+      "first_seen": "2026-08-11T19:18:09.505446+00:00",
+      "issue_error": null,
+      "issue_number": 12,
+      "new_games_rank": null,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-11/build-your-island.md",
+      "researched_at": "2026-08-11T19:18:09.505446+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "sitemap": "2026-08-11T19:18:09.505446+00:00"
+      },
+      "sources": [
+        "sitemap"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/bullet-bros": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -2877,6 +2896,25 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/butterfly-catch": {
+      "first_seen": "2026-08-11T19:18:09.505446+00:00",
+      "issue_error": null,
+      "issue_number": 12,
+      "new_games_rank": 145,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-11/butterfly-catch.md",
+      "researched_at": "2026-08-11T19:18:09.505446+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-08-11T19:18:09.505446+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/cactu-sama": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -4041,6 +4079,27 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/color-shapes": {
+      "first_seen": "2026-08-11T19:18:09.505446+00:00",
+      "issue_error": null,
+      "issue_number": 12,
+      "new_games_rank": 144,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-11/color-shapes.md",
+      "researched_at": "2026-08-11T19:18:09.505446+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-08-11T19:18:09.505446+00:00",
+        "sitemap": "2026-08-11T19:18:09.505446+00:00"
+      },
+      "sources": [
+        "new_games",
+        "sitemap"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/colorballs-3d": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -17033,17 +17092,13 @@
     "https://poki.com/en/g/soccer-orbit-e94799b3": {
       "first_seen": "2026-08-04T14:38:20.293972+00:00",
       "issue_error": null,
-      "issue_number": 1,
+      "issue_number": 12,
       "new_games_rank": 142,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-08-11T14:38:20.293972+00:00",
-        "2026-08-18T14:38:20.293972+00:00",
-        "2026-09-03T14:38:20.293972+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-04/soccer-orbit-e94799b3.md",
-      "researched_at": "2026-08-04T14:38:20.293972+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-11/soccer-orbit-e94799b3.md",
+      "researched_at": "2026-08-11T19:18:09.505446+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-08-04T14:38:20.293972+00:00"
@@ -19256,6 +19311,29 @@
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-08-10T13:42:10.066247+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
+    "https://poki.com/en/g/tap-out-block-escape": {
+      "first_seen": "2026-08-11T19:18:09.505446+00:00",
+      "issue_error": null,
+      "issue_number": 12,
+      "new_games_rank": 143,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-08-18T19:18:09.505446+00:00",
+        "2026-08-25T19:18:09.505446+00:00",
+        "2026-09-10T19:18:09.505446+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-11/tap-out-block-escape.md",
+      "researched_at": "2026-08-11T19:18:09.505446+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-08-11T19:18:09.505446+00:00"
       },
       "sources": [
         "new_games"
