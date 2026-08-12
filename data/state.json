@@ -4202,17 +4202,13 @@
     "https://poki.com/en/g/connect-2-balls": {
       "first_seen": "2026-08-05T14:31:45.219194+00:00",
       "issue_error": null,
-      "issue_number": 3,
+      "issue_number": 15,
       "new_games_rank": 145,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-08-12T14:31:45.219194+00:00",
-        "2026-08-19T14:31:45.219194+00:00",
-        "2026-09-04T14:31:45.219194+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-05/connect-2-balls.md",
-      "researched_at": "2026-08-05T14:31:45.219194+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-12/connect-2-balls.md",
+      "researched_at": "2026-08-12T19:18:17.215133+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-08-05T14:31:45.219194+00:00"
@@ -5681,6 +5677,25 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/dragon-the-dragon": {
+      "first_seen": "2026-08-12T19:18:17.215133+00:00",
+      "issue_error": null,
+      "issue_number": 14,
+      "new_games_rank": null,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-12/dragon-the-dragon.md",
+      "researched_at": "2026-08-12T19:18:17.215133+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "sitemap": "2026-08-12T19:18:17.215133+00:00"
+      },
+      "sources": [
+        "sitemap"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/draw-my-path-obby": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -10270,7 +10285,7 @@
       "first_seen": "2026-08-05T19:53:28.053081+00:00",
       "issue_error": null,
       "issue_number": 4,
-      "new_games_rank": 148,
+      "new_games_rank": 146,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
@@ -11139,17 +11154,13 @@
     "https://poki.com/en/g/machine-eater": {
       "first_seen": "2026-08-05T14:31:45.219194+00:00",
       "issue_error": null,
-      "issue_number": 3,
+      "issue_number": 15,
       "new_games_rank": 142,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-08-12T14:31:45.219194+00:00",
-        "2026-08-19T14:31:45.219194+00:00",
-        "2026-09-04T14:31:45.219194+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-05/machine-eater.md",
-      "researched_at": "2026-08-05T14:31:45.219194+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-12/machine-eater.md",
+      "researched_at": "2026-08-12T19:18:17.215133+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-08-05T14:31:45.219194+00:00"
@@ -12294,6 +12305,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/mooverse-d9cc7bd1": {
+      "first_seen": "2026-08-12T19:18:17.215133+00:00",
+      "issue_error": null,
+      "issue_number": 15,
+      "new_games_rank": 145,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-08-19T19:18:17.215133+00:00",
+        "2026-08-26T19:18:17.215133+00:00",
+        "2026-09-11T19:18:17.215133+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-12/mooverse-d9cc7bd1.md",
+      "researched_at": "2026-08-12T19:18:17.215133+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-08-12T19:18:17.215133+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/mophead-dash": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -14352,17 +14386,16 @@
     "https://poki.com/en/g/police-simulator-3d": {
       "first_seen": "2026-08-05T14:31:45.219194+00:00",
       "issue_error": null,
-      "issue_number": 3,
+      "issue_number": 15,
       "new_games_rank": 143,
       "notification_pending": false,
       "recheck_at": [
-        "2026-08-12T14:31:45.219194+00:00",
         "2026-08-19T14:31:45.219194+00:00",
         "2026-09-04T14:31:45.219194+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-05/police-simulator-3d.md",
-      "researched_at": "2026-08-05T14:31:45.219194+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-12/police-simulator-3d.md",
+      "researched_at": "2026-08-12T19:18:17.215133+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-08-05T14:31:45.219194+00:00"
@@ -16894,17 +16927,13 @@
     "https://poki.com/en/g/snake-island": {
       "first_seen": "2026-08-05T14:31:45.219194+00:00",
       "issue_error": null,
-      "issue_number": 3,
+      "issue_number": 15,
       "new_games_rank": 146,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-08-12T14:31:45.219194+00:00",
-        "2026-08-19T14:31:45.219194+00:00",
-        "2026-09-04T14:31:45.219194+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-05/snake-island.md",
-      "researched_at": "2026-08-05T14:31:45.219194+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-12/snake-island.md",
+      "researched_at": "2026-08-12T19:18:17.215133+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-08-05T14:31:45.219194+00:00"
@@ -19010,17 +19039,16 @@
     "https://poki.com/en/g/swat-squad-tactics": {
       "first_seen": "2026-08-05T14:31:45.219194+00:00",
       "issue_error": null,
-      "issue_number": 3,
+      "issue_number": 15,
       "new_games_rank": 144,
       "notification_pending": false,
       "recheck_at": [
-        "2026-08-12T14:31:45.219194+00:00",
         "2026-08-19T14:31:45.219194+00:00",
         "2026-09-04T14:31:45.219194+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-05/swat-squad-tactics.md",
-      "researched_at": "2026-08-05T14:31:45.219194+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-12/swat-squad-tactics.md",
+      "researched_at": "2026-08-12T19:18:17.215133+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-08-05T14:31:45.219194+00:00"
