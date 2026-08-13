@@ -10489,17 +10489,13 @@
     "https://poki.com/en/g/knife-merge": {
       "first_seen": "2026-08-05T19:53:28.053081+00:00",
       "issue_error": null,
-      "issue_number": 5,
+      "issue_number": 16,
       "new_games_rank": null,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-08-12T19:53:28.053081+00:00",
-        "2026-08-19T19:53:28.053081+00:00",
-        "2026-09-04T19:53:28.053081+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-05/knife-merge.md",
-      "researched_at": "2026-08-05T19:53:28.053081+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-13/knife-merge.md",
+      "researched_at": "2026-08-13T02:45:24.439640+00:00",
       "retry_at": null,
       "source_first_seen": {
         "sitemap": "2026-08-05T19:53:28.053081+00:00"
@@ -19263,7 +19259,7 @@
     },
     "https://poki.com/en/g/tag": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
-      "new_games_rank": 3,
+      "new_games_rank": 2,
       "recheck_at": [],
       "recheck_plan_started": false,
       "retry_at": null,
