@@ -16723,17 +16723,16 @@
     "https://poki.com/en/g/sliceblock": {
       "first_seen": "2026-08-10T19:15:10.933642+00:00",
       "issue_error": null,
-      "issue_number": 10,
+      "issue_number": 21,
       "new_games_rank": 144,
       "notification_pending": false,
       "recheck_at": [
-        "2026-08-17T19:15:10.933642+00:00",
         "2026-08-24T19:15:10.933642+00:00",
         "2026-09-09T19:15:10.933642+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-10/sliceblock.md",
-      "researched_at": "2026-08-10T19:15:10.933642+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-18/sliceblock.md",
+      "researched_at": "2026-08-18T01:49:30.692042+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-08-10T19:15:10.933642+00:00"
