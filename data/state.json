@@ -21471,6 +21471,25 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/witch-and-prince": {
+      "first_seen": "2026-08-18T18:54:58.655355+00:00",
+      "issue_error": null,
+      "issue_number": 23,
+      "new_games_rank": 142,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-18/witch-and-prince.md",
+      "researched_at": "2026-08-18T18:54:58.655355+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-08-18T18:54:58.655355+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/wonder-high-dressup": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
