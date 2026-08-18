@@ -5301,6 +5301,25 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/dino-merge": {
+      "first_seen": "2026-08-18T13:06:16.209673+00:00",
+      "issue_error": null,
+      "issue_number": 22,
+      "new_games_rank": null,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-18/dino-merge.md",
+      "researched_at": "2026-08-18T13:06:16.209673+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "sitemap": "2026-08-18T13:06:16.209673+00:00"
+      },
+      "sources": [
+        "sitemap"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/dino-miner": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -8423,16 +8442,13 @@
     "https://poki.com/en/g/gobattle2": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "issue_error": null,
-      "issue_number": 11,
+      "issue_number": 22,
       "new_games_rank": 1,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-08-18T09:33:02.886697+00:00",
-        "2026-09-03T09:33:02.886697+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-11/gobattle2.md",
-      "researched_at": "2026-08-11T13:40:58.659038+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-18/gobattle2.md",
+      "researched_at": "2026-08-18T13:06:16.209673+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-08-04T09:33:02.886697+00:00",
@@ -11615,7 +11631,7 @@
     },
     "https://poki.com/en/g/master-chess": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
-      "new_games_rank": 3,
+      "new_games_rank": 2,
       "recheck_at": [],
       "recheck_plan_started": false,
       "retry_at": null,
@@ -12230,14 +12246,16 @@
     },
     "https://poki.com/en/g/moms-diary-cooking-games": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
-      "new_games_rank": null,
+      "new_games_rank": 13,
       "recheck_at": [],
       "recheck_plan_started": false,
       "retry_at": null,
       "source_first_seen": {
+        "new_games": "2026-08-18T13:06:16.209673+00:00",
         "sitemap": "2026-08-04T09:33:02.886697+00:00"
       },
       "sources": [
+        "new_games",
         "sitemap"
       ],
       "status": "baseline"
@@ -16942,14 +16960,16 @@
     },
     "https://poki.com/en/g/smash-karts": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
-      "new_games_rank": null,
+      "new_games_rank": 6,
       "recheck_at": [],
       "recheck_plan_started": false,
       "retry_at": null,
       "source_first_seen": {
+        "new_games": "2026-08-18T13:06:16.209673+00:00",
         "sitemap": "2026-08-04T09:33:02.886697+00:00"
       },
       "sources": [
+        "new_games",
         "sitemap"
       ],
       "status": "baseline"
