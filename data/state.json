@@ -1140,7 +1140,7 @@
       "first_seen": "2026-08-19T18:52:11.206567+00:00",
       "issue_error": null,
       "issue_number": 26,
-      "new_games_rank": 143,
+      "new_games_rank": 142,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
@@ -5960,14 +5960,16 @@
     },
     "https://poki.com/en/g/drive-mad": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
-      "new_games_rank": null,
+      "new_games_rank": 6,
       "recheck_at": [],
       "recheck_plan_started": false,
       "retry_at": null,
       "source_first_seen": {
+        "new_games": "2026-08-20T13:09:33.524138+00:00",
         "sitemap": "2026-08-04T09:33:02.886697+00:00"
       },
       "sources": [
+        "new_games",
         "sitemap"
       ],
       "status": "baseline"
@@ -21700,6 +21702,25 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/word-solitaire": {
+      "first_seen": "2026-08-20T13:09:33.524138+00:00",
+      "issue_error": null,
+      "issue_number": 28,
+      "new_games_rank": 144,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-20/word-solitaire.md",
+      "researched_at": "2026-08-20T13:09:33.524138+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-08-20T13:09:33.524138+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/words-emoji": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
