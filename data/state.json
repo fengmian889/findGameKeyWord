@@ -896,6 +896,25 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/arrow-parking": {
+      "first_seen": "2026-08-24T18:58:23.601902+00:00",
+      "issue_error": null,
+      "issue_number": 32,
+      "new_games_rank": 147,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-24/arrow-parking.md",
+      "researched_at": "2026-08-24T18:58:23.601902+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-08-24T18:58:23.601902+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/arrow-pathway": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -5585,14 +5604,16 @@
     },
     "https://poki.com/en/g/dogs-life": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
-      "new_games_rank": null,
+      "new_games_rank": 13,
       "recheck_at": [],
       "recheck_plan_started": false,
       "retry_at": null,
       "source_first_seen": {
+        "new_games": "2026-08-24T18:58:23.601902+00:00",
         "sitemap": "2026-08-04T09:33:02.886697+00:00"
       },
       "sources": [
+        "new_games",
         "sitemap"
       ],
       "status": "baseline"
@@ -5755,6 +5776,25 @@
       },
       "sources": [
         "sitemap"
+      ],
+      "status": "researched"
+    },
+    "https://poki.com/en/g/draw-me-legs": {
+      "first_seen": "2026-08-24T18:58:23.601902+00:00",
+      "issue_error": null,
+      "issue_number": 32,
+      "new_games_rank": 148,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-24/draw-me-legs.md",
+      "researched_at": "2026-08-24T18:58:23.601902+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-08-24T18:58:23.601902+00:00"
+      },
+      "sources": [
+        "new_games"
       ],
       "status": "researched"
     },
@@ -6173,6 +6213,25 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/dunk-dude": {
+      "first_seen": "2026-08-24T18:58:23.601902+00:00",
+      "issue_error": null,
+      "issue_number": 32,
+      "new_games_rank": 146,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-24/dunk-dude.md",
+      "researched_at": "2026-08-24T18:58:23.601902+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-08-24T18:58:23.601902+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/dunkbrush": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -7317,14 +7376,16 @@
     },
     "https://poki.com/en/g/flip-pounce": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
-      "new_games_rank": null,
+      "new_games_rank": 14,
       "recheck_at": [],
       "recheck_plan_started": false,
       "retry_at": null,
       "source_first_seen": {
+        "new_games": "2026-08-24T18:58:23.601902+00:00",
         "sitemap": "2026-08-04T09:33:02.886697+00:00"
       },
       "sources": [
+        "new_games",
         "sitemap"
       ],
       "status": "baseline"
@@ -8604,7 +8665,7 @@
     },
     "https://poki.com/en/g/goods-master": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
-      "new_games_rank": 145,
+      "new_games_rank": 17,
       "recheck_at": [],
       "recheck_plan_started": false,
       "retry_at": null,
@@ -9328,6 +9389,27 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/hole-io": {
+      "first_seen": "2026-08-24T18:58:23.601902+00:00",
+      "issue_error": null,
+      "issue_number": 30,
+      "new_games_rank": 142,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-24/hole-io.md",
+      "researched_at": "2026-08-24T18:58:23.601902+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-08-24T18:58:23.601902+00:00",
+        "sitemap": "2026-08-24T18:58:23.601902+00:00"
+      },
+      "sources": [
+        "new_games",
+        "sitemap"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/home-builder-clicker": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -12204,6 +12286,25 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/mini-gp-racers": {
+      "first_seen": "2026-08-24T18:58:23.601902+00:00",
+      "issue_error": null,
+      "issue_number": 32,
+      "new_games_rank": 145,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-24/mini-gp-racers.md",
+      "researched_at": "2026-08-24T18:58:23.601902+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-08-24T18:58:23.601902+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/mini-train": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -13551,6 +13652,25 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/pando-mystery-mine": {
+      "first_seen": "2026-08-24T18:58:23.601902+00:00",
+      "issue_error": null,
+      "issue_number": 32,
+      "new_games_rank": 144,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-24/pando-mystery-mine.md",
+      "researched_at": "2026-08-24T18:58:23.601902+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-08-24T18:58:23.601902+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/papa-cherry-saga": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -14062,14 +14182,16 @@
     },
     "https://poki.com/en/g/perfect-shape": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
-      "new_games_rank": null,
+      "new_games_rank": 15,
       "recheck_at": [],
       "recheck_plan_started": false,
       "retry_at": null,
       "source_first_seen": {
+        "new_games": "2026-08-24T18:58:23.601902+00:00",
         "sitemap": "2026-08-04T09:33:02.886697+00:00"
       },
       "sources": [
+        "new_games",
         "sitemap"
       ],
       "status": "baseline"
@@ -14097,7 +14219,7 @@
       "first_seen": "2026-08-13T19:18:51.087955+00:00",
       "issue_error": null,
       "issue_number": 18,
-      "new_games_rank": 142,
+      "new_games_rank": 16,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
@@ -17860,6 +17982,25 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/steal-pet": {
+      "first_seen": "2026-08-24T18:58:23.601902+00:00",
+      "issue_error": null,
+      "issue_number": 31,
+      "new_games_rank": 143,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-24/steal-pet.md",
+      "researched_at": "2026-08-24T18:58:23.601902+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-08-24T18:58:23.601902+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/stealing-the-diamond": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
