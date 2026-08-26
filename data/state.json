@@ -12612,23 +12612,23 @@
       "first_seen": "2026-08-12T19:18:17.215133+00:00",
       "issue_error": null,
       "issue_number": 27,
+      "last_error": "404 Client Error: Not Found for url: https://poki.com/en/g/mooverse-d9cc7bd1",
       "new_games_rank": 145,
       "notification_pending": false,
       "recheck_at": [
-        "2026-08-26T19:18:17.215133+00:00",
         "2026-09-11T19:18:17.215133+00:00"
       ],
       "recheck_plan_started": true,
       "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-20/mooverse-d9cc7bd1.md",
       "researched_at": "2026-08-20T01:50:34.871894+00:00",
-      "retry_at": null,
+      "retry_at": "2026-08-27T20:01:48.348765+00:00",
       "source_first_seen": {
         "new_games": "2026-08-12T19:18:17.215133+00:00"
       },
       "sources": [
         "new_games"
       ],
-      "status": "researched"
+      "status": "retry"
     },
     "https://poki.com/en/g/mophead-dash": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
