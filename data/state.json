@@ -2513,6 +2513,31 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/brainrot-miner": {
+      "first_seen": "2026-08-27T22:14:40.039201+00:00",
+      "issue_error": null,
+      "issue_number": 36,
+      "new_games_rank": 145,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-03T22:14:40.039201+00:00",
+        "2026-09-10T22:14:40.039201+00:00",
+        "2026-09-26T22:14:40.039201+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-27/brainrot-miner.md",
+      "researched_at": "2026-08-27T22:14:40.039201+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-08-27T22:14:40.039201+00:00",
+        "sitemap": "2026-08-27T22:14:40.039201+00:00"
+      },
+      "sources": [
+        "new_games",
+        "sitemap"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/brainrot-puzzle": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -6872,7 +6897,7 @@
       "first_seen": "2026-08-04T19:55:22.841089+00:00",
       "issue_error": null,
       "issue_number": 2,
-      "new_games_rank": null,
+      "new_games_rank": 15,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": true,
@@ -6880,9 +6905,11 @@
       "researched_at": "2026-08-12T02:42:26.864151+00:00",
       "retry_at": null,
       "source_first_seen": {
+        "new_games": "2026-08-27T22:14:40.039201+00:00",
         "sitemap": "2026-08-04T19:55:22.841089+00:00"
       },
       "sources": [
+        "new_games",
         "sitemap"
       ],
       "status": "researched"
@@ -10691,6 +10718,25 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/kitty-sort": {
+      "first_seen": "2026-08-27T22:14:40.039201+00:00",
+      "issue_error": null,
+      "issue_number": 36,
+      "new_games_rank": 143,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-27/kitty-sort.md",
+      "researched_at": "2026-08-27T22:14:40.039201+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-08-27T22:14:40.039201+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/kiwi-clicker": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -12621,7 +12667,7 @@
       "recheck_plan_started": true,
       "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-20/mooverse-d9cc7bd1.md",
       "researched_at": "2026-08-20T01:50:34.871894+00:00",
-      "retry_at": "2026-08-27T20:01:48.348765+00:00",
+      "retry_at": "2026-08-28T22:14:40.039201+00:00",
       "source_first_seen": {
         "new_games": "2026-08-12T19:18:17.215133+00:00"
       },
@@ -17637,7 +17683,7 @@
       "first_seen": "2026-08-19T13:07:32.421455+00:00",
       "issue_error": null,
       "issue_number": 35,
-      "new_games_rank": 144,
+      "new_games_rank": 14,
       "notification_pending": false,
       "recheck_at": [
         "2026-09-02T13:07:32.421455+00:00",
@@ -18842,6 +18888,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/strideflare": {
+      "first_seen": "2026-08-27T22:14:40.039201+00:00",
+      "issue_error": null,
+      "issue_number": 36,
+      "new_games_rank": 144,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-03T22:14:40.039201+00:00",
+        "2026-09-10T22:14:40.039201+00:00",
+        "2026-09-26T22:14:40.039201+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-27/strideflare.md",
+      "researched_at": "2026-08-27T22:14:40.039201+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-08-27T22:14:40.039201+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/string-theory-remastered": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -19231,7 +19300,7 @@
     },
     "https://poki.com/en/g/super-dress": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
-      "new_games_rank": 143,
+      "new_games_rank": 13,
       "recheck_at": [],
       "recheck_plan_started": false,
       "retry_at": null,
