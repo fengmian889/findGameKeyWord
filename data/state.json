@@ -1048,14 +1048,16 @@
     },
     "https://poki.com/en/g/backrooms-recovery": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
-      "new_games_rank": null,
+      "new_games_rank": 14,
       "recheck_at": [],
       "recheck_plan_started": false,
       "retry_at": null,
       "source_first_seen": {
+        "new_games": "2026-08-30T05:21:39.459073+00:00",
         "sitemap": "2026-08-04T09:33:02.886697+00:00"
       },
       "sources": [
+        "new_games",
         "sitemap"
       ],
       "status": "baseline"
@@ -4959,14 +4961,16 @@
     },
     "https://poki.com/en/g/cuboy-adventure": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
-      "new_games_rank": null,
+      "new_games_rank": 13,
       "recheck_at": [],
       "recheck_plan_started": false,
       "retry_at": null,
       "source_first_seen": {
+        "new_games": "2026-08-30T05:21:39.459073+00:00",
         "sitemap": "2026-08-04T09:33:02.886697+00:00"
       },
       "sources": [
+        "new_games",
         "sitemap"
       ],
       "status": "baseline"
@@ -11403,7 +11407,7 @@
     },
     "https://poki.com/en/g/ludo-king": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
-      "new_games_rank": 133,
+      "new_games_rank": 5,
       "recheck_at": [],
       "recheck_plan_started": false,
       "retry_at": null,
@@ -12667,7 +12671,7 @@
       "recheck_plan_started": true,
       "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-20/mooverse-d9cc7bd1.md",
       "researched_at": "2026-08-20T01:50:34.871894+00:00",
-      "retry_at": "2026-08-29T22:17:05.569731+00:00",
+      "retry_at": "2026-08-31T05:21:39.459073+00:00",
       "source_first_seen": {
         "new_games": "2026-08-12T19:18:17.215133+00:00"
       },
