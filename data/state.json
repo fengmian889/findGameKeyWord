@@ -633,6 +633,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/almanak": {
+      "first_seen": "2026-08-31T13:44:12.593243+00:00",
+      "issue_error": null,
+      "issue_number": 38,
+      "new_games_rank": 150,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-07T13:44:12.593243+00:00",
+        "2026-09-14T13:44:12.593243+00:00",
+        "2026-09-30T13:44:12.593243+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-31/almanak.md",
+      "researched_at": "2026-08-31T13:44:12.593243+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-08-31T13:44:12.593243+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/amazon-spider-solitaire": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -2204,6 +2227,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/bottle-shooting-c3a6e132": {
+      "first_seen": "2026-08-31T13:44:12.593243+00:00",
+      "issue_error": null,
+      "issue_number": 38,
+      "new_games_rank": 144,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-07T13:44:12.593243+00:00",
+        "2026-09-14T13:44:12.593243+00:00",
+        "2026-09-30T13:44:12.593243+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-31/bottle-shooting-c3a6e132.md",
+      "researched_at": "2026-08-31T13:44:12.593243+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-08-31T13:44:12.593243+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/bounce-ball": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -7464,6 +7510,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/flip-match": {
+      "first_seen": "2026-08-31T13:44:12.593243+00:00",
+      "issue_error": null,
+      "issue_number": 38,
+      "new_games_rank": 145,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-07T13:44:12.593243+00:00",
+        "2026-09-14T13:44:12.593243+00:00",
+        "2026-09-30T13:44:12.593243+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-31/flip-match.md",
+      "researched_at": "2026-08-31T13:44:12.593243+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-08-31T13:44:12.593243+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/flip-pounce": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": 14,
@@ -9007,6 +9076,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/guardians-of-the-tower": {
+      "first_seen": "2026-08-31T13:44:12.593243+00:00",
+      "issue_error": null,
+      "issue_number": 38,
+      "new_games_rank": 149,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-07T13:44:12.593243+00:00",
+        "2026-09-14T13:44:12.593243+00:00",
+        "2026-09-30T13:44:12.593243+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-31/guardians-of-the-tower.md",
+      "researched_at": "2026-08-31T13:44:12.593243+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-08-31T13:44:12.593243+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/guess-the-emojis": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -10004,6 +10096,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/incremental-racing": {
+      "first_seen": "2026-08-31T13:44:12.593243+00:00",
+      "issue_error": null,
+      "issue_number": 38,
+      "new_games_rank": 142,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-07T13:44:12.593243+00:00",
+        "2026-09-14T13:44:12.593243+00:00",
+        "2026-09-30T13:44:12.593243+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-31/incremental-racing.md",
+      "researched_at": "2026-08-31T13:44:12.593243+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-08-31T13:44:12.593243+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/infiltrating-the-airship": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -10474,6 +10589,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/just-right": {
+      "first_seen": "2026-08-31T13:44:12.593243+00:00",
+      "issue_error": null,
+      "issue_number": 38,
+      "new_games_rank": 148,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-07T13:44:12.593243+00:00",
+        "2026-09-14T13:44:12.593243+00:00",
+        "2026-09-30T13:44:12.593243+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-31/just-right.md",
+      "researched_at": "2026-08-31T13:44:12.593243+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-08-31T13:44:12.593243+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/karakuri": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -14637,6 +14775,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/pixellent": {
+      "first_seen": "2026-08-31T13:44:12.593243+00:00",
+      "issue_error": null,
+      "issue_number": 38,
+      "new_games_rank": 143,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-07T13:44:12.593243+00:00",
+        "2026-09-14T13:44:12.593243+00:00",
+        "2026-09-30T13:44:12.593243+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-31/pixellent.md",
+      "researched_at": "2026-08-31T13:44:12.593243+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-08-31T13:44:12.593243+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/pixwars-2": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -19905,6 +20066,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/sword-legends": {
+      "first_seen": "2026-08-31T13:44:12.593243+00:00",
+      "issue_error": null,
+      "issue_number": 38,
+      "new_games_rank": null,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-07T13:44:12.593243+00:00",
+        "2026-09-14T13:44:12.593243+00:00",
+        "2026-09-30T13:44:12.593243+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-31/sword-legends.md",
+      "researched_at": "2026-08-31T13:44:12.593243+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "sitemap": "2026-08-31T13:44:12.593243+00:00"
+      },
+      "sources": [
+        "sitemap"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/sword-masters": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -21820,6 +22004,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/war-race": {
+      "first_seen": "2026-08-31T13:44:12.593243+00:00",
+      "issue_error": null,
+      "issue_number": 38,
+      "new_games_rank": 147,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-07T13:44:12.593243+00:00",
+        "2026-09-14T13:44:12.593243+00:00",
+        "2026-09-30T13:44:12.593243+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-31/war-race.md",
+      "researched_at": "2026-08-31T13:44:12.593243+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-08-31T13:44:12.593243+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/warbrokers-io": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
