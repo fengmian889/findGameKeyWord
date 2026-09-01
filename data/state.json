@@ -3802,7 +3802,7 @@
     },
     "https://poki.com/en/g/chick-flix": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
-      "new_games_rank": 152,
+      "new_games_rank": 13,
       "recheck_at": [],
       "recheck_plan_started": false,
       "retry_at": null,
@@ -12834,7 +12834,7 @@
       "recheck_plan_started": true,
       "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-20/mooverse-d9cc7bd1.md",
       "researched_at": "2026-08-20T01:50:34.871894+00:00",
-      "retry_at": "2026-09-01T05:30:12.508894+00:00",
+      "retry_at": "2026-09-02T11:36:24.013906+00:00",
       "source_first_seen": {
         "new_games": "2026-08-12T19:18:17.215133+00:00"
       },
@@ -14278,7 +14278,7 @@
       "first_seen": "2026-08-04T19:55:22.841089+00:00",
       "issue_error": null,
       "issue_number": 2,
-      "new_games_rank": 6,
+      "new_games_rank": 5,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": true,
