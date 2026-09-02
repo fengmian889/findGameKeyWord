@@ -1781,6 +1781,21 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/blockcraft": {
+      "first_seen": "2026-09-02T16:32:49.998833+00:00",
+      "last_error": "missing h1",
+      "new_games_rank": 142,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "retry_at": "2026-09-03T16:32:49.998833+00:00",
+      "source_first_seen": {
+        "new_games": "2026-09-02T16:32:49.998833+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "retry"
+    },
     "https://poki.com/en/g/blockheads": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -2588,7 +2603,7 @@
       "first_seen": "2026-08-27T22:14:40.039201+00:00",
       "issue_error": null,
       "issue_number": 36,
-      "new_games_rank": 145,
+      "new_games_rank": 144,
       "notification_pending": false,
       "recheck_at": [
         "2026-09-03T22:14:40.039201+00:00",
@@ -12881,7 +12896,7 @@
       "recheck_plan_started": true,
       "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-20/mooverse-d9cc7bd1.md",
       "researched_at": "2026-08-20T01:50:34.871894+00:00",
-      "retry_at": "2026-09-02T11:36:24.013906+00:00",
+      "retry_at": "2026-09-03T16:32:49.998833+00:00",
       "source_first_seen": {
         "new_games": "2026-08-12T19:18:17.215133+00:00"
       },
@@ -13634,17 +13649,16 @@
     "https://poki.com/en/g/nsr-street-car-racing": {
       "first_seen": "2026-08-26T13:14:52.945850+00:00",
       "issue_error": null,
-      "issue_number": 35,
+      "issue_number": 42,
       "new_games_rank": null,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-02T13:14:52.945850+00:00",
         "2026-09-09T13:14:52.945850+00:00",
         "2026-09-25T13:14:52.945850+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-26/nsr-street-car-racing.md",
-      "researched_at": "2026-08-26T13:14:52.945850+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-02/nsr-street-car-racing.md",
+      "researched_at": "2026-09-02T16:32:49.998833+00:00",
       "retry_at": null,
       "source_first_seen": {
         "sitemap": "2026-08-26T13:14:52.945850+00:00"
@@ -15774,14 +15788,16 @@
     },
     "https://poki.com/en/g/ragdoll-chaos": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
-      "new_games_rank": null,
+      "new_games_rank": 13,
       "recheck_at": [],
       "recheck_plan_started": false,
       "retry_at": null,
       "source_first_seen": {
+        "new_games": "2026-09-02T16:32:49.998833+00:00",
         "sitemap": "2026-08-04T09:33:02.886697+00:00"
       },
       "sources": [
+        "new_games",
         "sitemap"
       ],
       "status": "baseline"
@@ -15929,6 +15945,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/real-bike-driving": {
+      "first_seen": "2026-09-02T16:32:49.998833+00:00",
+      "issue_error": null,
+      "issue_number": 42,
+      "new_games_rank": 143,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-09T16:32:49.998833+00:00",
+        "2026-09-16T16:32:49.998833+00:00",
+        "2026-10-02T16:32:49.998833+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-02/real-bike-driving.md",
+      "researched_at": "2026-09-02T16:32:49.998833+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-02T16:32:49.998833+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/real-cars-in-city": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -17963,16 +18002,15 @@
     "https://poki.com/en/g/snow-train-odyssey": {
       "first_seen": "2026-08-19T13:07:32.421455+00:00",
       "issue_error": null,
-      "issue_number": 35,
+      "issue_number": 42,
       "new_games_rank": 14,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-02T13:07:32.421455+00:00",
         "2026-09-18T13:07:32.421455+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-26/snow-train-odyssey.md",
-      "researched_at": "2026-08-26T13:14:52.945850+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-02/snow-train-odyssey.md",
+      "researched_at": "2026-09-02T16:32:49.998833+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-08-19T13:07:32.421455+00:00",
@@ -19380,7 +19418,7 @@
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "issue_error": null,
       "issue_number": 11,
-      "new_games_rank": 2,
+      "new_games_rank": 1,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": true,
