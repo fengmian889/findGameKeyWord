@@ -2602,17 +2602,16 @@
     "https://poki.com/en/g/brainrot-miner": {
       "first_seen": "2026-08-27T22:14:40.039201+00:00",
       "issue_error": null,
-      "issue_number": 36,
+      "issue_number": 45,
       "new_games_rank": 144,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-03T22:14:40.039201+00:00",
         "2026-09-10T22:14:40.039201+00:00",
         "2026-09-26T22:14:40.039201+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-27/brainrot-miner.md",
-      "researched_at": "2026-08-27T22:14:40.039201+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-04/brainrot-miner.md",
+      "researched_at": "2026-09-04T04:28:38.302032+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-08-27T22:14:40.039201+00:00",
@@ -16912,14 +16911,16 @@
     },
     "https://poki.com/en/g/scary-teacher-3d": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
-      "new_games_rank": null,
+      "new_games_rank": 6,
       "recheck_at": [],
       "recheck_plan_started": false,
       "retry_at": null,
       "source_first_seen": {
+        "new_games": "2026-09-04T04:28:38.302032+00:00",
         "sitemap": "2026-08-04T09:33:02.886697+00:00"
       },
       "sources": [
+        "new_games",
         "sitemap"
       ],
       "status": "baseline"
@@ -19260,17 +19261,16 @@
     "https://poki.com/en/g/strideflare": {
       "first_seen": "2026-08-27T22:14:40.039201+00:00",
       "issue_error": null,
-      "issue_number": 36,
+      "issue_number": 45,
       "new_games_rank": 144,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-03T22:14:40.039201+00:00",
         "2026-09-10T22:14:40.039201+00:00",
         "2026-09-26T22:14:40.039201+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-27/strideflare.md",
-      "researched_at": "2026-08-27T22:14:40.039201+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-04/strideflare.md",
+      "researched_at": "2026-09-04T04:28:38.302032+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-08-27T22:14:40.039201+00:00"
