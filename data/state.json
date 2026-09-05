@@ -1787,7 +1787,7 @@
       "new_games_rank": 142,
       "recheck_at": [],
       "recheck_plan_started": false,
-      "retry_at": "2026-09-04T21:00:34.052911+00:00",
+      "retry_at": "2026-09-06T04:23:49.331626+00:00",
       "source_first_seen": {
         "new_games": "2026-09-02T16:32:49.998833+00:00"
       },
@@ -12201,7 +12201,7 @@
     },
     "https://poki.com/en/g/master-chess": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
-      "new_games_rank": 2,
+      "new_games_rank": 1,
       "recheck_at": [],
       "recheck_plan_started": false,
       "retry_at": null,
@@ -12983,7 +12983,7 @@
       "recheck_plan_started": true,
       "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-20/mooverse-d9cc7bd1.md",
       "researched_at": "2026-08-20T01:50:34.871894+00:00",
-      "retry_at": "2026-09-04T21:00:34.052911+00:00",
+      "retry_at": "2026-09-06T04:23:49.331626+00:00",
       "source_first_seen": {
         "new_games": "2026-08-12T19:18:17.215133+00:00"
       },
@@ -17772,13 +17772,12 @@
       "new_games_rank": null,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-04T22:17:05.569731+00:00",
         "2026-09-11T22:17:05.569731+00:00",
         "2026-09-27T22:17:05.569731+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-28/sling-star-kick.md",
-      "researched_at": "2026-08-28T22:17:05.569731+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-05/sling-star-kick.md",
+      "researched_at": "2026-09-05T04:23:49.331626+00:00",
       "retry_at": null,
       "source_first_seen": {
         "sitemap": "2026-08-28T22:17:05.569731+00:00"
@@ -20675,14 +20674,10 @@
       "issue_number": 37,
       "new_games_rank": 143,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-09-04T22:17:05.569731+00:00",
-        "2026-09-11T22:17:05.569731+00:00",
-        "2026-09-27T22:17:05.569731+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-28/tenfall.md",
-      "researched_at": "2026-08-28T22:17:05.569731+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-05/tenfall.md",
+      "researched_at": "2026-09-05T04:23:49.331626+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-08-28T22:17:05.569731+00:00"
@@ -22706,14 +22701,10 @@
       "issue_number": 37,
       "new_games_rank": 145,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-09-04T22:17:05.569731+00:00",
-        "2026-09-11T22:17:05.569731+00:00",
-        "2026-09-27T22:17:05.569731+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-28/words-queen.md",
-      "researched_at": "2026-08-28T22:17:05.569731+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-05/words-queen.md",
+      "researched_at": "2026-09-05T04:23:49.331626+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-08-28T22:17:05.569731+00:00"
