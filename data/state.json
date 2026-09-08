@@ -636,17 +636,13 @@
     "https://poki.com/en/g/almanak": {
       "first_seen": "2026-08-31T13:44:12.593243+00:00",
       "issue_error": null,
-      "issue_number": 38,
+      "issue_number": 51,
       "new_games_rank": 150,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-09-07T13:44:12.593243+00:00",
-        "2026-09-14T13:44:12.593243+00:00",
-        "2026-09-30T13:44:12.593243+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-31/almanak.md",
-      "researched_at": "2026-08-31T13:44:12.593243+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-08/almanak.md",
+      "researched_at": "2026-09-08T04:31:38.342953+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-08-31T13:44:12.593243+00:00"
@@ -1465,17 +1461,13 @@
     "https://poki.com/en/g/beauty-superstar": {
       "first_seen": "2026-08-31T22:48:44.845725+00:00",
       "issue_error": null,
-      "issue_number": 39,
+      "issue_number": 51,
       "new_games_rank": null,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-09-07T22:48:44.845725+00:00",
-        "2026-09-14T22:48:44.845725+00:00",
-        "2026-09-30T22:48:44.845725+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-31/beauty-superstar.md",
-      "researched_at": "2026-08-31T22:48:44.845725+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-08/beauty-superstar.md",
+      "researched_at": "2026-09-08T04:31:38.342953+00:00",
       "retry_at": null,
       "source_first_seen": {
         "sitemap": "2026-08-31T22:48:44.845725+00:00"
@@ -2271,17 +2263,13 @@
     "https://poki.com/en/g/bottle-shooting-c3a6e132": {
       "first_seen": "2026-08-31T13:44:12.593243+00:00",
       "issue_error": null,
-      "issue_number": 38,
+      "issue_number": 51,
       "new_games_rank": 144,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-09-07T13:44:12.593243+00:00",
-        "2026-09-14T13:44:12.593243+00:00",
-        "2026-09-30T13:44:12.593243+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-31/bottle-shooting-c3a6e132.md",
-      "researched_at": "2026-08-31T13:44:12.593243+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-08/bottle-shooting-c3a6e132.md",
+      "researched_at": "2026-09-08T04:31:38.342953+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-08-31T13:44:12.593243+00:00"
@@ -2916,9 +2904,14 @@
     },
     "https://poki.com/en/g/build-a-bud": {
       "first_seen": "2026-09-07T21:29:36.795162+00:00",
-      "new_games_rank": 154,
+      "issue_error": null,
+      "issue_number": 51,
+      "new_games_rank": 153,
+      "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-08/build-a-bud.md",
+      "researched_at": "2026-09-08T04:31:38.342953+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-07T21:29:36.795162+00:00",
@@ -2928,7 +2921,7 @@
         "new_games",
         "sitemap"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/build-league": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -3226,7 +3219,7 @@
       "first_seen": "2026-09-07T21:29:36.795162+00:00",
       "issue_error": null,
       "issue_number": 50,
-      "new_games_rank": 152,
+      "new_games_rank": 151,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
@@ -3359,7 +3352,7 @@
       "first_seen": "2026-09-07T21:29:36.795162+00:00",
       "issue_error": null,
       "issue_number": 50,
-      "new_games_rank": 153,
+      "new_games_rank": 152,
       "notification_pending": false,
       "recheck_at": [
         "2026-09-14T21:29:36.795162+00:00",
@@ -4399,7 +4392,7 @@
       "first_seen": "2026-09-07T21:29:36.795162+00:00",
       "issue_error": null,
       "issue_number": 50,
-      "new_games_rank": 146,
+      "new_games_rank": 145,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
@@ -5764,7 +5757,7 @@
       "first_seen": "2026-09-07T21:29:36.795162+00:00",
       "issue_error": null,
       "issue_number": 50,
-      "new_games_rank": 143,
+      "new_games_rank": 142,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
@@ -6217,9 +6210,14 @@
     },
     "https://poki.com/en/g/dress-up-duck": {
       "first_seen": "2026-09-07T21:29:36.795162+00:00",
-      "new_games_rank": 156,
+      "issue_error": null,
+      "issue_number": 51,
+      "new_games_rank": 155,
+      "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-08/dress-up-duck.md",
+      "researched_at": "2026-09-08T04:31:38.342953+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-07T21:29:36.795162+00:00",
@@ -6229,7 +6227,7 @@
         "new_games",
         "sitemap"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/dress-up-party": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -7752,17 +7750,13 @@
     "https://poki.com/en/g/flip-match": {
       "first_seen": "2026-08-31T13:44:12.593243+00:00",
       "issue_error": null,
-      "issue_number": 38,
+      "issue_number": 51,
       "new_games_rank": 145,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-09-07T13:44:12.593243+00:00",
-        "2026-09-14T13:44:12.593243+00:00",
-        "2026-09-30T13:44:12.593243+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-31/flip-match.md",
-      "researched_at": "2026-08-31T13:44:12.593243+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-08/flip-match.md",
+      "researched_at": "2026-09-08T04:31:38.342953+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-08-31T13:44:12.593243+00:00"
@@ -8002,7 +7996,7 @@
       "first_seen": "2026-09-07T21:29:36.795162+00:00",
       "issue_error": null,
       "issue_number": 49,
-      "new_games_rank": 148,
+      "new_games_rank": 147,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
@@ -9151,7 +9145,7 @@
       "first_seen": "2026-09-07T21:29:36.795162+00:00",
       "issue_error": null,
       "issue_number": 50,
-      "new_games_rank": 145,
+      "new_games_rank": 144,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
@@ -9379,17 +9373,13 @@
     "https://poki.com/en/g/guardians-of-the-tower": {
       "first_seen": "2026-08-31T13:44:12.593243+00:00",
       "issue_error": null,
-      "issue_number": 38,
+      "issue_number": 51,
       "new_games_rank": 149,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-09-07T13:44:12.593243+00:00",
-        "2026-09-14T13:44:12.593243+00:00",
-        "2026-09-30T13:44:12.593243+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-31/guardians-of-the-tower.md",
-      "researched_at": "2026-08-31T13:44:12.593243+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-08/guardians-of-the-tower.md",
+      "researched_at": "2026-09-08T04:31:38.342953+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-08-31T13:44:12.593243+00:00"
@@ -11463,7 +11453,7 @@
       "first_seen": "2026-09-07T21:29:36.795162+00:00",
       "issue_error": null,
       "issue_number": 50,
-      "new_games_rank": 149,
+      "new_games_rank": 148,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
@@ -12449,9 +12439,18 @@
     },
     "https://poki.com/en/g/matrushka-merge": {
       "first_seen": "2026-09-07T21:29:36.795162+00:00",
-      "new_games_rank": 157,
-      "recheck_at": [],
-      "recheck_plan_started": false,
+      "issue_error": null,
+      "issue_number": 51,
+      "new_games_rank": 156,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-15T04:31:38.342953+00:00",
+        "2026-09-22T04:31:38.342953+00:00",
+        "2026-10-08T04:31:38.342953+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-08/matrushka-merge.md",
+      "researched_at": "2026-09-08T04:31:38.342953+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-07T21:29:36.795162+00:00"
@@ -12459,7 +12458,7 @@
       "sources": [
         "new_games"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/max-and-mink": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -13157,9 +13156,18 @@
     },
     "https://poki.com/en/g/moorko": {
       "first_seen": "2026-09-07T21:29:36.795162+00:00",
-      "new_games_rank": 155,
-      "recheck_at": [],
-      "recheck_plan_started": false,
+      "issue_error": null,
+      "issue_number": 51,
+      "new_games_rank": 154,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-15T04:31:38.342953+00:00",
+        "2026-09-22T04:31:38.342953+00:00",
+        "2026-10-08T04:31:38.342953+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-08/moorko.md",
+      "researched_at": "2026-09-08T04:31:38.342953+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-07T21:29:36.795162+00:00"
@@ -13167,7 +13175,7 @@
       "sources": [
         "new_games"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/mooverse-d9cc7bd1": {
       "first_seen": "2026-08-12T19:18:17.215133+00:00",
@@ -14051,7 +14059,7 @@
       "first_seen": "2026-09-07T21:29:36.795162+00:00",
       "issue_error": null,
       "issue_number": 50,
-      "new_games_rank": 147,
+      "new_games_rank": 146,
       "notification_pending": false,
       "recheck_at": [
         "2026-09-14T21:29:36.795162+00:00",
@@ -14172,7 +14180,7 @@
       "first_seen": "2026-09-07T21:29:36.795162+00:00",
       "issue_error": null,
       "issue_number": 50,
-      "new_games_rank": 144,
+      "new_games_rank": 143,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
@@ -17889,7 +17897,7 @@
     },
     "https://poki.com/en/g/slime-keyboard-escape": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
-      "new_games_rank": 13,
+      "new_games_rank": 6,
       "recheck_at": [],
       "recheck_plan_started": false,
       "retry_at": null,
@@ -21710,7 +21718,7 @@
       "first_seen": "2026-09-07T21:29:36.795162+00:00",
       "issue_error": null,
       "issue_number": 50,
-      "new_games_rank": 150,
+      "new_games_rank": 149,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
@@ -21773,9 +21781,14 @@
     },
     "https://poki.com/en/g/treasure-island": {
       "first_seen": "2026-09-07T21:29:36.795162+00:00",
-      "new_games_rank": 160,
+      "issue_error": null,
+      "issue_number": 51,
+      "new_games_rank": 159,
+      "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-08/treasure-island.md",
+      "researched_at": "2026-09-08T04:31:38.342953+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-07T21:29:36.795162+00:00"
@@ -21783,7 +21796,7 @@
       "sources": [
         "new_games"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/tree-house-maker": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
