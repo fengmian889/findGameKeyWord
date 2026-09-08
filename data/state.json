@@ -1645,6 +1645,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/blab-stealth": {
+      "first_seen": "2026-09-08T16:36:23.337649+00:00",
+      "issue_error": null,
+      "issue_number": 53,
+      "new_games_rank": 143,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-15T16:36:23.337649+00:00",
+        "2026-09-22T16:36:23.337649+00:00",
+        "2026-10-08T16:36:23.337649+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-08/blab-stealth.md",
+      "researched_at": "2026-09-08T16:36:23.337649+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-08T16:36:23.337649+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/black-html5": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -4039,6 +4062,25 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/city-taxi-simulator": {
+      "first_seen": "2026-09-08T16:36:23.337649+00:00",
+      "issue_error": null,
+      "issue_number": 53,
+      "new_games_rank": 145,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-08/city-taxi-simulator.md",
+      "researched_at": "2026-09-08T16:36:23.337649+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-08T16:36:23.337649+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/clash-of-armour": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -4201,6 +4243,25 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/clean-slate": {
+      "first_seen": "2026-09-08T16:36:23.337649+00:00",
+      "issue_error": null,
+      "issue_number": 53,
+      "new_games_rank": 144,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-08/clean-slate.md",
+      "researched_at": "2026-09-08T16:36:23.337649+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-08T16:36:23.337649+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/clean-the-roof": {
       "first_seen": "2026-09-02T21:01:10.094149+00:00",
@@ -8692,6 +8753,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/galaxy-merge-starships-wars": {
+      "first_seen": "2026-09-08T16:36:23.337649+00:00",
+      "issue_error": null,
+      "issue_number": 53,
+      "new_games_rank": 147,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-15T16:36:23.337649+00:00",
+        "2026-09-22T16:36:23.337649+00:00",
+        "2026-10-08T16:36:23.337649+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-08/galaxy-merge-starships-wars.md",
+      "researched_at": "2026-09-08T16:36:23.337649+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-08T16:36:23.337649+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/game-of-farmers": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -9452,16 +9536,13 @@
     "https://poki.com/en/g/gyroblade": {
       "first_seen": "2026-08-25T13:09:59.740462+00:00",
       "issue_error": null,
-      "issue_number": 40,
+      "issue_number": 53,
       "new_games_rank": 142,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-09-08T13:09:59.740462+00:00",
-        "2026-09-24T13:09:59.740462+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-01/gyroblade.md",
-      "researched_at": "2026-09-01T16:37:16.458174+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-08/gyroblade.md",
+      "researched_at": "2026-09-08T16:36:23.337649+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-08-25T13:09:59.740462+00:00"
@@ -15587,6 +15668,25 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/pool-live": {
+      "first_seen": "2026-09-08T16:36:23.337649+00:00",
+      "issue_error": null,
+      "issue_number": 53,
+      "new_games_rank": 142,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-08/pool-live.md",
+      "researched_at": "2026-09-08T16:36:23.337649+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-08T16:36:23.337649+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/pool-merge-io": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -15856,16 +15956,15 @@
     "https://poki.com/en/g/project-gatherwood": {
       "first_seen": "2026-08-25T13:09:59.740462+00:00",
       "issue_error": null,
-      "issue_number": 40,
+      "issue_number": 53,
       "new_games_rank": 144,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-08T13:09:59.740462+00:00",
         "2026-09-24T13:09:59.740462+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-01/project-gatherwood.md",
-      "researched_at": "2026-09-01T16:37:16.458174+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-08/project-gatherwood.md",
+      "researched_at": "2026-09-08T16:36:23.337649+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-08-25T13:09:59.740462+00:00"
