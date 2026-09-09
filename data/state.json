@@ -1804,7 +1804,7 @@
       "new_games_rank": 142,
       "recheck_at": [],
       "recheck_plan_started": false,
-      "retry_at": "2026-09-09T11:14:48.409204+00:00",
+      "retry_at": "2026-09-10T11:19:17.372375+00:00",
       "source_first_seen": {
         "new_games": "2026-09-02T16:32:49.998833+00:00"
       },
@@ -13276,7 +13276,7 @@
       "recheck_plan_started": true,
       "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-20/mooverse-d9cc7bd1.md",
       "researched_at": "2026-08-20T01:50:34.871894+00:00",
-      "retry_at": "2026-09-09T11:14:48.409204+00:00",
+      "retry_at": "2026-09-10T11:19:17.372375+00:00",
       "source_first_seen": {
         "new_games": "2026-08-12T19:18:17.215133+00:00"
       },
@@ -15319,7 +15319,7 @@
       "recheck_plan_started": true,
       "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-31/pixellent.md",
       "researched_at": "2026-08-31T13:44:12.593243+00:00",
-      "retry_at": "2026-09-09T11:14:48.409204+00:00",
+      "retry_at": "2026-09-10T11:19:17.372375+00:00",
       "source_first_seen": {
         "new_games": "2026-08-31T13:44:12.593243+00:00"
       },
