@@ -4267,7 +4267,7 @@
       "first_seen": "2026-09-02T21:01:10.094149+00:00",
       "issue_error": null,
       "issue_number": 43,
-      "new_games_rank": null,
+      "new_games_rank": 13,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": true,
@@ -4275,9 +4275,11 @@
       "researched_at": "2026-09-10T04:38:38.856844+00:00",
       "retry_at": null,
       "source_first_seen": {
+        "new_games": "2026-09-10T11:15:38.766956+00:00",
         "sitemap": "2026-09-02T21:01:10.094149+00:00"
       },
       "sources": [
+        "new_games",
         "sitemap"
       ],
       "status": "researched"
@@ -13090,6 +13092,25 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/minni-home-play-family": {
+      "first_seen": "2026-09-10T11:15:38.766956+00:00",
+      "issue_error": null,
+      "issue_number": 57,
+      "new_games_rank": 143,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-10/minni-home-play-family.md",
+      "researched_at": "2026-09-10T11:15:38.766956+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-10T11:15:38.766956+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/mirror-image": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -16673,6 +16694,25 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/rig-mart": {
+      "first_seen": "2026-09-10T11:15:38.766956+00:00",
+      "issue_error": null,
+      "issue_number": 57,
+      "new_games_rank": 144,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-10/rig-mart.md",
+      "researched_at": "2026-09-10T11:15:38.766956+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-10T11:15:38.766956+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/right-jump": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
