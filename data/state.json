@@ -15509,7 +15509,7 @@
       "recheck_plan_started": true,
       "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-31/pixellent.md",
       "researched_at": "2026-08-31T13:44:12.593243+00:00",
-      "retry_at": "2026-09-12T16:26:13.591004+00:00",
+      "retry_at": "2026-09-13T20:32:04.447014+00:00",
       "source_first_seen": {
         "new_games": "2026-08-31T13:44:12.593243+00:00"
       },
@@ -23323,7 +23323,7 @@
       "first_seen": "2026-08-20T13:09:33.524138+00:00",
       "issue_error": null,
       "issue_number": 28,
-      "new_games_rank": 143,
+      "new_games_rank": 13,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
