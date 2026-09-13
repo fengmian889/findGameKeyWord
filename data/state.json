@@ -10082,7 +10082,7 @@
       "first_seen": "2026-08-24T18:58:23.601902+00:00",
       "issue_error": null,
       "issue_number": 30,
-      "new_games_rank": 13,
+      "new_games_rank": 3,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
@@ -13427,7 +13427,7 @@
       "recheck_plan_started": true,
       "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-20/mooverse-d9cc7bd1.md",
       "researched_at": "2026-08-20T01:50:34.871894+00:00",
-      "retry_at": "2026-09-12T20:56:26.543098+00:00",
+      "retry_at": "2026-09-14T04:43:41.514116+00:00",
       "source_first_seen": {
         "new_games": "2026-08-12T19:18:17.215133+00:00"
       },
