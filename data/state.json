@@ -3061,7 +3061,7 @@
       "first_seen": "2026-08-11T19:18:09.505446+00:00",
       "issue_error": null,
       "issue_number": 12,
-      "new_games_rank": null,
+      "new_games_rank": 13,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
@@ -3069,9 +3069,11 @@
       "researched_at": "2026-08-11T19:18:09.505446+00:00",
       "retry_at": null,
       "source_first_seen": {
+        "new_games": "2026-09-15T11:40:58.997671+00:00",
         "sitemap": "2026-08-11T19:18:09.505446+00:00"
       },
       "sources": [
+        "new_games",
         "sitemap"
       ],
       "status": "researched"
@@ -12592,6 +12594,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/mahjong-riddles-egypt": {
+      "first_seen": "2026-09-15T11:40:58.997671+00:00",
+      "issue_error": null,
+      "issue_number": 66,
+      "new_games_rank": 146,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-22T11:40:58.997671+00:00",
+        "2026-09-29T11:40:58.997671+00:00",
+        "2026-10-15T11:40:58.997671+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/mahjong-riddles-egypt.md",
+      "researched_at": "2026-09-15T11:40:58.997671+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-15T11:40:58.997671+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/mahjong-sweet-connection": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -12985,6 +13010,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/merge-battler": {
+      "first_seen": "2026-09-15T11:40:58.997671+00:00",
+      "issue_error": null,
+      "issue_number": 66,
+      "new_games_rank": 143,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-22T11:40:58.997671+00:00",
+        "2026-09-29T11:40:58.997671+00:00",
+        "2026-10-15T11:40:58.997671+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/merge-battler.md",
+      "researched_at": "2026-09-15T11:40:58.997671+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-15T11:40:58.997671+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/merge-cakes": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -13026,6 +13074,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/merge-idle-war": {
+      "first_seen": "2026-09-15T11:40:58.997671+00:00",
+      "issue_error": null,
+      "issue_number": 66,
+      "new_games_rank": 142,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-22T11:40:58.997671+00:00",
+        "2026-09-29T11:40:58.997671+00:00",
+        "2026-10-15T11:40:58.997671+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/merge-idle-war.md",
+      "researched_at": "2026-09-15T11:40:58.997671+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-15T11:40:58.997671+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/merge-miner-42ce72d8": {
       "first_seen": "2026-08-10T13:42:10.066247+00:00",
@@ -13628,7 +13699,7 @@
       "recheck_plan_started": true,
       "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-20/mooverse-d9cc7bd1.md",
       "researched_at": "2026-08-20T01:50:34.871894+00:00",
-      "retry_at": "2026-09-15T04:52:03.879851+00:00",
+      "retry_at": "2026-09-16T11:40:58.997671+00:00",
       "source_first_seen": {
         "new_games": "2026-08-12T19:18:17.215133+00:00"
       },
@@ -15751,13 +15822,12 @@
       "new_games_rank": 143,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-14T13:44:12.593243+00:00",
         "2026-09-30T13:44:12.593243+00:00"
       ],
       "recheck_plan_started": true,
       "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-31/pixellent.md",
       "researched_at": "2026-08-31T13:44:12.593243+00:00",
-      "retry_at": "2026-09-14T20:47:55.020578+00:00",
+      "retry_at": "2026-09-16T11:40:58.997671+00:00",
       "source_first_seen": {
         "new_games": "2026-08-31T13:44:12.593243+00:00"
       },
