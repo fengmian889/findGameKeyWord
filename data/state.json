@@ -2180,9 +2180,18 @@
     },
     "https://poki.com/en/g/blumgi-zoo": {
       "first_seen": "2026-09-14T21:47:58.692531+00:00",
+      "issue_error": null,
+      "issue_number": 65,
       "new_games_rank": 155,
-      "recheck_at": [],
-      "recheck_plan_started": false,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-22T04:51:07.513062+00:00",
+        "2026-09-29T04:51:07.513062+00:00",
+        "2026-10-15T04:51:07.513062+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/blumgi-zoo.md",
+      "researched_at": "2026-09-15T04:51:07.513062+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-14T21:47:58.692531+00:00"
@@ -2190,7 +2199,7 @@
       "sources": [
         "new_games"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/bobble": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -2805,9 +2814,14 @@
     },
     "https://poki.com/en/g/bubble-gum": {
       "first_seen": "2026-09-14T21:47:58.692531+00:00",
+      "issue_error": null,
+      "issue_number": 65,
       "new_games_rank": 152,
+      "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/bubble-gum.md",
+      "researched_at": "2026-09-15T04:51:07.513062+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-14T21:47:58.692531+00:00"
@@ -2815,7 +2829,7 @@
       "sources": [
         "new_games"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/bubble-heroes": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -3462,17 +3476,16 @@
     "https://poki.com/en/g/cardtamer": {
       "first_seen": "2026-09-07T21:29:36.795162+00:00",
       "issue_error": null,
-      "issue_number": 50,
+      "issue_number": 65,
       "new_games_rank": 152,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-14T21:29:36.795162+00:00",
         "2026-09-21T21:29:36.795162+00:00",
         "2026-10-07T21:29:36.795162+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-07/cardtamer.md",
-      "researched_at": "2026-09-07T21:29:36.795162+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/cardtamer.md",
+      "researched_at": "2026-09-15T04:51:07.513062+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-07T21:29:36.795162+00:00"
@@ -11037,9 +11050,14 @@
     },
     "https://poki.com/en/g/jigsaw-journey": {
       "first_seen": "2026-09-14T21:47:58.692531+00:00",
+      "issue_error": null,
+      "issue_number": 65,
       "new_games_rank": 153,
+      "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/jigsaw-journey.md",
+      "researched_at": "2026-09-15T04:51:07.513062+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-14T21:47:58.692531+00:00"
@@ -11047,7 +11065,7 @@
       "sources": [
         "new_games"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/jigsaw-surprise": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -12803,17 +12821,16 @@
     "https://poki.com/en/g/matrushka-merge": {
       "first_seen": "2026-09-07T21:29:36.795162+00:00",
       "issue_error": null,
-      "issue_number": 51,
+      "issue_number": 65,
       "new_games_rank": 156,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-15T04:31:38.342953+00:00",
         "2026-09-22T04:31:38.342953+00:00",
         "2026-10-08T04:31:38.342953+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-08/matrushka-merge.md",
-      "researched_at": "2026-09-08T04:31:38.342953+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/matrushka-merge.md",
+      "researched_at": "2026-09-15T04:51:07.513062+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-07T21:29:36.795162+00:00"
@@ -13581,17 +13598,16 @@
     "https://poki.com/en/g/moorko": {
       "first_seen": "2026-09-07T21:29:36.795162+00:00",
       "issue_error": null,
-      "issue_number": 51,
+      "issue_number": 65,
       "new_games_rank": 154,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-15T04:31:38.342953+00:00",
         "2026-09-22T04:31:38.342953+00:00",
         "2026-10-08T04:31:38.342953+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-08/moorko.md",
-      "researched_at": "2026-09-08T04:31:38.342953+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/moorko.md",
+      "researched_at": "2026-09-15T04:51:07.513062+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-07T21:29:36.795162+00:00"
@@ -14082,9 +14098,18 @@
     },
     "https://poki.com/en/g/my-snack-bar": {
       "first_seen": "2026-09-14T21:47:58.692531+00:00",
+      "issue_error": null,
+      "issue_number": 65,
       "new_games_rank": 156,
-      "recheck_at": [],
-      "recheck_plan_started": false,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-22T04:51:07.513062+00:00",
+        "2026-09-29T04:51:07.513062+00:00",
+        "2026-10-15T04:51:07.513062+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/my-snack-bar.md",
+      "researched_at": "2026-09-15T04:51:07.513062+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-14T21:47:58.692531+00:00",
@@ -14094,7 +14119,7 @@
         "new_games",
         "sitemap"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/my-super-tiny-market": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -14558,17 +14583,16 @@
     "https://poki.com/en/g/obby-escape-the-old-mansion": {
       "first_seen": "2026-09-07T21:29:36.795162+00:00",
       "issue_error": null,
-      "issue_number": 50,
+      "issue_number": 65,
       "new_games_rank": 146,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-14T21:29:36.795162+00:00",
         "2026-09-21T21:29:36.795162+00:00",
         "2026-10-07T21:29:36.795162+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-07/obby-escape-the-old-mansion.md",
-      "researched_at": "2026-09-07T21:29:36.795162+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/obby-escape-the-old-mansion.md",
+      "researched_at": "2026-09-15T04:51:07.513062+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-07T21:29:36.795162+00:00"
@@ -18433,9 +18457,18 @@
     },
     "https://poki.com/en/g/slidy-match": {
       "first_seen": "2026-09-14T21:47:58.692531+00:00",
+      "issue_error": null,
+      "issue_number": 65,
       "new_games_rank": 151,
-      "recheck_at": [],
-      "recheck_plan_started": false,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-22T04:51:07.513062+00:00",
+        "2026-09-29T04:51:07.513062+00:00",
+        "2026-10-15T04:51:07.513062+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/slidy-match.md",
+      "researched_at": "2026-09-15T04:51:07.513062+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-14T21:47:58.692531+00:00"
@@ -18443,7 +18476,7 @@
       "sources": [
         "new_games"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/slime-dunk": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -20163,9 +20196,18 @@
     },
     "https://poki.com/en/g/stretch-me": {
       "first_seen": "2026-09-14T21:47:58.692531+00:00",
+      "issue_error": null,
+      "issue_number": 65,
       "new_games_rank": 154,
-      "recheck_at": [],
-      "recheck_plan_started": false,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-22T04:51:07.513062+00:00",
+        "2026-09-29T04:51:07.513062+00:00",
+        "2026-10-15T04:51:07.513062+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/stretch-me.md",
+      "researched_at": "2026-09-15T04:51:07.513062+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-14T21:47:58.692531+00:00"
@@ -20173,7 +20215,7 @@
       "sources": [
         "new_games"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/strideflare": {
       "first_seen": "2026-08-27T22:14:40.039201+00:00",
