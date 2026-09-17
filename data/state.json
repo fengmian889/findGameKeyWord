@@ -789,6 +789,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/anomaly-airport": {
+      "first_seen": "2026-09-17T16:58:01.496213+00:00",
+      "issue_error": null,
+      "issue_number": 71,
+      "new_games_rank": 142,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-24T16:58:01.496213+00:00",
+        "2026-10-01T16:58:01.496213+00:00",
+        "2026-10-17T16:58:01.496213+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-17/anomaly-airport.md",
+      "researched_at": "2026-09-17T16:58:01.496213+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-17T16:58:01.496213+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/ant-art-tycoon": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -3078,6 +3101,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/bugs-io": {
+      "first_seen": "2026-09-17T16:58:01.496213+00:00",
+      "issue_error": null,
+      "issue_number": 71,
+      "new_games_rank": null,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-24T16:58:01.496213+00:00",
+        "2026-10-01T16:58:01.496213+00:00",
+        "2026-10-17T16:58:01.496213+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-17/bugs-io.md",
+      "researched_at": "2026-09-17T16:58:01.496213+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "sitemap": "2026-09-17T16:58:01.496213+00:00"
+      },
+      "sources": [
+        "sitemap"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/build-a-bud": {
       "first_seen": "2026-09-07T21:29:36.795162+00:00",
       "issue_error": null,
@@ -5252,6 +5298,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/crazy-motorcycle-pro": {
+      "first_seen": "2026-09-17T16:58:01.496213+00:00",
+      "issue_error": null,
+      "issue_number": 71,
+      "new_games_rank": null,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-24T16:58:01.496213+00:00",
+        "2026-10-01T16:58:01.496213+00:00",
+        "2026-10-17T16:58:01.496213+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-17/crazy-motorcycle-pro.md",
+      "researched_at": "2026-09-17T16:58:01.496213+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "sitemap": "2026-09-17T16:58:01.496213+00:00"
+      },
+      "sources": [
+        "sitemap"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/crazy-pig-simulator": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -5393,7 +5462,7 @@
       "first_seen": "2026-08-07T19:14:02.529984+00:00",
       "issue_error": null,
       "issue_number": 8,
-      "new_games_rank": 143,
+      "new_games_rank": 13,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
@@ -9162,6 +9231,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/garden-snakes": {
+      "first_seen": "2026-09-17T16:58:01.496213+00:00",
+      "issue_error": null,
+      "issue_number": 71,
+      "new_games_rank": 141,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-24T16:58:01.496213+00:00",
+        "2026-10-01T16:58:01.496213+00:00",
+        "2026-10-17T16:58:01.496213+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-17/garden-snakes.md",
+      "researched_at": "2026-09-17T16:58:01.496213+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-17T16:58:01.496213+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/gas-station": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -13954,7 +14046,7 @@
       "recheck_plan_started": true,
       "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-20/mooverse-d9cc7bd1.md",
       "researched_at": "2026-08-20T01:50:34.871894+00:00",
-      "retry_at": "2026-09-17T16:51:45.936057+00:00",
+      "retry_at": "2026-09-18T16:58:01.496213+00:00",
       "source_first_seen": {
         "new_games": "2026-08-12T19:18:17.215133+00:00"
       },
@@ -14618,17 +14710,16 @@
     "https://poki.com/en/g/nick-parkour-3d": {
       "first_seen": "2026-09-10T16:22:09.499126+00:00",
       "issue_error": null,
-      "issue_number": 59,
+      "issue_number": 71,
       "new_games_rank": 148,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-17T16:22:09.499126+00:00",
         "2026-09-24T16:22:09.499126+00:00",
         "2026-10-10T16:22:09.499126+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-10/nick-parkour-3d.md",
-      "researched_at": "2026-09-10T16:22:09.499126+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-17/nick-parkour-3d.md",
+      "researched_at": "2026-09-17T16:58:01.496213+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-10T16:22:09.499126+00:00"
@@ -16082,7 +16173,7 @@
       "recheck_plan_started": true,
       "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-31/pixellent.md",
       "researched_at": "2026-08-31T13:44:12.593243+00:00",
-      "retry_at": "2026-09-17T16:51:45.936057+00:00",
+      "retry_at": "2026-09-18T16:58:01.496213+00:00",
       "source_first_seen": {
         "new_games": "2026-08-31T13:44:12.593243+00:00"
       },
@@ -21880,6 +21971,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/teleport-master": {
+      "first_seen": "2026-09-17T16:58:01.496213+00:00",
+      "issue_error": null,
+      "issue_number": 71,
+      "new_games_rank": null,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-24T16:58:01.496213+00:00",
+        "2026-10-01T16:58:01.496213+00:00",
+        "2026-10-17T16:58:01.496213+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-17/teleport-master.md",
+      "researched_at": "2026-09-17T16:58:01.496213+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "sitemap": "2026-09-17T16:58:01.496213+00:00"
+      },
+      "sources": [
+        "sitemap"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/temple-of-boom": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
