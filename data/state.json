@@ -3324,6 +3324,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/bus-simulator": {
+      "first_seen": "2026-09-18T11:10:27.110682+00:00",
+      "issue_error": null,
+      "issue_number": 74,
+      "new_games_rank": 147,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-25T11:10:27.110682+00:00",
+        "2026-10-02T11:10:27.110682+00:00",
+        "2026-10-18T11:10:27.110682+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-18/bus-simulator.md",
+      "researched_at": "2026-09-18T11:10:27.110682+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-18T11:10:27.110682+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/butterfly-catch": {
       "first_seen": "2026-08-11T19:18:09.505446+00:00",
       "issue_error": null,
@@ -3852,6 +3875,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/cat-ghost-hunter": {
+      "first_seen": "2026-09-18T11:10:27.110682+00:00",
+      "issue_error": null,
+      "issue_number": 74,
+      "new_games_rank": 144,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-25T11:10:27.110682+00:00",
+        "2026-10-02T11:10:27.110682+00:00",
+        "2026-10-18T11:10:27.110682+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-18/cat-ghost-hunter.md",
+      "researched_at": "2026-09-18T11:10:27.110682+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-18T11:10:27.110682+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/cat-gunner-super-zombie-shoot": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -3912,14 +3958,16 @@
     },
     "https://poki.com/en/g/catch-a-pet": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
-      "new_games_rank": null,
+      "new_games_rank": 13,
       "recheck_at": [],
       "recheck_plan_started": false,
       "retry_at": null,
       "source_first_seen": {
+        "new_games": "2026-09-18T11:10:27.110682+00:00",
         "sitemap": "2026-08-04T09:33:02.886697+00:00"
       },
       "sources": [
+        "new_games",
         "sitemap"
       ],
       "status": "baseline"
@@ -7824,6 +7872,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/fashion-dress-up-4987996c": {
+      "first_seen": "2026-09-18T11:10:27.110682+00:00",
+      "issue_error": null,
+      "issue_number": 74,
+      "new_games_rank": 141,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-25T11:10:27.110682+00:00",
+        "2026-10-02T11:10:27.110682+00:00",
+        "2026-10-18T11:10:27.110682+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-18/fashion-dress-up-4987996c.md",
+      "researched_at": "2026-09-18T11:10:27.110682+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-18T11:10:27.110682+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/fashion-dress-up-star": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": 18,
@@ -8083,6 +8154,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/find-cats-in-doodle-world": {
+      "first_seen": "2026-09-18T11:10:27.110682+00:00",
+      "issue_error": null,
+      "issue_number": 74,
+      "new_games_rank": 143,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-25T11:10:27.110682+00:00",
+        "2026-10-02T11:10:27.110682+00:00",
+        "2026-10-18T11:10:27.110682+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-18/find-cats-in-doodle-world.md",
+      "researched_at": "2026-09-18T11:10:27.110682+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-18T11:10:27.110682+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/find-it": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -11579,6 +11673,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/jumpybara": {
+      "first_seen": "2026-09-18T11:10:27.110682+00:00",
+      "issue_error": null,
+      "issue_number": 74,
+      "new_games_rank": 146,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-25T11:10:27.110682+00:00",
+        "2026-10-02T11:10:27.110682+00:00",
+        "2026-10-18T11:10:27.110682+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-18/jumpybara.md",
+      "researched_at": "2026-09-18T11:10:27.110682+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-18T11:10:27.110682+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/jungle-bubble-shooter-mania": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -13673,6 +13790,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/merge-shot": {
+      "first_seen": "2026-09-18T11:10:27.110682+00:00",
+      "issue_error": null,
+      "issue_number": 74,
+      "new_games_rank": 142,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-25T11:10:27.110682+00:00",
+        "2026-10-02T11:10:27.110682+00:00",
+        "2026-10-18T11:10:27.110682+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-18/merge-shot.md",
+      "researched_at": "2026-09-18T11:10:27.110682+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-18T11:10:27.110682+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/merge-solitaire": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -16219,6 +16359,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/picture-puzzle": {
+      "first_seen": "2026-09-18T11:10:27.110682+00:00",
+      "issue_error": null,
+      "issue_number": 74,
+      "new_games_rank": 145,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-25T11:10:27.110682+00:00",
+        "2026-10-02T11:10:27.110682+00:00",
+        "2026-10-18T11:10:27.110682+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-18/picture-puzzle.md",
+      "researched_at": "2026-09-18T11:10:27.110682+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-18T11:10:27.110682+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/ping-pong-go": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
