@@ -1132,6 +1132,22 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/backroom-bill": {
+      "first_seen": "2026-09-18T16:22:10.943500+00:00",
+      "new_games_rank": 160,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-18T16:22:10.943500+00:00",
+        "sitemap": "2026-09-18T16:22:10.943500+00:00"
+      },
+      "sources": [
+        "new_games",
+        "sitemap"
+      ],
+      "status": "pending"
+    },
     "https://poki.com/en/g/backrooms-recovery": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": 14,
@@ -1217,6 +1233,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/bag-battle-units-clash": {
+      "first_seen": "2026-09-18T16:22:10.943500+00:00",
+      "issue_error": null,
+      "issue_number": 75,
+      "new_games_rank": 144,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-25T16:22:10.943500+00:00",
+        "2026-10-02T16:22:10.943500+00:00",
+        "2026-10-18T16:22:10.943500+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-18/bag-battle-units-clash.md",
+      "researched_at": "2026-09-18T16:22:10.943500+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-18T16:22:10.943500+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/ball-guys": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -5459,6 +5498,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/critters-evolution": {
+      "first_seen": "2026-09-18T16:22:10.943500+00:00",
+      "issue_error": null,
+      "issue_number": 75,
+      "new_games_rank": 146,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-25T16:22:10.943500+00:00",
+        "2026-10-02T16:22:10.943500+00:00",
+        "2026-10-18T16:22:10.943500+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-18/critters-evolution.md",
+      "researched_at": "2026-09-18T16:22:10.943500+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-18T16:22:10.943500+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/critters-puzzle": {
       "first_seen": "2026-09-03T16:23:47.312365+00:00",
       "issue_error": null,
@@ -7478,6 +7540,22 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/emoji-factory": {
+      "first_seen": "2026-09-18T16:22:10.943500+00:00",
+      "new_games_rank": 164,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-18T16:22:10.943500+00:00",
+        "sitemap": "2026-09-18T16:22:10.943500+00:00"
+      },
+      "sources": [
+        "new_games",
+        "sitemap"
+      ],
+      "status": "pending"
+    },
     "https://poki.com/en/g/emoji-party": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -8207,6 +8285,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/fireworks": {
+      "first_seen": "2026-09-18T16:22:10.943500+00:00",
+      "issue_error": null,
+      "issue_number": 75,
+      "new_games_rank": 157,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-25T16:22:10.943500+00:00",
+        "2026-10-02T16:22:10.943500+00:00",
+        "2026-10-18T16:22:10.943500+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-18/fireworks.md",
+      "researched_at": "2026-09-18T16:22:10.943500+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-18T16:22:10.943500+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/fish-drop": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -10252,6 +10353,29 @@
       ],
       "status": "researched"
     },
+    "https://poki.com/en/g/hack-and-ham": {
+      "first_seen": "2026-09-18T16:22:10.943500+00:00",
+      "issue_error": null,
+      "issue_number": 75,
+      "new_games_rank": 143,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-25T16:22:10.943500+00:00",
+        "2026-10-02T16:22:10.943500+00:00",
+        "2026-10-18T16:22:10.943500+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-18/hack-and-ham.md",
+      "researched_at": "2026-09-18T16:22:10.943500+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-18T16:22:10.943500+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/hammer-2-reloaded": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -10472,6 +10596,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/hidden-object-detective-story": {
+      "first_seen": "2026-09-18T16:22:10.943500+00:00",
+      "issue_error": null,
+      "issue_number": 75,
+      "new_games_rank": 148,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-25T16:22:10.943500+00:00",
+        "2026-10-02T16:22:10.943500+00:00",
+        "2026-10-18T16:22:10.943500+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-18/hidden-object-detective-story.md",
+      "researched_at": "2026-09-18T16:22:10.943500+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-18T16:22:10.943500+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/hidden-pigeon": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -11588,6 +11735,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/join-and-jump": {
+      "first_seen": "2026-09-18T16:22:10.943500+00:00",
+      "issue_error": null,
+      "issue_number": 75,
+      "new_games_rank": 145,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-25T16:22:10.943500+00:00",
+        "2026-10-02T16:22:10.943500+00:00",
+        "2026-10-18T16:22:10.943500+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-18/join-and-jump.md",
+      "researched_at": "2026-09-18T16:22:10.943500+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-18T16:22:10.943500+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/jollyworld": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -14523,6 +14693,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/mountain-car-climb": {
+      "first_seen": "2026-09-18T16:22:10.943500+00:00",
+      "issue_error": null,
+      "issue_number": 75,
+      "new_games_rank": 141,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-25T16:22:10.943500+00:00",
+        "2026-10-02T16:22:10.943500+00:00",
+        "2026-10-18T16:22:10.943500+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-18/mountain-car-climb.md",
+      "researched_at": "2026-09-18T16:22:10.943500+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-18T16:22:10.943500+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/mountain-climb-stunt": {
       "first_seen": "2026-09-10T16:22:09.499126+00:00",
       "issue_error": null,
@@ -15958,6 +16151,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/paper-empire": {
+      "first_seen": "2026-09-18T16:22:10.943500+00:00",
+      "issue_error": null,
+      "issue_number": 75,
+      "new_games_rank": 147,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-25T16:22:10.943500+00:00",
+        "2026-10-02T16:22:10.943500+00:00",
+        "2026-10-18T16:22:10.943500+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-18/paper-empire.md",
+      "researched_at": "2026-09-18T16:22:10.943500+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-18T16:22:10.943500+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/paperio-2": {
       "first_seen": "2026-08-04T19:55:22.841089+00:00",
@@ -19186,6 +19402,20 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/skyswarmio": {
+      "first_seen": "2026-09-18T16:22:10.943500+00:00",
+      "new_games_rank": 158,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-18T16:22:10.943500+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "pending"
+    },
     "https://poki.com/en/g/skywire": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -19255,6 +19485,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/slice-it-up": {
+      "first_seen": "2026-09-18T16:22:10.943500+00:00",
+      "issue_error": null,
+      "issue_number": 75,
+      "new_games_rank": 156,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-25T16:22:10.943500+00:00",
+        "2026-10-02T16:22:10.943500+00:00",
+        "2026-10-18T16:22:10.943500+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-18/slice-it-up.md",
+      "researched_at": "2026-09-18T16:22:10.943500+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-18T16:22:10.943500+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/slice-master": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -20402,6 +20655,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/starversio": {
+      "first_seen": "2026-09-18T16:22:10.943500+00:00",
+      "issue_error": null,
+      "issue_number": 75,
+      "new_games_rank": 142,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-25T16:22:10.943500+00:00",
+        "2026-10-02T16:22:10.943500+00:00",
+        "2026-10-18T16:22:10.943500+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-18/starversio.md",
+      "researched_at": "2026-09-18T16:22:10.943500+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-18T16:22:10.943500+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/steal-a-brainrot": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
