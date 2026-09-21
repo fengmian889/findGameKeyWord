@@ -4789,6 +4789,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/color-clash": {
+      "first_seen": "2026-09-21T21:57:28.292791+00:00",
+      "issue_error": null,
+      "issue_number": 77,
+      "new_games_rank": 143,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-28T21:57:28.292791+00:00",
+        "2026-10-05T21:57:28.292791+00:00",
+        "2026-10-21T21:57:28.292791+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-21/color-clash.md",
+      "researched_at": "2026-09-21T21:57:28.292791+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-21T21:57:28.292791+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/color-crash": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -7009,6 +7032,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/drone-siege": {
+      "first_seen": "2026-09-21T21:57:28.292791+00:00",
+      "issue_error": null,
+      "issue_number": 77,
+      "new_games_rank": 149,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-28T21:57:28.292791+00:00",
+        "2026-10-05T21:57:28.292791+00:00",
+        "2026-10-21T21:57:28.292791+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-21/drone-siege.md",
+      "researched_at": "2026-09-21T21:57:28.292791+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-21T21:57:28.292791+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/dual-cat": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -9002,6 +9048,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/free-flight": {
+      "first_seen": "2026-09-21T21:57:28.292791+00:00",
+      "issue_error": null,
+      "issue_number": 77,
+      "new_games_rank": 144,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-28T21:57:28.292791+00:00",
+        "2026-10-05T21:57:28.292791+00:00",
+        "2026-10-21T21:57:28.292791+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-21/free-flight.md",
+      "researched_at": "2026-09-21T21:57:28.292791+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-21T21:57:28.292791+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/free-kick-screamers": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -10190,6 +10259,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/gravity-grid": {
+      "first_seen": "2026-09-21T21:57:28.292791+00:00",
+      "issue_error": null,
+      "issue_number": 77,
+      "new_games_rank": 146,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-28T21:57:28.292791+00:00",
+        "2026-10-05T21:57:28.292791+00:00",
+        "2026-10-21T21:57:28.292791+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-21/gravity-grid.md",
+      "researched_at": "2026-09-21T21:57:28.292791+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-21T21:57:28.292791+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/green": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -10436,6 +10528,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/happy-slimes": {
+      "first_seen": "2026-09-21T21:57:28.292791+00:00",
+      "issue_error": null,
+      "issue_number": 77,
+      "new_games_rank": 150,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-28T21:57:28.292791+00:00",
+        "2026-10-05T21:57:28.292791+00:00",
+        "2026-10-21T21:57:28.292791+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-21/happy-slimes.md",
+      "researched_at": "2026-09-21T21:57:28.292791+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-21T21:57:28.292791+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/happy-tidy-time": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -11474,6 +11589,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/isletlings": {
+      "first_seen": "2026-09-21T21:57:28.292791+00:00",
+      "issue_error": null,
+      "issue_number": 77,
+      "new_games_rank": 147,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-28T21:57:28.292791+00:00",
+        "2026-10-05T21:57:28.292791+00:00",
+        "2026-10-21T21:57:28.292791+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-21/isletlings.md",
+      "researched_at": "2026-09-21T21:57:28.292791+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-21T21:57:28.292791+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/its-story-time": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -14987,6 +15125,22 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/my-dream-house-makeover": {
+      "first_seen": "2026-09-21T21:57:28.292791+00:00",
+      "new_games_rank": 153,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-21T21:57:28.292791+00:00",
+        "sitemap": "2026-09-21T21:57:28.292791+00:00"
+      },
+      "sources": [
+        "new_games",
+        "sitemap"
+      ],
+      "status": "pending"
+    },
     "https://poki.com/en/g/my-kitten-home": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -18411,6 +18565,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/roll-the-dice": {
+      "first_seen": "2026-09-21T21:57:28.292791+00:00",
+      "issue_error": null,
+      "issue_number": 77,
+      "new_games_rank": 141,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-28T21:57:28.292791+00:00",
+        "2026-10-05T21:57:28.292791+00:00",
+        "2026-10-21T21:57:28.292791+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-21/roll-the-dice.md",
+      "researched_at": "2026-09-21T21:57:28.292791+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-21T21:57:28.292791+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/roller": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -19045,7 +19222,7 @@
       "first_seen": "2026-09-17T21:19:57.413003+00:00",
       "issue_error": null,
       "issue_number": 73,
-      "new_games_rank": 153,
+      "new_games_rank": 152,
       "notification_pending": false,
       "recheck_at": [
         "2026-09-25T04:39:52.031460+00:00",
@@ -20287,6 +20464,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/sol-ops": {
+      "first_seen": "2026-09-21T21:57:28.292791+00:00",
+      "issue_error": null,
+      "issue_number": 77,
+      "new_games_rank": 148,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-28T21:57:28.292791+00:00",
+        "2026-10-05T21:57:28.292791+00:00",
+        "2026-10-21T21:57:28.292791+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-21/sol-ops.md",
+      "researched_at": "2026-09-21T21:57:28.292791+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-21T21:57:28.292791+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/soldier-legend": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -22639,6 +22839,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/tasty-tile": {
+      "first_seen": "2026-09-21T21:57:28.292791+00:00",
+      "issue_error": null,
+      "issue_number": 77,
+      "new_games_rank": 145,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-28T21:57:28.292791+00:00",
+        "2026-10-05T21:57:28.292791+00:00",
+        "2026-10-21T21:57:28.292791+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-21/tasty-tile.md",
+      "researched_at": "2026-09-21T21:57:28.292791+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-21T21:57:28.292791+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/tds-tower-destiny-survive": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": 37,
@@ -24263,6 +24486,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/vacuum-vendetta": {
+      "first_seen": "2026-09-21T21:57:28.292791+00:00",
+      "issue_error": null,
+      "issue_number": 77,
+      "new_games_rank": 142,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-28T21:57:28.292791+00:00",
+        "2026-10-05T21:57:28.292791+00:00",
+        "2026-10-21T21:57:28.292791+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-21/vacuum-vendetta.md",
+      "researched_at": "2026-09-21T21:57:28.292791+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-21T21:57:28.292791+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/vectaria-io": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
