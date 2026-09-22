@@ -2322,17 +2322,16 @@
     "https://poki.com/en/g/blumgi-zoo": {
       "first_seen": "2026-09-14T21:47:58.692531+00:00",
       "issue_error": null,
-      "issue_number": 65,
+      "issue_number": 78,
       "new_games_rank": 155,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-22T04:51:07.513062+00:00",
         "2026-09-29T04:51:07.513062+00:00",
         "2026-10-15T04:51:07.513062+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/blumgi-zoo.md",
-      "researched_at": "2026-09-15T04:51:07.513062+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-22/blumgi-zoo.md",
+      "researched_at": "2026-09-22T04:51:34.450281+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-14T21:47:58.692531+00:00"
@@ -3690,16 +3689,15 @@
     "https://poki.com/en/g/cardtamer": {
       "first_seen": "2026-09-07T21:29:36.795162+00:00",
       "issue_error": null,
-      "issue_number": 65,
+      "issue_number": 78,
       "new_games_rank": 152,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-21T21:29:36.795162+00:00",
         "2026-10-07T21:29:36.795162+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/cardtamer.md",
-      "researched_at": "2026-09-15T04:51:07.513062+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-22/cardtamer.md",
+      "researched_at": "2026-09-22T04:51:34.450281+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-07T21:29:36.795162+00:00"
@@ -4037,17 +4035,16 @@
     "https://poki.com/en/g/catchnmerge": {
       "first_seen": "2026-09-14T21:47:58.692531+00:00",
       "issue_error": null,
-      "issue_number": 64,
+      "issue_number": 78,
       "new_games_rank": 145,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-21T21:47:58.692531+00:00",
         "2026-09-28T21:47:58.692531+00:00",
         "2026-10-14T21:47:58.692531+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-14/catchnmerge.md",
-      "researched_at": "2026-09-14T21:47:58.692531+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-22/catchnmerge.md",
+      "researched_at": "2026-09-22T04:51:34.450281+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-14T21:47:58.692531+00:00"
@@ -13755,23 +13752,23 @@
       "first_seen": "2026-09-07T21:29:36.795162+00:00",
       "issue_error": null,
       "issue_number": 65,
+      "last_error": "404 Client Error: Not Found for url: https://poki.com/en/g/matrushka-merge",
       "new_games_rank": 156,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-22T04:31:38.342953+00:00",
         "2026-10-08T04:31:38.342953+00:00"
       ],
       "recheck_plan_started": true,
       "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/matrushka-merge.md",
       "researched_at": "2026-09-15T04:51:07.513062+00:00",
-      "retry_at": null,
+      "retry_at": "2026-09-23T04:51:34.450281+00:00",
       "source_first_seen": {
         "new_games": "2026-09-07T21:29:36.795162+00:00"
       },
       "sources": [
         "new_games"
       ],
-      "status": "researched"
+      "status": "retry"
     },
     "https://poki.com/en/g/max-and-mink": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -14553,17 +14550,16 @@
     "https://poki.com/en/g/monster-base-defense-survival": {
       "first_seen": "2026-09-14T21:47:58.692531+00:00",
       "issue_error": null,
-      "issue_number": 64,
+      "issue_number": 78,
       "new_games_rank": 147,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-21T21:47:58.692531+00:00",
         "2026-09-28T21:47:58.692531+00:00",
         "2026-10-14T21:47:58.692531+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-14/monster-base-defense-survival.md",
-      "researched_at": "2026-09-14T21:47:58.692531+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-22/monster-base-defense-survival.md",
+      "researched_at": "2026-09-22T04:51:34.450281+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-14T21:47:58.692531+00:00"
@@ -14669,16 +14665,15 @@
     "https://poki.com/en/g/moorko": {
       "first_seen": "2026-09-07T21:29:36.795162+00:00",
       "issue_error": null,
-      "issue_number": 65,
+      "issue_number": 78,
       "new_games_rank": 154,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-22T04:31:38.342953+00:00",
         "2026-10-08T04:31:38.342953+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/moorko.md",
-      "researched_at": "2026-09-15T04:51:07.513062+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-22/moorko.md",
+      "researched_at": "2026-09-22T04:51:34.450281+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-07T21:29:36.795162+00:00"
@@ -15127,9 +15122,18 @@
     },
     "https://poki.com/en/g/my-dream-house-makeover": {
       "first_seen": "2026-09-21T21:57:28.292791+00:00",
+      "issue_error": null,
+      "issue_number": 78,
       "new_games_rank": 153,
-      "recheck_at": [],
-      "recheck_plan_started": false,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-29T04:51:34.450281+00:00",
+        "2026-10-06T04:51:34.450281+00:00",
+        "2026-10-22T04:51:34.450281+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-22/my-dream-house-makeover.md",
+      "researched_at": "2026-09-22T04:51:34.450281+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-21T21:57:28.292791+00:00",
@@ -15139,7 +15143,7 @@
         "new_games",
         "sitemap"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/my-kitten-home": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -15158,17 +15162,16 @@
     "https://poki.com/en/g/my-little-universe-zombie-survival": {
       "first_seen": "2026-09-14T21:47:58.692531+00:00",
       "issue_error": null,
-      "issue_number": 64,
+      "issue_number": 78,
       "new_games_rank": 146,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-21T21:47:58.692531+00:00",
         "2026-09-28T21:47:58.692531+00:00",
         "2026-10-14T21:47:58.692531+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-14/my-little-universe-zombie-survival.md",
-      "researched_at": "2026-09-14T21:47:58.692531+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-22/my-little-universe-zombie-survival.md",
+      "researched_at": "2026-09-22T04:51:34.450281+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-14T21:47:58.692531+00:00"
@@ -15209,17 +15212,16 @@
     "https://poki.com/en/g/my-snack-bar": {
       "first_seen": "2026-09-14T21:47:58.692531+00:00",
       "issue_error": null,
-      "issue_number": 65,
+      "issue_number": 78,
       "new_games_rank": 156,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-22T04:51:07.513062+00:00",
         "2026-09-29T04:51:07.513062+00:00",
         "2026-10-15T04:51:07.513062+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/my-snack-bar.md",
-      "researched_at": "2026-09-15T04:51:07.513062+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-22/my-snack-bar.md",
+      "researched_at": "2026-09-22T04:51:34.450281+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-14T21:47:58.692531+00:00",
@@ -15692,16 +15694,15 @@
     "https://poki.com/en/g/obby-escape-the-old-mansion": {
       "first_seen": "2026-09-07T21:29:36.795162+00:00",
       "issue_error": null,
-      "issue_number": 65,
+      "issue_number": 78,
       "new_games_rank": 146,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-21T21:29:36.795162+00:00",
         "2026-10-07T21:29:36.795162+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/obby-escape-the-old-mansion.md",
-      "researched_at": "2026-09-15T04:51:07.513062+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-22/obby-escape-the-old-mansion.md",
+      "researched_at": "2026-09-22T04:51:34.450281+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-07T21:29:36.795162+00:00"
