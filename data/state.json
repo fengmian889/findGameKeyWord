@@ -16695,6 +16695,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/party-minigames-scary-teacher": {
+      "first_seen": "2026-09-23T21:28:29.920256+00:00",
+      "issue_error": null,
+      "issue_number": 86,
+      "new_games_rank": 142,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-30T21:28:29.920256+00:00",
+        "2026-10-07T21:28:29.920256+00:00",
+        "2026-10-23T21:28:29.920256+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-23/party-minigames-scary-teacher.md",
+      "researched_at": "2026-09-23T21:28:29.920256+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-23T21:28:29.920256+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/party-time": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -17870,7 +17893,7 @@
       "first_seen": "2026-09-23T16:55:05.088054+00:00",
       "issue_error": null,
       "issue_number": 85,
-      "new_games_rank": null,
+      "new_games_rank": 152,
       "notification_pending": false,
       "recheck_at": [
         "2026-09-30T16:55:05.088054+00:00",
@@ -17882,9 +17905,11 @@
       "researched_at": "2026-09-23T16:55:05.088054+00:00",
       "retry_at": null,
       "source_first_seen": {
+        "new_games": "2026-09-23T21:28:29.920256+00:00",
         "sitemap": "2026-09-23T16:55:05.088054+00:00"
       },
       "sources": [
+        "new_games",
         "sitemap"
       ],
       "status": "researched"
@@ -20097,6 +20122,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/sleepy-mochi": {
+      "first_seen": "2026-09-23T21:28:29.920256+00:00",
+      "issue_error": null,
+      "issue_number": 86,
+      "new_games_rank": 148,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-30T21:28:29.920256+00:00",
+        "2026-10-07T21:28:29.920256+00:00",
+        "2026-10-23T21:28:29.920256+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-23/sleepy-mochi.md",
+      "researched_at": "2026-09-23T21:28:29.920256+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-23T21:28:29.920256+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/slice-it-up": {
       "first_seen": "2026-09-18T16:22:10.943500+00:00",
       "issue_error": null,
@@ -20642,17 +20690,16 @@
     "https://poki.com/en/g/sniper-tank": {
       "first_seen": "2026-09-16T16:51:45.936057+00:00",
       "issue_error": null,
-      "issue_number": 69,
+      "issue_number": 86,
       "new_games_rank": 143,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-23T16:51:45.936057+00:00",
         "2026-09-30T16:51:45.936057+00:00",
         "2026-10-16T16:51:45.936057+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-16/sniper-tank.md",
-      "researched_at": "2026-09-16T16:51:45.936057+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-23/sniper-tank.md",
+      "researched_at": "2026-09-23T21:28:29.920256+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-16T16:51:45.936057+00:00",
@@ -25762,6 +25809,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/wordventure": {
+      "first_seen": "2026-09-23T21:28:29.920256+00:00",
+      "issue_error": null,
+      "issue_number": 86,
+      "new_games_rank": 143,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-30T21:28:29.920256+00:00",
+        "2026-10-07T21:28:29.920256+00:00",
+        "2026-10-23T21:28:29.920256+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-23/wordventure.md",
+      "researched_at": "2026-09-23T21:28:29.920256+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-23T21:28:29.920256+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/world-conquest": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
