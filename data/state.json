@@ -1449,7 +1449,7 @@
     },
     "https://poki.com/en/g/basketball-stars": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
-      "new_games_rank": 6,
+      "new_games_rank": 5,
       "recheck_at": [],
       "recheck_plan_started": false,
       "retry_at": null,
@@ -9743,16 +9743,15 @@
     "https://poki.com/en/g/galaxy-merge-starships-wars": {
       "first_seen": "2026-09-08T16:36:23.337649+00:00",
       "issue_error": null,
-      "issue_number": 67,
+      "issue_number": 83,
       "new_games_rank": 147,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-22T16:36:23.337649+00:00",
         "2026-10-08T16:36:23.337649+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/galaxy-merge-starships-wars.md",
-      "researched_at": "2026-09-15T16:56:41.063258+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-23/galaxy-merge-starships-wars.md",
+      "researched_at": "2026-09-23T04:42:13.328674+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-08T16:36:23.337649+00:00"
@@ -13594,17 +13593,16 @@
     "https://poki.com/en/g/mahjong-riddles-egypt": {
       "first_seen": "2026-09-15T11:40:58.997671+00:00",
       "issue_error": null,
-      "issue_number": 66,
+      "issue_number": 83,
       "new_games_rank": 146,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-22T11:40:58.997671+00:00",
         "2026-09-29T11:40:58.997671+00:00",
         "2026-10-15T11:40:58.997671+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/mahjong-riddles-egypt.md",
-      "researched_at": "2026-09-15T11:40:58.997671+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-23/mahjong-riddles-egypt.md",
+      "researched_at": "2026-09-23T04:42:13.328674+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-15T11:40:58.997671+00:00"
@@ -14079,17 +14077,16 @@
     "https://poki.com/en/g/merge-battler": {
       "first_seen": "2026-09-15T11:40:58.997671+00:00",
       "issue_error": null,
-      "issue_number": 66,
+      "issue_number": 83,
       "new_games_rank": 143,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-22T11:40:58.997671+00:00",
         "2026-09-29T11:40:58.997671+00:00",
         "2026-10-15T11:40:58.997671+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/merge-battler.md",
-      "researched_at": "2026-09-15T11:40:58.997671+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-23/merge-battler.md",
+      "researched_at": "2026-09-23T04:42:13.328674+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-15T11:40:58.997671+00:00"
@@ -14144,17 +14141,16 @@
     "https://poki.com/en/g/merge-idle-war": {
       "first_seen": "2026-09-15T11:40:58.997671+00:00",
       "issue_error": null,
-      "issue_number": 66,
+      "issue_number": 83,
       "new_games_rank": 142,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-22T11:40:58.997671+00:00",
         "2026-09-29T11:40:58.997671+00:00",
         "2026-10-15T11:40:58.997671+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/merge-idle-war.md",
-      "researched_at": "2026-09-15T11:40:58.997671+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-23/merge-idle-war.md",
+      "researched_at": "2026-09-23T04:42:13.328674+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-15T11:40:58.997671+00:00"
@@ -14228,17 +14224,16 @@
     "https://poki.com/en/g/merge-race": {
       "first_seen": "2026-09-15T16:56:41.063258+00:00",
       "issue_error": null,
-      "issue_number": 67,
+      "issue_number": 83,
       "new_games_rank": 146,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-22T16:56:41.063258+00:00",
         "2026-09-29T16:56:41.063258+00:00",
         "2026-10-15T16:56:41.063258+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/merge-race.md",
-      "researched_at": "2026-09-15T16:56:41.063258+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-23/merge-race.md",
+      "researched_at": "2026-09-23T04:42:13.328674+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-15T16:56:41.063258+00:00"
@@ -14775,17 +14770,16 @@
     "https://poki.com/en/g/monster-truck-demolition-derby": {
       "first_seen": "2026-09-15T16:56:41.063258+00:00",
       "issue_error": null,
-      "issue_number": 67,
+      "issue_number": 83,
       "new_games_rank": 143,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-22T16:56:41.063258+00:00",
         "2026-09-29T16:56:41.063258+00:00",
         "2026-10-15T16:56:41.063258+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/monster-truck-demolition-derby.md",
-      "researched_at": "2026-09-15T16:56:41.063258+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-23/monster-truck-demolition-derby.md",
+      "researched_at": "2026-09-23T04:42:13.328674+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-15T16:56:41.063258+00:00"
@@ -18237,17 +18231,16 @@
     "https://poki.com/en/g/ramp-master": {
       "first_seen": "2026-09-15T16:56:41.063258+00:00",
       "issue_error": null,
-      "issue_number": 67,
+      "issue_number": 83,
       "new_games_rank": 150,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-22T16:56:41.063258+00:00",
         "2026-09-29T16:56:41.063258+00:00",
         "2026-10-15T16:56:41.063258+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/ramp-master.md",
-      "researched_at": "2026-09-15T16:56:41.063258+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-23/ramp-master.md",
+      "researched_at": "2026-09-23T04:42:13.328674+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-15T16:56:41.063258+00:00"
@@ -23670,17 +23663,16 @@
     "https://poki.com/en/g/theft-city": {
       "first_seen": "2026-09-15T16:56:41.063258+00:00",
       "issue_error": null,
-      "issue_number": 67,
+      "issue_number": 83,
       "new_games_rank": 154,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-22T16:56:41.063258+00:00",
         "2026-09-29T16:56:41.063258+00:00",
         "2026-10-15T16:56:41.063258+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/theft-city.md",
-      "researched_at": "2026-09-15T16:56:41.063258+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-23/theft-city.md",
+      "researched_at": "2026-09-23T04:42:13.328674+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-15T16:56:41.063258+00:00",
@@ -24671,17 +24663,16 @@
     "https://poki.com/en/g/ultimate-free-kick": {
       "first_seen": "2026-09-15T16:56:41.063258+00:00",
       "issue_error": null,
-      "issue_number": 67,
+      "issue_number": 83,
       "new_games_rank": 147,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-22T16:56:41.063258+00:00",
         "2026-09-29T16:56:41.063258+00:00",
         "2026-10-15T16:56:41.063258+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/ultimate-free-kick.md",
-      "researched_at": "2026-09-15T16:56:41.063258+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-23/ultimate-free-kick.md",
+      "researched_at": "2026-09-23T04:42:13.328674+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-15T16:56:41.063258+00:00"
