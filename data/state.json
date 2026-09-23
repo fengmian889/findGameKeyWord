@@ -566,17 +566,16 @@
     "https://poki.com/en/g/age-arena": {
       "first_seen": "2026-09-16T11:28:21.211009+00:00",
       "issue_error": null,
-      "issue_number": 68,
+      "issue_number": 84,
       "new_games_rank": 142,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-23T11:28:21.211009+00:00",
         "2026-09-30T11:28:21.211009+00:00",
         "2026-10-16T11:28:21.211009+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-16/age-arena.md",
-      "researched_at": "2026-09-16T11:28:21.211009+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-23/age-arena.md",
+      "researched_at": "2026-09-23T11:31:29.396141+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-16T11:28:21.211009+00:00"
@@ -1322,17 +1321,16 @@
     "https://poki.com/en/g/balldrop": {
       "first_seen": "2026-09-16T11:28:21.211009+00:00",
       "issue_error": null,
-      "issue_number": 68,
+      "issue_number": 84,
       "new_games_rank": 144,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-23T11:28:21.211009+00:00",
         "2026-09-30T11:28:21.211009+00:00",
         "2026-10-16T11:28:21.211009+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-16/balldrop.md",
-      "researched_at": "2026-09-16T11:28:21.211009+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-23/balldrop.md",
+      "researched_at": "2026-09-23T11:31:29.396141+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-16T11:28:21.211009+00:00"
@@ -10155,6 +10153,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/going-up-cat-runner-3d": {
+      "first_seen": "2026-09-23T11:31:29.396141+00:00",
+      "issue_error": null,
+      "issue_number": 84,
+      "new_games_rank": 142,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-30T11:31:29.396141+00:00",
+        "2026-10-07T11:31:29.396141+00:00",
+        "2026-10-23T11:31:29.396141+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-23/going-up-cat-runner-3d.md",
+      "researched_at": "2026-09-23T11:31:29.396141+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-23T11:31:29.396141+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/going-up-rooftop": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": 95,
@@ -13668,17 +13689,16 @@
     "https://poki.com/en/g/makeover-cleaning-asmr": {
       "first_seen": "2026-09-16T11:28:21.211009+00:00",
       "issue_error": null,
-      "issue_number": 68,
+      "issue_number": 84,
       "new_games_rank": 141,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-23T11:28:21.211009+00:00",
         "2026-09-30T11:28:21.211009+00:00",
         "2026-10-16T11:28:21.211009+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-16/makeover-cleaning-asmr.md",
-      "researched_at": "2026-09-16T11:28:21.211009+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-23/makeover-cleaning-asmr.md",
+      "researched_at": "2026-09-23T11:31:29.396141+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-16T11:28:21.211009+00:00"
@@ -13920,7 +13940,7 @@
       "recheck_plan_started": true,
       "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/matrushka-merge.md",
       "researched_at": "2026-09-15T04:51:07.513062+00:00",
-      "retry_at": "2026-09-23T04:51:34.450281+00:00",
+      "retry_at": "2026-09-24T11:31:29.396141+00:00",
       "source_first_seen": {
         "new_games": "2026-09-07T21:29:36.795162+00:00"
       },
@@ -16659,6 +16679,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/pass-or-blast": {
+      "first_seen": "2026-09-23T11:31:29.396141+00:00",
+      "issue_error": null,
+      "issue_number": 84,
+      "new_games_rank": 143,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-09-30T11:31:29.396141+00:00",
+        "2026-10-07T11:31:29.396141+00:00",
+        "2026-10-23T11:31:29.396141+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-23/pass-or-blast.md",
+      "researched_at": "2026-09-23T11:31:29.396141+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-23T11:31:29.396141+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/penalty-challenge": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -23214,7 +23257,7 @@
       "first_seen": "2026-09-17T16:58:01.496213+00:00",
       "issue_error": null,
       "issue_number": 71,
-      "new_games_rank": null,
+      "new_games_rank": 13,
       "notification_pending": false,
       "recheck_at": [
         "2026-09-24T16:58:01.496213+00:00",
@@ -23226,9 +23269,11 @@
       "researched_at": "2026-09-17T16:58:01.496213+00:00",
       "retry_at": null,
       "source_first_seen": {
+        "new_games": "2026-09-23T11:31:29.396141+00:00",
         "sitemap": "2026-09-17T16:58:01.496213+00:00"
       },
       "sources": [
+        "new_games",
         "sitemap"
       ],
       "status": "researched"
@@ -25267,17 +25312,16 @@
     "https://poki.com/en/g/where-kitty": {
       "first_seen": "2026-09-16T11:28:21.211009+00:00",
       "issue_error": null,
-      "issue_number": 68,
+      "issue_number": 84,
       "new_games_rank": 143,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-23T11:28:21.211009+00:00",
         "2026-09-30T11:28:21.211009+00:00",
         "2026-10-16T11:28:21.211009+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-16/where-kitty.md",
-      "researched_at": "2026-09-16T11:28:21.211009+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-23/where-kitty.md",
+      "researched_at": "2026-09-23T11:31:29.396141+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-16T11:28:21.211009+00:00"
