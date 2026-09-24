@@ -4478,6 +4478,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/chimefall": {
+      "first_seen": "2026-09-24T11:41:38.701449+00:00",
+      "issue_error": null,
+      "issue_number": 87,
+      "new_games_rank": 145,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-01T11:41:38.701449+00:00",
+        "2026-10-08T11:41:38.701449+00:00",
+        "2026-10-24T11:41:38.701449+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/chimefall.md",
+      "researched_at": "2026-09-24T11:41:38.701449+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-24T11:41:38.701449+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/circloo": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -5733,6 +5756,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/crowd-evolution-arena-io": {
+      "first_seen": "2026-09-24T11:41:38.701449+00:00",
+      "issue_error": null,
+      "issue_number": 87,
+      "new_games_rank": 146,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-01T11:41:38.701449+00:00",
+        "2026-10-08T11:41:38.701449+00:00",
+        "2026-10-24T11:41:38.701449+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/crowd-evolution-arena-io.md",
+      "researched_at": "2026-09-24T11:41:38.701449+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-24T11:41:38.701449+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/crowd-rush": {
       "first_seen": "2026-08-07T19:14:02.529984+00:00",
@@ -7051,7 +7097,7 @@
       "first_seen": "2026-09-07T21:29:36.795162+00:00",
       "issue_error": null,
       "issue_number": 51,
-      "new_games_rank": 155,
+      "new_games_rank": 14,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
@@ -7888,6 +7934,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/escape-from-vlogger-runaway": {
+      "first_seen": "2026-09-24T11:41:38.701449+00:00",
+      "issue_error": null,
+      "issue_number": 87,
+      "new_games_rank": 150,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-01T11:41:38.701449+00:00",
+        "2026-10-08T11:41:38.701449+00:00",
+        "2026-10-24T11:41:38.701449+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/escape-from-vlogger-runaway.md",
+      "researched_at": "2026-09-24T11:41:38.701449+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-24T11:41:38.701449+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/escaping-the-prison": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -10881,6 +10950,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/hero-invasion-of-hell": {
+      "first_seen": "2026-09-24T11:41:38.701449+00:00",
+      "issue_error": null,
+      "issue_number": 87,
+      "new_games_rank": 149,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-01T11:41:38.701449+00:00",
+        "2026-10-08T11:41:38.701449+00:00",
+        "2026-10-24T11:41:38.701449+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/hero-invasion-of-hell.md",
+      "researched_at": "2026-09-24T11:41:38.701449+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-24T11:41:38.701449+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/hero-rescue": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -10938,6 +11030,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/hexa-drop": {
+      "first_seen": "2026-09-24T11:41:38.701449+00:00",
+      "issue_error": null,
+      "issue_number": 87,
+      "new_games_rank": 143,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-01T11:41:38.701449+00:00",
+        "2026-10-08T11:41:38.701449+00:00",
+        "2026-10-24T11:41:38.701449+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/hexa-drop.md",
+      "researched_at": "2026-09-24T11:41:38.701449+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-24T11:41:38.701449+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/hexellent": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -12669,6 +12784,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/knock-it-down": {
+      "first_seen": "2026-09-24T11:41:38.701449+00:00",
+      "issue_error": null,
+      "issue_number": 87,
+      "new_games_rank": 148,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-01T11:41:38.701449+00:00",
+        "2026-10-08T11:41:38.701449+00:00",
+        "2026-10-24T11:41:38.701449+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/knock-it-down.md",
+      "researched_at": "2026-09-24T11:41:38.701449+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-24T11:41:38.701449+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/knockout-penguins": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -15845,7 +15983,7 @@
       "first_seen": "2026-08-26T13:14:52.945850+00:00",
       "issue_error": null,
       "issue_number": null,
-      "new_games_rank": null,
+      "new_games_rank": 13,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": true,
@@ -15853,9 +15991,11 @@
       "researched_at": "2026-09-09T16:36:23.590696+00:00",
       "retry_at": null,
       "source_first_seen": {
+        "new_games": "2026-09-24T11:41:38.701449+00:00",
         "sitemap": "2026-08-26T13:14:52.945850+00:00"
       },
       "sources": [
+        "new_games",
         "sitemap"
       ],
       "status": "researched"
@@ -15980,6 +16120,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/obby-with-friends-mini-games": {
+      "first_seen": "2026-09-24T11:41:38.701449+00:00",
+      "issue_error": null,
+      "issue_number": 87,
+      "new_games_rank": 144,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-01T11:41:38.701449+00:00",
+        "2026-10-08T11:41:38.701449+00:00",
+        "2026-10-24T11:41:38.701449+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/obby-with-friends-mini-games.md",
+      "researched_at": "2026-09-24T11:41:38.701449+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-24T11:41:38.701449+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/ocean": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -17008,6 +17171,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/pickle-ball-pro": {
+      "first_seen": "2026-09-24T11:41:38.701449+00:00",
+      "issue_error": null,
+      "issue_number": 87,
+      "new_games_rank": 142,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-01T11:41:38.701449+00:00",
+        "2026-10-08T11:41:38.701449+00:00",
+        "2026-10-24T11:41:38.701449+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/pickle-ball-pro.md",
+      "researched_at": "2026-09-24T11:41:38.701449+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-24T11:41:38.701449+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/picnic-penguin": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -21359,7 +21545,7 @@
     },
     "https://poki.com/en/g/steal-a-brainrot": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
-      "new_games_rank": 6,
+      "new_games_rank": 5,
       "recheck_at": [],
       "recheck_plan_started": false,
       "retry_at": null,
@@ -24488,6 +24674,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/treasure-hunting-simulator": {
+      "first_seen": "2026-09-24T11:41:38.701449+00:00",
+      "issue_error": null,
+      "issue_number": 87,
+      "new_games_rank": 147,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-01T11:41:38.701449+00:00",
+        "2026-10-08T11:41:38.701449+00:00",
+        "2026-10-24T11:41:38.701449+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/treasure-hunting-simulator.md",
+      "researched_at": "2026-09-24T11:41:38.701449+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-24T11:41:38.701449+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/treasure-island": {
       "first_seen": "2026-09-07T21:29:36.795162+00:00",
       "issue_error": null,
@@ -25671,6 +25880,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/word-baron": {
+      "first_seen": "2026-09-24T11:41:38.701449+00:00",
+      "issue_error": null,
+      "issue_number": 87,
+      "new_games_rank": 152,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-01T11:41:38.701449+00:00",
+        "2026-10-08T11:41:38.701449+00:00",
+        "2026-10-24T11:41:38.701449+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/word-baron.md",
+      "researched_at": "2026-09-24T11:41:38.701449+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-24T11:41:38.701449+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/word-boss": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
