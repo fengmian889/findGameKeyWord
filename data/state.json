@@ -1009,6 +1009,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/archer-wars": {
+      "first_seen": "2026-09-24T17:07:50.976812+00:00",
+      "issue_error": null,
+      "issue_number": 88,
+      "new_games_rank": 148,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-01T17:07:50.976812+00:00",
+        "2026-10-08T17:07:50.976812+00:00",
+        "2026-10-24T17:07:50.976812+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/archer-wars.md",
+      "researched_at": "2026-09-24T17:07:50.976812+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-24T17:07:50.976812+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/arithmetica": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -1648,6 +1671,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/beauty-makeover-clinic": {
+      "first_seen": "2026-09-24T17:07:50.976812+00:00",
+      "issue_error": null,
+      "issue_number": 88,
+      "new_games_rank": 149,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-01T17:07:50.976812+00:00",
+        "2026-10-08T17:07:50.976812+00:00",
+        "2026-10-24T17:07:50.976812+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/beauty-makeover-clinic.md",
+      "researched_at": "2026-09-24T17:07:50.976812+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-24T17:07:50.976812+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/beauty-salon": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -3149,6 +3195,20 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/bubble-storm-2": {
+      "first_seen": "2026-09-24T17:07:50.976812+00:00",
+      "new_games_rank": 152,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-24T17:07:50.976812+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "pending"
     },
     "https://poki.com/en/g/bubble-tower": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -8238,6 +8298,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/fashion-disaster-fix": {
+      "first_seen": "2026-09-24T17:07:50.976812+00:00",
+      "issue_error": null,
+      "issue_number": 88,
+      "new_games_rank": 151,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-01T17:07:50.976812+00:00",
+        "2026-10-08T17:07:50.976812+00:00",
+        "2026-10-24T17:07:50.976812+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/fashion-disaster-fix.md",
+      "researched_at": "2026-09-24T17:07:50.976812+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-24T17:07:50.976812+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/fashion-dress-up-4987996c": {
       "first_seen": "2026-09-18T11:10:27.110682+00:00",
       "issue_error": null,
@@ -10908,6 +10991,22 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/hatch-your-pets": {
+      "first_seen": "2026-09-24T17:07:50.976812+00:00",
+      "new_games_rank": 163,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-24T17:07:50.976812+00:00",
+        "sitemap": "2026-09-24T17:07:50.976812+00:00"
+      },
+      "sources": [
+        "new_games",
+        "sitemap"
+      ],
+      "status": "pending"
+    },
     "https://poki.com/en/g/heads-arena-soccer-all-stars": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -11360,6 +11459,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/home-destroyersuper-villain-simulator": {
+      "first_seen": "2026-09-24T17:07:50.976812+00:00",
+      "issue_error": null,
+      "issue_number": 88,
+      "new_games_rank": 145,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-01T17:07:50.976812+00:00",
+        "2026-10-08T17:07:50.976812+00:00",
+        "2026-10-24T17:07:50.976812+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/home-destroyersuper-villain-simulator.md",
+      "researched_at": "2026-09-24T17:07:50.976812+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-24T17:07:50.976812+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/hop-chop": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -11569,6 +11691,20 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/ice-cream-inc": {
+      "first_seen": "2026-09-24T17:07:50.976812+00:00",
+      "new_games_rank": 167,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-24T17:07:50.976812+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "pending"
     },
     "https://poki.com/en/g/ice-cream-please": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -14990,6 +15126,29 @@
       ],
       "status": "researched"
     },
+    "https://poki.com/en/g/monsters": {
+      "first_seen": "2026-09-24T17:07:50.976812+00:00",
+      "issue_error": null,
+      "issue_number": 88,
+      "new_games_rank": 147,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-01T17:07:50.976812+00:00",
+        "2026-10-08T17:07:50.976812+00:00",
+        "2026-10-24T17:07:50.976812+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/monsters.md",
+      "researched_at": "2026-09-24T17:07:50.976812+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-24T17:07:50.976812+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/monsters-wheels-special": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -17246,6 +17405,22 @@
       ],
       "status": "researched"
     },
+    "https://poki.com/en/g/pilot-life": {
+      "first_seen": "2026-09-24T17:07:50.976812+00:00",
+      "new_games_rank": 166,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-24T17:07:50.976812+00:00",
+        "sitemap": "2026-09-24T17:07:50.976812+00:00"
+      },
+      "sources": [
+        "new_games",
+        "sitemap"
+      ],
+      "status": "pending"
+    },
     "https://poki.com/en/g/ping-pong-go": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -18611,6 +18786,29 @@
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-02T16:32:49.998833+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
+    "https://poki.com/en/g/real-bus-driving": {
+      "first_seen": "2026-09-24T17:07:50.976812+00:00",
+      "issue_error": null,
+      "issue_number": 88,
+      "new_games_rank": 143,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-01T17:07:50.976812+00:00",
+        "2026-10-08T17:07:50.976812+00:00",
+        "2026-10-24T17:07:50.976812+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/real-bus-driving.md",
+      "researched_at": "2026-09-24T17:07:50.976812+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-24T17:07:50.976812+00:00"
       },
       "sources": [
         "new_games"
@@ -21888,6 +22086,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/stickman-duels": {
+      "first_seen": "2026-09-24T17:07:50.976812+00:00",
+      "issue_error": null,
+      "issue_number": 88,
+      "new_games_rank": 144,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-01T17:07:50.976812+00:00",
+        "2026-10-08T17:07:50.976812+00:00",
+        "2026-10-24T17:07:50.976812+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/stickman-duels.md",
+      "researched_at": "2026-09-24T17:07:50.976812+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-24T17:07:50.976812+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/stickman-escape": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -23352,6 +23573,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/talking-tom-cooking": {
+      "first_seen": "2026-09-24T17:07:50.976812+00:00",
+      "issue_error": null,
+      "issue_number": 88,
+      "new_games_rank": 150,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-01T17:07:50.976812+00:00",
+        "2026-10-08T17:07:50.976812+00:00",
+        "2026-10-24T17:07:50.976812+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/talking-tom-cooking.md",
+      "researched_at": "2026-09-24T17:07:50.976812+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-24T17:07:50.976812+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/talking-tom-drop-and-pop": {
       "first_seen": "2026-09-08T21:07:31.766395+00:00",
       "issue_error": null,
@@ -23938,6 +24182,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/the-lines-we-draw": {
+      "first_seen": "2026-09-24T17:07:50.976812+00:00",
+      "issue_error": null,
+      "issue_number": 88,
+      "new_games_rank": 142,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-01T17:07:50.976812+00:00",
+        "2026-10-08T17:07:50.976812+00:00",
+        "2026-10-24T17:07:50.976812+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/the-lines-we-draw.md",
+      "researched_at": "2026-09-24T17:07:50.976812+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-24T17:07:50.976812+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/the-pillar": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -24229,6 +24496,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/tidy-up-store": {
+      "first_seen": "2026-09-24T17:07:50.976812+00:00",
+      "issue_error": null,
+      "issue_number": 88,
+      "new_games_rank": 146,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-01T17:07:50.976812+00:00",
+        "2026-10-08T17:07:50.976812+00:00",
+        "2026-10-24T17:07:50.976812+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/tidy-up-store.md",
+      "researched_at": "2026-09-24T17:07:50.976812+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-24T17:07:50.976812+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/tiger-simulator-3d": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
