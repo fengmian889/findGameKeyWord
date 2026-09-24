@@ -814,17 +814,16 @@
     "https://poki.com/en/g/anomaly-airport": {
       "first_seen": "2026-09-17T16:58:01.496213+00:00",
       "issue_error": null,
-      "issue_number": 71,
+      "issue_number": 89,
       "new_games_rank": 142,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-24T16:58:01.496213+00:00",
         "2026-10-01T16:58:01.496213+00:00",
         "2026-10-17T16:58:01.496213+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-17/anomaly-airport.md",
-      "researched_at": "2026-09-17T16:58:01.496213+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/anomaly-airport.md",
+      "researched_at": "2026-09-24T21:29:06.367006+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-17T16:58:01.496213+00:00"
@@ -3198,9 +3197,18 @@
     },
     "https://poki.com/en/g/bubble-storm-2": {
       "first_seen": "2026-09-24T17:07:50.976812+00:00",
+      "issue_error": null,
+      "issue_number": 89,
       "new_games_rank": 152,
-      "recheck_at": [],
-      "recheck_plan_started": false,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-01T21:29:06.367006+00:00",
+        "2026-10-08T21:29:06.367006+00:00",
+        "2026-10-24T21:29:06.367006+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/bubble-storm-2.md",
+      "researched_at": "2026-09-24T21:29:06.367006+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-24T17:07:50.976812+00:00"
@@ -3208,7 +3216,7 @@
       "sources": [
         "new_games"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/bubble-tower": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -3301,17 +3309,16 @@
     "https://poki.com/en/g/bugs-io": {
       "first_seen": "2026-09-17T16:58:01.496213+00:00",
       "issue_error": null,
-      "issue_number": 71,
+      "issue_number": 89,
       "new_games_rank": 155,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-24T16:58:01.496213+00:00",
         "2026-10-01T16:58:01.496213+00:00",
         "2026-10-17T16:58:01.496213+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-17/bugs-io.md",
-      "researched_at": "2026-09-17T16:58:01.496213+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/bugs-io.md",
+      "researched_at": "2026-09-24T21:29:06.367006+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-17T21:19:57.413003+00:00",
@@ -5637,17 +5644,16 @@
     "https://poki.com/en/g/crazy-motorcycle-pro": {
       "first_seen": "2026-09-17T16:58:01.496213+00:00",
       "issue_error": null,
-      "issue_number": 71,
+      "issue_number": 89,
       "new_games_rank": null,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-24T16:58:01.496213+00:00",
         "2026-10-01T16:58:01.496213+00:00",
         "2026-10-17T16:58:01.496213+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-17/crazy-motorcycle-pro.md",
-      "researched_at": "2026-09-17T16:58:01.496213+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/crazy-motorcycle-pro.md",
+      "researched_at": "2026-09-24T21:29:06.367006+00:00",
       "retry_at": null,
       "source_first_seen": {
         "sitemap": "2026-09-17T16:58:01.496213+00:00"
@@ -5984,17 +5990,16 @@
     "https://poki.com/en/g/cubegate": {
       "first_seen": "2026-09-17T21:19:57.413003+00:00",
       "issue_error": null,
-      "issue_number": 72,
+      "issue_number": 89,
       "new_games_rank": 141,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-24T21:19:57.413003+00:00",
         "2026-10-01T21:19:57.413003+00:00",
         "2026-10-17T21:19:57.413003+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-17/cubegate.md",
-      "researched_at": "2026-09-17T21:19:57.413003+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/cubegate.md",
+      "researched_at": "2026-09-24T21:29:06.367006+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-17T21:19:57.413003+00:00"
@@ -6520,17 +6525,16 @@
     "https://poki.com/en/g/dino-dash": {
       "first_seen": "2026-09-17T21:19:57.413003+00:00",
       "issue_error": null,
-      "issue_number": 72,
+      "issue_number": 89,
       "new_games_rank": 150,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-24T21:19:57.413003+00:00",
         "2026-10-01T21:19:57.413003+00:00",
         "2026-10-17T21:19:57.413003+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-17/dino-dash.md",
-      "researched_at": "2026-09-17T21:19:57.413003+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/dino-dash.md",
+      "researched_at": "2026-09-24T21:29:06.367006+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-17T21:19:57.413003+00:00"
@@ -8542,17 +8546,16 @@
     "https://poki.com/en/g/fight-loop": {
       "first_seen": "2026-09-17T21:19:57.413003+00:00",
       "issue_error": null,
-      "issue_number": 72,
+      "issue_number": 89,
       "new_games_rank": 144,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-24T21:19:57.413003+00:00",
         "2026-10-01T21:19:57.413003+00:00",
         "2026-10-17T21:19:57.413003+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-17/fight-loop.md",
-      "researched_at": "2026-09-17T21:19:57.413003+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/fight-loop.md",
+      "researched_at": "2026-09-24T21:29:06.367006+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-17T21:19:57.413003+00:00"
@@ -10993,9 +10996,18 @@
     },
     "https://poki.com/en/g/hatch-your-pets": {
       "first_seen": "2026-09-24T17:07:50.976812+00:00",
+      "issue_error": null,
+      "issue_number": 89,
       "new_games_rank": 163,
-      "recheck_at": [],
-      "recheck_plan_started": false,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-01T21:29:06.367006+00:00",
+        "2026-10-08T21:29:06.367006+00:00",
+        "2026-10-24T21:29:06.367006+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/hatch-your-pets.md",
+      "researched_at": "2026-09-24T21:29:06.367006+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-24T17:07:50.976812+00:00",
@@ -11005,7 +11017,7 @@
         "new_games",
         "sitemap"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/heads-arena-soccer-all-stars": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -11694,9 +11706,18 @@
     },
     "https://poki.com/en/g/ice-cream-inc": {
       "first_seen": "2026-09-24T17:07:50.976812+00:00",
+      "issue_error": null,
+      "issue_number": 89,
       "new_games_rank": 167,
-      "recheck_at": [],
-      "recheck_plan_started": false,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-01T21:29:06.367006+00:00",
+        "2026-10-08T21:29:06.367006+00:00",
+        "2026-10-24T21:29:06.367006+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/ice-cream-inc.md",
+      "researched_at": "2026-09-24T21:29:06.367006+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-24T17:07:50.976812+00:00"
@@ -11704,7 +11725,7 @@
       "sources": [
         "new_games"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/ice-cream-please": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -17407,9 +17428,18 @@
     },
     "https://poki.com/en/g/pilot-life": {
       "first_seen": "2026-09-24T17:07:50.976812+00:00",
+      "issue_error": null,
+      "issue_number": 89,
       "new_games_rank": 166,
-      "recheck_at": [],
-      "recheck_plan_started": false,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-01T21:29:06.367006+00:00",
+        "2026-10-08T21:29:06.367006+00:00",
+        "2026-10-24T21:29:06.367006+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/pilot-life.md",
+      "researched_at": "2026-09-24T21:29:06.367006+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-24T17:07:50.976812+00:00",
@@ -17419,7 +17449,7 @@
         "new_games",
         "sitemap"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/ping-pong-go": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
