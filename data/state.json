@@ -2481,6 +2481,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/boomtown": {
+      "first_seen": "2026-09-25T11:47:37.839720+00:00",
+      "issue_error": null,
+      "issue_number": 91,
+      "new_games_rank": 144,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-02T11:47:37.839720+00:00",
+        "2026-10-09T11:47:37.839720+00:00",
+        "2026-10-25T11:47:37.839720+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-25/boomtown.md",
+      "researched_at": "2026-09-25T11:47:37.839720+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-25T11:47:37.839720+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/boomy-world": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": 13,
@@ -3531,17 +3554,16 @@
     "https://poki.com/en/g/bus-simulator": {
       "first_seen": "2026-09-18T11:10:27.110682+00:00",
       "issue_error": null,
-      "issue_number": 74,
+      "issue_number": 91,
       "new_games_rank": 147,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-25T11:10:27.110682+00:00",
         "2026-10-02T11:10:27.110682+00:00",
         "2026-10-18T11:10:27.110682+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-18/bus-simulator.md",
-      "researched_at": "2026-09-18T11:10:27.110682+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-25/bus-simulator.md",
+      "researched_at": "2026-09-25T11:47:37.839720+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-18T11:10:27.110682+00:00"
@@ -4128,17 +4150,16 @@
     "https://poki.com/en/g/cat-ghost-hunter": {
       "first_seen": "2026-09-18T11:10:27.110682+00:00",
       "issue_error": null,
-      "issue_number": 74,
+      "issue_number": 91,
       "new_games_rank": 144,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-25T11:10:27.110682+00:00",
         "2026-10-02T11:10:27.110682+00:00",
         "2026-10-18T11:10:27.110682+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-18/cat-ghost-hunter.md",
-      "researched_at": "2026-09-18T11:10:27.110682+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-25/cat-ghost-hunter.md",
+      "researched_at": "2026-09-25T11:47:37.839720+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-18T11:10:27.110682+00:00"
@@ -5337,6 +5358,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/cornerlet": {
+      "first_seen": "2026-09-25T11:47:37.839720+00:00",
+      "issue_error": null,
+      "issue_number": 91,
+      "new_games_rank": 145,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-02T11:47:37.839720+00:00",
+        "2026-10-09T11:47:37.839720+00:00",
+        "2026-10-25T11:47:37.839720+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-25/cornerlet.md",
+      "researched_at": "2026-09-25T11:47:37.839720+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-25T11:47:37.839720+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/cosmic-towers": {
       "first_seen": "2026-08-06T14:33:37.873879+00:00",
       "issue_error": null,
@@ -6402,6 +6446,29 @@
       "sources": [
         "new_games",
         "sitemap"
+      ],
+      "status": "researched"
+    },
+    "https://poki.com/en/g/desert-baron": {
+      "first_seen": "2026-09-25T11:47:37.839720+00:00",
+      "issue_error": null,
+      "issue_number": 91,
+      "new_games_rank": 142,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-02T11:47:37.839720+00:00",
+        "2026-10-09T11:47:37.839720+00:00",
+        "2026-10-25T11:47:37.839720+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-25/desert-baron.md",
+      "researched_at": "2026-09-25T11:47:37.839720+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-25T11:47:37.839720+00:00"
+      },
+      "sources": [
+        "new_games"
       ],
       "status": "researched"
     },
@@ -8328,17 +8395,16 @@
     "https://poki.com/en/g/fashion-dress-up-4987996c": {
       "first_seen": "2026-09-18T11:10:27.110682+00:00",
       "issue_error": null,
-      "issue_number": 74,
+      "issue_number": 91,
       "new_games_rank": 141,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-25T11:10:27.110682+00:00",
         "2026-10-02T11:10:27.110682+00:00",
         "2026-10-18T11:10:27.110682+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-18/fashion-dress-up-4987996c.md",
-      "researched_at": "2026-09-18T11:10:27.110682+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-25/fashion-dress-up-4987996c.md",
+      "researched_at": "2026-09-25T11:47:37.839720+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-18T11:10:27.110682+00:00"
@@ -8633,17 +8699,16 @@
     "https://poki.com/en/g/find-cats-in-doodle-world": {
       "first_seen": "2026-09-18T11:10:27.110682+00:00",
       "issue_error": null,
-      "issue_number": 74,
+      "issue_number": 91,
       "new_games_rank": 143,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-25T11:10:27.110682+00:00",
         "2026-10-02T11:10:27.110682+00:00",
         "2026-10-18T11:10:27.110682+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-18/find-cats-in-doodle-world.md",
-      "researched_at": "2026-09-18T11:10:27.110682+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-25/find-cats-in-doodle-world.md",
+      "researched_at": "2026-09-25T11:47:37.839720+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-18T11:10:27.110682+00:00"
@@ -12494,17 +12559,16 @@
     "https://poki.com/en/g/jumpybara": {
       "first_seen": "2026-09-18T11:10:27.110682+00:00",
       "issue_error": null,
-      "issue_number": 74,
+      "issue_number": 91,
       "new_games_rank": 146,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-25T11:10:27.110682+00:00",
         "2026-10-02T11:10:27.110682+00:00",
         "2026-10-18T11:10:27.110682+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-18/jumpybara.md",
-      "researched_at": "2026-09-18T11:10:27.110682+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-25/jumpybara.md",
+      "researched_at": "2026-09-25T11:47:37.839720+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-18T11:10:27.110682+00:00"
@@ -13421,7 +13485,7 @@
       "first_seen": "2026-09-08T21:07:31.766395+00:00",
       "issue_error": null,
       "issue_number": 54,
-      "new_games_rank": 149,
+      "new_games_rank": 13,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
@@ -14526,6 +14590,29 @@
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-08-10T13:42:10.066247+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
+    "https://poki.com/en/g/merge-miner-c583d59d": {
+      "first_seen": "2026-09-25T11:47:37.839720+00:00",
+      "issue_error": null,
+      "issue_number": 91,
+      "new_games_rank": 146,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-02T11:47:37.839720+00:00",
+        "2026-10-09T11:47:37.839720+00:00",
+        "2026-10-25T11:47:37.839720+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-25/merge-miner-c583d59d.md",
+      "researched_at": "2026-09-25T11:47:37.839720+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-25T11:47:37.839720+00:00"
       },
       "sources": [
         "new_games"
@@ -21614,6 +21701,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/sprint-bridge": {
+      "first_seen": "2026-09-25T11:47:37.839720+00:00",
+      "issue_error": null,
+      "issue_number": 91,
+      "new_games_rank": 143,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-02T11:47:37.839720+00:00",
+        "2026-10-09T11:47:37.839720+00:00",
+        "2026-10-25T11:47:37.839720+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-25/sprint-bridge.md",
+      "researched_at": "2026-09-25T11:47:37.839720+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-25T11:47:37.839720+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/sprint-league": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
