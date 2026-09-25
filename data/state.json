@@ -221,9 +221,18 @@
     },
     "https://poki.com/en/g/2048x2-legend": {
       "first_seen": "2026-09-25T17:08:20.583980+00:00",
+      "issue_error": null,
+      "issue_number": 93,
       "new_games_rank": 156,
-      "recheck_at": [],
-      "recheck_plan_started": false,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-02T21:32:49.942443+00:00",
+        "2026-10-09T21:32:49.942443+00:00",
+        "2026-10-25T21:32:49.942443+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-25/2048x2-legend.md",
+      "researched_at": "2026-09-25T21:32:49.942443+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-25T17:08:20.583980+00:00"
@@ -231,7 +240,7 @@
       "sources": [
         "new_games"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/20f8": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -465,9 +474,18 @@
     },
     "https://poki.com/en/g/a-little-perspective": {
       "first_seen": "2026-09-25T17:08:20.583980+00:00",
+      "issue_error": null,
+      "issue_number": 93,
       "new_games_rank": 152,
-      "recheck_at": [],
-      "recheck_plan_started": false,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-02T21:32:49.942443+00:00",
+        "2026-10-09T21:32:49.942443+00:00",
+        "2026-10-25T21:32:49.942443+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-25/a-little-perspective.md",
+      "researched_at": "2026-09-25T21:32:49.942443+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-25T17:08:20.583980+00:00"
@@ -475,7 +493,7 @@
       "sources": [
         "new_games"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/a-pretty-odd-bunny": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -5929,9 +5947,18 @@
     },
     "https://poki.com/en/g/crossword-genius": {
       "first_seen": "2026-09-25T17:08:20.583980+00:00",
+      "issue_error": null,
+      "issue_number": 93,
       "new_games_rank": 154,
-      "recheck_at": [],
-      "recheck_plan_started": false,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-02T21:32:49.942443+00:00",
+        "2026-10-09T21:32:49.942443+00:00",
+        "2026-10-25T21:32:49.942443+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-25/crossword-genius.md",
+      "researched_at": "2026-09-25T21:32:49.942443+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-25T17:08:20.583980+00:00"
@@ -5939,7 +5966,7 @@
       "sources": [
         "new_games"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/crossy-road": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -6143,9 +6170,18 @@
     },
     "https://poki.com/en/g/cubevalleyio": {
       "first_seen": "2026-09-25T17:08:20.583980+00:00",
+      "issue_error": null,
+      "issue_number": 93,
       "new_games_rank": 155,
-      "recheck_at": [],
-      "recheck_plan_started": false,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-02T21:32:49.942443+00:00",
+        "2026-10-09T21:32:49.942443+00:00",
+        "2026-10-25T21:32:49.942443+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-25/cubevalleyio.md",
+      "researched_at": "2026-09-25T21:32:49.942443+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-25T17:08:20.583980+00:00"
@@ -6153,7 +6189,7 @@
       "sources": [
         "new_games"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/cubies": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -9306,9 +9342,18 @@
     },
     "https://poki.com/en/g/flying-car-simulator-3c86bf16": {
       "first_seen": "2026-09-25T17:08:20.583980+00:00",
+      "issue_error": null,
+      "issue_number": 93,
       "new_games_rank": 157,
-      "recheck_at": [],
-      "recheck_plan_started": false,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-02T21:32:49.942443+00:00",
+        "2026-10-09T21:32:49.942443+00:00",
+        "2026-10-25T21:32:49.942443+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-25/flying-car-simulator-3c86bf16.md",
+      "researched_at": "2026-09-25T21:32:49.942443+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-25T17:08:20.583980+00:00"
@@ -9316,7 +9361,7 @@
       "sources": [
         "new_games"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/flying-wheels-evolution": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -11766,9 +11811,18 @@
     },
     "https://poki.com/en/g/honey-money": {
       "first_seen": "2026-09-25T17:08:20.583980+00:00",
+      "issue_error": null,
+      "issue_number": 93,
       "new_games_rank": 164,
-      "recheck_at": [],
-      "recheck_plan_started": false,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-02T21:32:49.942443+00:00",
+        "2026-10-09T21:32:49.942443+00:00",
+        "2026-10-25T21:32:49.942443+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-25/honey-money.md",
+      "researched_at": "2026-09-25T21:32:49.942443+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-25T17:08:20.583980+00:00"
@@ -11776,7 +11830,7 @@
       "sources": [
         "new_games"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/hop-chop": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -12190,9 +12244,18 @@
     },
     "https://poki.com/en/g/idle-settlers": {
       "first_seen": "2026-09-25T17:08:20.583980+00:00",
+      "issue_error": null,
+      "issue_number": 93,
       "new_games_rank": 167,
-      "recheck_at": [],
-      "recheck_plan_started": false,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-02T21:32:49.942443+00:00",
+        "2026-10-09T21:32:49.942443+00:00",
+        "2026-10-25T21:32:49.942443+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-25/idle-settlers.md",
+      "researched_at": "2026-09-25T21:32:49.942443+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-25T17:08:20.583980+00:00"
@@ -12200,7 +12263,7 @@
       "sources": [
         "new_games"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/idle-spinner-factory-builder": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -15167,6 +15230,29 @@
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-16T16:51:45.936057+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
+    "https://poki.com/en/g/mine-clicker": {
+      "first_seen": "2026-09-25T21:32:49.942443+00:00",
+      "issue_error": null,
+      "issue_number": 93,
+      "new_games_rank": 171,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-02T21:32:49.942443+00:00",
+        "2026-10-09T21:32:49.942443+00:00",
+        "2026-10-25T21:32:49.942443+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-25/mine-clicker.md",
+      "researched_at": "2026-09-25T21:32:49.942443+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-25T21:32:49.942443+00:00"
       },
       "sources": [
         "new_games"
@@ -18744,6 +18830,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/pump-the-duck": {
+      "first_seen": "2026-09-25T21:32:49.942443+00:00",
+      "issue_error": null,
+      "issue_number": 93,
+      "new_games_rank": 142,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-02T21:32:49.942443+00:00",
+        "2026-10-09T21:32:49.942443+00:00",
+        "2026-10-25T21:32:49.942443+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-25/pump-the-duck.md",
+      "researched_at": "2026-09-25T21:32:49.942443+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-25T21:32:49.942443+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/punch-legend-simulator": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -19363,6 +19472,20 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/reroute": {
+      "first_seen": "2026-09-25T21:32:49.942443+00:00",
+      "new_games_rank": null,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "retry_at": null,
+      "source_first_seen": {
+        "sitemap": "2026-09-25T21:32:49.942443+00:00"
+      },
+      "sources": [
+        "sitemap"
+      ],
+      "status": "pending"
+    },
     "https://poki.com/en/g/rescue-the-fish": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -19437,9 +19560,18 @@
     },
     "https://poki.com/en/g/retro-kick-soccer": {
       "first_seen": "2026-09-25T17:08:20.583980+00:00",
+      "issue_error": null,
+      "issue_number": 93,
       "new_games_rank": 153,
-      "recheck_at": [],
-      "recheck_plan_started": false,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-02T21:32:49.942443+00:00",
+        "2026-10-09T21:32:49.942443+00:00",
+        "2026-10-25T21:32:49.942443+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-25/retro-kick-soccer.md",
+      "researched_at": "2026-09-25T21:32:49.942443+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-25T17:08:20.583980+00:00"
@@ -19447,7 +19579,7 @@
       "sources": [
         "new_games"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/retro-rex": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
