@@ -5910,7 +5910,7 @@
       "first_seen": "2026-09-03T16:23:47.312365+00:00",
       "issue_error": null,
       "issue_number": 44,
-      "new_games_rank": 142,
+      "new_games_rank": 13,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": true,
@@ -14652,7 +14652,7 @@
       "recheck_plan_started": true,
       "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/matrushka-merge.md",
       "researched_at": "2026-09-15T04:51:07.513062+00:00",
-      "retry_at": "2026-09-26T04:54:09.596911+00:00",
+      "retry_at": "2026-09-27T11:21:12.012007+00:00",
       "source_first_seen": {
         "new_games": "2026-09-07T21:29:36.795162+00:00"
       },
@@ -15029,17 +15029,16 @@
     "https://poki.com/en/g/merge-shot": {
       "first_seen": "2026-09-18T11:10:27.110682+00:00",
       "issue_error": null,
-      "issue_number": 74,
+      "issue_number": 95,
       "new_games_rank": 142,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-25T11:10:27.110682+00:00",
         "2026-10-02T11:10:27.110682+00:00",
         "2026-10-18T11:10:27.110682+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-18/merge-shot.md",
-      "researched_at": "2026-09-18T11:10:27.110682+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-26/merge-shot.md",
+      "researched_at": "2026-09-26T11:21:12.012007+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-18T11:10:27.110682+00:00"
@@ -15649,7 +15648,7 @@
       "recheck_plan_started": true,
       "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-20/mooverse-d9cc7bd1.md",
       "researched_at": "2026-08-20T01:50:34.871894+00:00",
-      "retry_at": "2026-09-26T04:54:09.596911+00:00",
+      "retry_at": "2026-09-27T11:21:12.012007+00:00",
       "source_first_seen": {
         "new_games": "2026-08-12T19:18:17.215133+00:00"
       },
@@ -15803,17 +15802,16 @@
     "https://poki.com/en/g/mountain-car-climb": {
       "first_seen": "2026-09-18T16:22:10.943500+00:00",
       "issue_error": null,
-      "issue_number": 75,
+      "issue_number": 95,
       "new_games_rank": 141,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-25T16:22:10.943500+00:00",
         "2026-10-02T16:22:10.943500+00:00",
         "2026-10-18T16:22:10.943500+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-18/mountain-car-climb.md",
-      "researched_at": "2026-09-18T16:22:10.943500+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-26/mountain-car-climb.md",
+      "researched_at": "2026-09-26T11:21:12.012007+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-18T16:22:10.943500+00:00"
@@ -17354,17 +17352,16 @@
     "https://poki.com/en/g/paper-empire": {
       "first_seen": "2026-09-18T16:22:10.943500+00:00",
       "issue_error": null,
-      "issue_number": 75,
+      "issue_number": 95,
       "new_games_rank": 147,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-25T16:22:10.943500+00:00",
         "2026-10-02T16:22:10.943500+00:00",
         "2026-10-18T16:22:10.943500+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-18/paper-empire.md",
-      "researched_at": "2026-09-18T16:22:10.943500+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-26/paper-empire.md",
+      "researched_at": "2026-09-26T11:21:12.012007+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-18T16:22:10.943500+00:00"
@@ -17847,17 +17844,16 @@
     "https://poki.com/en/g/picture-puzzle": {
       "first_seen": "2026-09-18T11:10:27.110682+00:00",
       "issue_error": null,
-      "issue_number": 74,
+      "issue_number": 95,
       "new_games_rank": 145,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-25T11:10:27.110682+00:00",
         "2026-10-02T11:10:27.110682+00:00",
         "2026-10-18T11:10:27.110682+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-18/picture-puzzle.md",
-      "researched_at": "2026-09-18T11:10:27.110682+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-26/picture-puzzle.md",
+      "researched_at": "2026-09-26T11:21:12.012007+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-18T11:10:27.110682+00:00"
@@ -18031,7 +18027,7 @@
       "recheck_plan_started": true,
       "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-31/pixellent.md",
       "researched_at": "2026-08-31T13:44:12.593243+00:00",
-      "retry_at": "2026-09-26T04:54:09.596911+00:00",
+      "retry_at": "2026-09-27T11:21:12.012007+00:00",
       "source_first_seen": {
         "new_games": "2026-08-31T13:44:12.593243+00:00"
       },
@@ -18763,15 +18759,13 @@
     "https://poki.com/en/g/project-gatherwood": {
       "first_seen": "2026-08-25T13:09:59.740462+00:00",
       "issue_error": null,
-      "issue_number": 53,
+      "issue_number": 95,
       "new_games_rank": 144,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-09-24T13:09:59.740462+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-08/project-gatherwood.md",
-      "researched_at": "2026-09-08T16:36:23.337649+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-26/project-gatherwood.md",
+      "researched_at": "2026-09-26T11:21:12.012007+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-08-25T13:09:59.740462+00:00"
@@ -19160,17 +19154,16 @@
     "https://poki.com/en/g/ragdolls-vs-cannon": {
       "first_seen": "2026-09-17T21:19:57.413003+00:00",
       "issue_error": null,
-      "issue_number": 72,
+      "issue_number": 95,
       "new_games_rank": 148,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-24T21:19:57.413003+00:00",
         "2026-10-01T21:19:57.413003+00:00",
         "2026-10-17T21:19:57.413003+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-17/ragdolls-vs-cannon.md",
-      "researched_at": "2026-09-17T21:19:57.413003+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-26/ragdolls-vs-cannon.md",
+      "researched_at": "2026-09-26T11:21:12.012007+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-17T21:19:57.413003+00:00"
@@ -20574,17 +20567,16 @@
     "https://poki.com/en/g/serendipity-match": {
       "first_seen": "2026-09-17T21:19:57.413003+00:00",
       "issue_error": null,
-      "issue_number": 73,
+      "issue_number": 95,
       "new_games_rank": 152,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-25T04:39:52.031460+00:00",
         "2026-10-02T04:39:52.031460+00:00",
         "2026-10-18T04:39:52.031460+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-18/serendipity-match.md",
-      "researched_at": "2026-09-18T04:39:52.031460+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-26/serendipity-match.md",
+      "researched_at": "2026-09-26T11:21:12.012007+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-17T21:19:57.413003+00:00"
