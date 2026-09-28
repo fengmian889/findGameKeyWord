@@ -11308,7 +11308,7 @@
       "first_seen": "2026-09-24T17:07:50.976812+00:00",
       "issue_error": null,
       "issue_number": 89,
-      "new_games_rank": 163,
+      "new_games_rank": 146,
       "notification_pending": false,
       "recheck_at": [
         "2026-10-01T21:29:06.367006+00:00",
@@ -14652,7 +14652,7 @@
       "recheck_plan_started": true,
       "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-15/matrushka-merge.md",
       "researched_at": "2026-09-15T04:51:07.513062+00:00",
-      "retry_at": "2026-09-28T11:59:20.009939+00:00",
+      "retry_at": "2026-09-29T13:49:10.597329+00:00",
       "source_first_seen": {
         "new_games": "2026-09-07T21:29:36.795162+00:00"
       },
@@ -15648,7 +15648,7 @@
       "recheck_plan_started": true,
       "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-20/mooverse-d9cc7bd1.md",
       "researched_at": "2026-08-20T01:50:34.871894+00:00",
-      "retry_at": "2026-09-28T11:59:20.009939+00:00",
+      "retry_at": "2026-09-29T13:49:10.597329+00:00",
       "source_first_seen": {
         "new_games": "2026-08-12T19:18:17.215133+00:00"
       },
@@ -18027,7 +18027,7 @@
       "recheck_plan_started": true,
       "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-08-31/pixellent.md",
       "researched_at": "2026-08-31T13:44:12.593243+00:00",
-      "retry_at": "2026-09-28T11:59:20.009939+00:00",
+      "retry_at": "2026-09-29T13:49:10.597329+00:00",
       "source_first_seen": {
         "new_games": "2026-08-31T13:44:12.593243+00:00"
       },
@@ -18590,7 +18590,7 @@
       "first_seen": "2026-09-14T21:47:58.692531+00:00",
       "issue_error": null,
       "issue_number": 64,
-      "new_games_rank": 149,
+      "new_games_rank": 145,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
@@ -20468,6 +20468,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/scraps-95db3f16": {
+      "first_seen": "2026-09-28T13:49:10.597329+00:00",
+      "issue_error": null,
+      "issue_number": 97,
+      "new_games_rank": 147,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-05T13:49:10.597329+00:00",
+        "2026-10-12T13:49:10.597329+00:00",
+        "2026-10-28T13:49:10.597329+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-28/scraps-95db3f16.md",
+      "researched_at": "2026-09-28T13:49:10.597329+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-28T13:49:10.597329+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/scrapyard-simulator": {
       "first_seen": "2026-09-23T16:55:05.088054+00:00",
@@ -22981,6 +23004,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/store-master-merge-serve": {
+      "first_seen": "2026-09-28T13:49:10.597329+00:00",
+      "issue_error": null,
+      "issue_number": 97,
+      "new_games_rank": 144,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-05T13:49:10.597329+00:00",
+        "2026-10-12T13:49:10.597329+00:00",
+        "2026-10-28T13:49:10.597329+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-28/store-master-merge-serve.md",
+      "researched_at": "2026-09-28T13:49:10.597329+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-28T13:49:10.597329+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/street-ball-jam": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -26208,6 +26254,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/village-defense-zombies": {
+      "first_seen": "2026-09-28T13:49:10.597329+00:00",
+      "issue_error": null,
+      "issue_number": 97,
+      "new_games_rank": 143,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-05T13:49:10.597329+00:00",
+        "2026-10-12T13:49:10.597329+00:00",
+        "2026-10-28T13:49:10.597329+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-28/village-defense-zombies.md",
+      "researched_at": "2026-09-28T13:49:10.597329+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-28T13:49:10.597329+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/vortellas-dress-up": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
