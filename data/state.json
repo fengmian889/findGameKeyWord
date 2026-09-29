@@ -31,17 +31,16 @@
     "https://poki.com/en/g/1000-steps-tower": {
       "first_seen": "2026-09-22T16:55:23.561194+00:00",
       "issue_error": null,
-      "issue_number": 81,
+      "issue_number": 101,
       "new_games_rank": 143,
       "notification_pending": false,
       "recheck_at": [
-        "2026-09-29T16:55:23.561194+00:00",
         "2026-10-06T16:55:23.561194+00:00",
         "2026-10-22T16:55:23.561194+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-22/1000-steps-tower.md",
-      "researched_at": "2026-09-22T16:55:23.561194+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-29/1000-steps-tower.md",
+      "researched_at": "2026-09-29T22:12:53.195925+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-22T16:55:23.561194+00:00"
@@ -3034,6 +3033,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/brainrot-fusion-lab": {
+      "first_seen": "2026-09-29T22:12:53.195925+00:00",
+      "issue_error": null,
+      "issue_number": 101,
+      "new_games_rank": 145,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-06T22:12:53.195925+00:00",
+        "2026-10-13T22:12:53.195925+00:00",
+        "2026-10-29T22:12:53.195925+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-29/brainrot-fusion-lab.md",
+      "researched_at": "2026-09-29T22:12:53.195925+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-29T22:12:53.195925+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/brainrot-merge": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -5098,6 +5120,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/click-the-boss": {
+      "first_seen": "2026-09-29T22:12:53.195925+00:00",
+      "issue_error": null,
+      "issue_number": 101,
+      "new_games_rank": 148,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-06T22:12:53.195925+00:00",
+        "2026-10-13T22:12:53.195925+00:00",
+        "2026-10-29T22:12:53.195925+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-29/click-the-boss.md",
+      "researched_at": "2026-09-29T22:12:53.195925+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-29T22:12:53.195925+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/coin-factory": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -9732,6 +9777,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/fort-knockout": {
+      "first_seen": "2026-09-29T22:12:53.195925+00:00",
+      "issue_error": null,
+      "issue_number": 101,
+      "new_games_rank": 144,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-06T22:12:53.195925+00:00",
+        "2026-10-13T22:12:53.195925+00:00",
+        "2026-10-29T22:12:53.195925+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-29/fort-knockout.md",
+      "researched_at": "2026-09-29T22:12:53.195925+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-29T22:12:53.195925+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/fortride-open-world": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -13633,6 +13701,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/leaf-baron": {
+      "first_seen": "2026-09-29T22:12:53.195925+00:00",
+      "issue_error": null,
+      "issue_number": 101,
+      "new_games_rank": 143,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-06T22:12:53.195925+00:00",
+        "2026-10-13T22:12:53.195925+00:00",
+        "2026-10-29T22:12:53.195925+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-29/leaf-baron.md",
+      "researched_at": "2026-09-29T22:12:53.195925+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-29T22:12:53.195925+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/ledge-throw": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -14979,6 +15070,29 @@
       },
       "sources": [
         "new_games"
+      ],
+      "status": "researched"
+    },
+    "https://poki.com/en/g/merge-blast": {
+      "first_seen": "2026-09-29T22:12:53.195925+00:00",
+      "issue_error": null,
+      "issue_number": 101,
+      "new_games_rank": null,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-06T22:12:53.195925+00:00",
+        "2026-10-13T22:12:53.195925+00:00",
+        "2026-10-29T22:12:53.195925+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-29/merge-blast.md",
+      "researched_at": "2026-09-29T22:12:53.195925+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "sitemap": "2026-09-29T22:12:53.195925+00:00"
+      },
+      "sources": [
+        "sitemap"
       ],
       "status": "researched"
     },
@@ -18140,6 +18254,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/piratesio": {
+      "first_seen": "2026-09-29T22:12:53.195925+00:00",
+      "issue_error": null,
+      "issue_number": 101,
+      "new_games_rank": 146,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-06T22:12:53.195925+00:00",
+        "2026-10-13T22:12:53.195925+00:00",
+        "2026-10-29T22:12:53.195925+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-29/piratesio.md",
+      "researched_at": "2026-09-29T22:12:53.195925+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-29T22:12:53.195925+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/pixel-fishing": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -19274,6 +19411,31 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/ragdoll-bonk": {
+      "first_seen": "2026-09-29T22:12:53.195925+00:00",
+      "issue_error": null,
+      "issue_number": 101,
+      "new_games_rank": 152,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-06T22:12:53.195925+00:00",
+        "2026-10-13T22:12:53.195925+00:00",
+        "2026-10-29T22:12:53.195925+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-29/ragdoll-bonk.md",
+      "researched_at": "2026-09-29T22:12:53.195925+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-29T22:12:53.195925+00:00",
+        "sitemap": "2026-09-29T22:12:53.195925+00:00"
+      },
+      "sources": [
+        "new_games",
+        "sitemap"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/ragdoll-chaos": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -21413,6 +21575,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/slime-flow": {
+      "first_seen": "2026-09-29T22:12:53.195925+00:00",
+      "issue_error": null,
+      "issue_number": 101,
+      "new_games_rank": 153,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-06T22:12:53.195925+00:00",
+        "2026-10-13T22:12:53.195925+00:00",
+        "2026-10-29T22:12:53.195925+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-29/slime-flow.md",
+      "researched_at": "2026-09-29T22:12:53.195925+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-29T22:12:53.195925+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/slime-journey": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -27058,6 +27243,29 @@
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-22T16:55:23.561194+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
+    "https://poki.com/en/g/wolf-checkin": {
+      "first_seen": "2026-09-29T22:12:53.195925+00:00",
+      "issue_error": null,
+      "issue_number": 101,
+      "new_games_rank": 147,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-06T22:12:53.195925+00:00",
+        "2026-10-13T22:12:53.195925+00:00",
+        "2026-10-29T22:12:53.195925+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-29/wolf-checkin.md",
+      "researched_at": "2026-09-29T22:12:53.195925+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-29T22:12:53.195925+00:00"
       },
       "sources": [
         "new_games"
