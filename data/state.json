@@ -1266,6 +1266,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/backroad-drift": {
+      "first_seen": "2026-09-30T22:13:03.744575+00:00",
+      "issue_error": null,
+      "issue_number": 104,
+      "new_games_rank": 143,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-07T22:13:03.744575+00:00",
+        "2026-10-14T22:13:03.744575+00:00",
+        "2026-10-30T22:13:03.744575+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-30/backroad-drift.md",
+      "researched_at": "2026-09-30T22:13:03.744575+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-30T22:13:03.744575+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/backroom-bill": {
       "first_seen": "2026-09-18T16:22:10.943500+00:00",
       "issue_error": null,
@@ -4625,6 +4648,20 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/chess-arena": {
+      "first_seen": "2026-09-30T22:13:03.744575+00:00",
+      "new_games_rank": 156,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-30T22:13:03.744575+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "pending"
+    },
     "https://poki.com/en/g/chess-grandmaster": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -5097,6 +5134,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/cleanstreets": {
+      "first_seen": "2026-09-30T22:13:03.744575+00:00",
+      "issue_error": null,
+      "issue_number": 104,
+      "new_games_rank": 144,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-07T22:13:03.744575+00:00",
+        "2026-10-14T22:13:03.744575+00:00",
+        "2026-10-30T22:13:03.744575+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-30/cleanstreets.md",
+      "researched_at": "2026-09-30T22:13:03.744575+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-30T22:13:03.744575+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/cleanup-crew": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -7382,6 +7442,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/dragon-rage": {
+      "first_seen": "2026-09-30T22:13:03.744575+00:00",
+      "issue_error": null,
+      "issue_number": 104,
+      "new_games_rank": 148,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-07T22:13:03.744575+00:00",
+        "2026-10-14T22:13:03.744575+00:00",
+        "2026-10-30T22:13:03.744575+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-30/dragon-rage.md",
+      "researched_at": "2026-09-30T22:13:03.744575+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-30T22:13:03.744575+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/dragon-simulator-3d": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -7414,6 +7497,22 @@
         "sitemap"
       ],
       "status": "researched"
+    },
+    "https://poki.com/en/g/draw-cat": {
+      "first_seen": "2026-09-30T22:13:03.744575+00:00",
+      "new_games_rank": 162,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-30T22:13:03.744575+00:00",
+        "sitemap": "2026-09-30T22:13:03.744575+00:00"
+      },
+      "sources": [
+        "new_games",
+        "sitemap"
+      ],
+      "status": "pending"
     },
     "https://poki.com/en/g/draw-me-legs": {
       "first_seen": "2026-08-24T18:58:23.601902+00:00",
@@ -7582,6 +7681,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/drift-away": {
+      "first_seen": "2026-09-30T22:13:03.744575+00:00",
+      "issue_error": null,
+      "issue_number": 104,
+      "new_games_rank": 149,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-07T22:13:03.744575+00:00",
+        "2026-10-14T22:13:03.744575+00:00",
+        "2026-10-30T22:13:03.744575+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-30/drift-away.md",
+      "researched_at": "2026-09-30T22:13:03.744575+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-30T22:13:03.744575+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/drift-boss": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -8674,6 +8796,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/farmart": {
+      "first_seen": "2026-09-30T22:13:03.744575+00:00",
+      "issue_error": null,
+      "issue_number": 104,
+      "new_games_rank": 147,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-07T22:13:03.744575+00:00",
+        "2026-10-14T22:13:03.744575+00:00",
+        "2026-10-30T22:13:03.744575+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-30/farmart.md",
+      "researched_at": "2026-09-30T22:13:03.744575+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-30T22:13:03.744575+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/fashion-disaster-fix": {
       "first_seen": "2026-09-24T17:07:50.976812+00:00",
@@ -13529,6 +13674,29 @@
       ],
       "status": "researched"
     },
+    "https://poki.com/en/g/knockout-hunter": {
+      "first_seen": "2026-09-30T22:13:03.744575+00:00",
+      "issue_error": null,
+      "issue_number": 104,
+      "new_games_rank": 146,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-07T22:13:03.744575+00:00",
+        "2026-10-14T22:13:03.744575+00:00",
+        "2026-10-30T22:13:03.744575+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-30/knockout-hunter.md",
+      "researched_at": "2026-09-30T22:13:03.744575+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-30T22:13:03.744575+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/knockout-penguins": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": 110,
@@ -17165,6 +17333,20 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/one-shot-soccer": {
+      "first_seen": "2026-09-30T22:13:03.744575+00:00",
+      "new_games_rank": 154,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-30T22:13:03.744575+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "pending"
+    },
     "https://poki.com/en/g/onet-fruit-classic": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -18903,6 +19085,29 @@
       ],
       "status": "researched"
     },
+    "https://poki.com/en/g/potato-power-zombie-in-trouble": {
+      "first_seen": "2026-09-30T22:13:03.744575+00:00",
+      "issue_error": null,
+      "issue_number": 104,
+      "new_games_rank": 152,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-07T22:13:03.744575+00:00",
+        "2026-10-14T22:13:03.744575+00:00",
+        "2026-10-30T22:13:03.744575+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-30/potato-power-zombie-in-trouble.md",
+      "researched_at": "2026-09-30T22:13:03.744575+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-30T22:13:03.744575+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/pottery-diy": {
       "first_seen": "2026-09-14T21:47:58.692531+00:00",
       "issue_error": null,
@@ -19996,6 +20201,20 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/ride-carts": {
+      "first_seen": "2026-09-30T22:13:03.744575+00:00",
+      "new_games_rank": null,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "retry_at": null,
+      "source_first_seen": {
+        "sitemap": "2026-09-30T22:13:03.744575+00:00"
+      },
+      "sources": [
+        "sitemap"
+      ],
+      "status": "pending"
     },
     "https://poki.com/en/g/rig-mart": {
       "first_seen": "2026-09-10T11:15:38.766956+00:00",
@@ -24088,6 +24307,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/super-soccer": {
+      "first_seen": "2026-09-30T22:13:03.744575+00:00",
+      "issue_error": null,
+      "issue_number": 104,
+      "new_games_rank": 151,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-07T22:13:03.744575+00:00",
+        "2026-10-14T22:13:03.744575+00:00",
+        "2026-10-30T22:13:03.744575+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-30/super-soccer.md",
+      "researched_at": "2026-09-30T22:13:03.744575+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-30T22:13:03.744575+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/super-speeder": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -24738,6 +24980,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/tank-vs-blocks": {
+      "first_seen": "2026-09-30T22:13:03.744575+00:00",
+      "issue_error": null,
+      "issue_number": 104,
+      "new_games_rank": 150,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-07T22:13:03.744575+00:00",
+        "2026-10-14T22:13:03.744575+00:00",
+        "2026-10-30T22:13:03.744575+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-30/tank-vs-blocks.md",
+      "researched_at": "2026-09-30T22:13:03.744575+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-30T22:13:03.744575+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/tank-vs-zombies": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -25949,6 +26214,20 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/train-2048": {
+      "first_seen": "2026-09-30T22:13:03.744575+00:00",
+      "new_games_rank": 155,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-30T22:13:03.744575+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "pending"
     },
     "https://poki.com/en/g/train-attack-merge-war": {
       "first_seen": "2026-09-07T21:29:36.795162+00:00",
@@ -27179,6 +27458,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/wild-crew": {
+      "first_seen": "2026-09-30T22:13:03.744575+00:00",
+      "issue_error": null,
+      "issue_number": 104,
+      "new_games_rank": 145,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-07T22:13:03.744575+00:00",
+        "2026-10-14T22:13:03.744575+00:00",
+        "2026-10-30T22:13:03.744575+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-30/wild-crew.md",
+      "researched_at": "2026-09-30T22:13:03.744575+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-30T22:13:03.744575+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/winter-clash-3d": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -27660,6 +27962,20 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/yarnmill": {
+      "first_seen": "2026-09-30T22:13:03.744575+00:00",
+      "new_games_rank": 153,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-09-30T22:13:03.744575+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "pending"
     },
     "https://poki.com/en/g/yathzee-yatzy-yams": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
