@@ -2574,7 +2574,7 @@
       "recheck_plan_started": true,
       "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-22/blumgi-zoo.md",
       "researched_at": "2026-09-22T04:51:34.450281+00:00",
-      "retry_at": "2026-10-01T12:30:39.307749+00:00",
+      "retry_at": "2026-10-02T13:08:20.295980+00:00",
       "source_first_seen": {
         "new_games": "2026-09-14T21:47:58.692531+00:00"
       },
@@ -3509,7 +3509,7 @@
       "first_seen": "2026-09-07T21:29:36.795162+00:00",
       "issue_error": null,
       "issue_number": 51,
-      "new_games_rank": 142,
+      "new_games_rank": 13,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
@@ -4786,17 +4786,16 @@
     "https://poki.com/en/g/chimefall": {
       "first_seen": "2026-09-24T11:41:38.701449+00:00",
       "issue_error": null,
-      "issue_number": 87,
+      "issue_number": 106,
       "new_games_rank": 145,
       "notification_pending": false,
       "recheck_at": [
-        "2026-10-01T11:41:38.701449+00:00",
         "2026-10-08T11:41:38.701449+00:00",
         "2026-10-24T11:41:38.701449+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/chimefall.md",
-      "researched_at": "2026-09-24T11:41:38.701449+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-01/chimefall.md",
+      "researched_at": "2026-10-01T13:08:20.295980+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-24T11:41:38.701449+00:00"
@@ -6175,17 +6174,16 @@
     "https://poki.com/en/g/crowd-evolution-arena-io": {
       "first_seen": "2026-09-24T11:41:38.701449+00:00",
       "issue_error": null,
-      "issue_number": 87,
+      "issue_number": 106,
       "new_games_rank": 146,
       "notification_pending": false,
       "recheck_at": [
-        "2026-10-01T11:41:38.701449+00:00",
         "2026-10-08T11:41:38.701449+00:00",
         "2026-10-24T11:41:38.701449+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/crowd-evolution-arena-io.md",
-      "researched_at": "2026-09-24T11:41:38.701449+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-01/crowd-evolution-arena-io.md",
+      "researched_at": "2026-10-01T13:08:20.295980+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-24T11:41:38.701449+00:00"
@@ -8511,17 +8509,16 @@
     "https://poki.com/en/g/escape-from-vlogger-runaway": {
       "first_seen": "2026-09-24T11:41:38.701449+00:00",
       "issue_error": null,
-      "issue_number": 87,
+      "issue_number": 106,
       "new_games_rank": 150,
       "notification_pending": false,
       "recheck_at": [
-        "2026-10-01T11:41:38.701449+00:00",
         "2026-10-08T11:41:38.701449+00:00",
         "2026-10-24T11:41:38.701449+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/escape-from-vlogger-runaway.md",
-      "researched_at": "2026-09-24T11:41:38.701449+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-01/escape-from-vlogger-runaway.md",
+      "researched_at": "2026-10-01T13:08:20.295980+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-24T11:41:38.701449+00:00"
@@ -11698,17 +11695,16 @@
     "https://poki.com/en/g/hero-invasion-of-hell": {
       "first_seen": "2026-09-24T11:41:38.701449+00:00",
       "issue_error": null,
-      "issue_number": 87,
+      "issue_number": 106,
       "new_games_rank": 149,
       "notification_pending": false,
       "recheck_at": [
-        "2026-10-01T11:41:38.701449+00:00",
         "2026-10-08T11:41:38.701449+00:00",
         "2026-10-24T11:41:38.701449+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/hero-invasion-of-hell.md",
-      "researched_at": "2026-09-24T11:41:38.701449+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-01/hero-invasion-of-hell.md",
+      "researched_at": "2026-10-01T13:08:20.295980+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-24T11:41:38.701449+00:00"
@@ -11779,17 +11775,16 @@
     "https://poki.com/en/g/hexa-drop": {
       "first_seen": "2026-09-24T11:41:38.701449+00:00",
       "issue_error": null,
-      "issue_number": 87,
+      "issue_number": 106,
       "new_games_rank": 143,
       "notification_pending": false,
       "recheck_at": [
-        "2026-10-01T11:41:38.701449+00:00",
         "2026-10-08T11:41:38.701449+00:00",
         "2026-10-24T11:41:38.701449+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/hexa-drop.md",
-      "researched_at": "2026-09-24T11:41:38.701449+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-01/hexa-drop.md",
+      "researched_at": "2026-10-01T13:08:20.295980+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-24T11:41:38.701449+00:00"
@@ -13267,6 +13262,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/just-mini-golf": {
+      "first_seen": "2026-10-01T13:08:20.295980+00:00",
+      "issue_error": null,
+      "issue_number": 106,
+      "new_games_rank": 145,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-08T13:08:20.295980+00:00",
+        "2026-10-15T13:08:20.295980+00:00",
+        "2026-10-31T13:08:20.295980+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-01/just-mini-golf.md",
+      "researched_at": "2026-10-01T13:08:20.295980+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-01T13:08:20.295980+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/just-park-it-12": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -13391,6 +13409,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/keeper-chaos": {
+      "first_seen": "2026-10-01T13:08:20.295980+00:00",
+      "issue_error": null,
+      "issue_number": 106,
+      "new_games_rank": 143,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-08T13:08:20.295980+00:00",
+        "2026-10-15T13:08:20.295980+00:00",
+        "2026-10-31T13:08:20.295980+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-01/keeper-chaos.md",
+      "researched_at": "2026-10-01T13:08:20.295980+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-01T13:08:20.295980+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/keyboard-warrior": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -15804,6 +15845,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/minichase": {
+      "first_seen": "2026-10-01T13:08:20.295980+00:00",
+      "issue_error": null,
+      "issue_number": 106,
+      "new_games_rank": 144,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-08T13:08:20.295980+00:00",
+        "2026-10-15T13:08:20.295980+00:00",
+        "2026-10-31T13:08:20.295980+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-01/minichase.md",
+      "researched_at": "2026-10-01T13:08:20.295980+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-01T13:08:20.295980+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/minimissions": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -26302,6 +26366,21 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/traindigger": {
+      "first_seen": "2026-10-01T13:08:20.295980+00:00",
+      "last_error": "missing h1",
+      "new_games_rank": 147,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "retry_at": "2026-10-02T13:08:20.295980+00:00",
+      "source_first_seen": {
+        "new_games": "2026-10-01T13:08:20.295980+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "retry"
     },
     "https://poki.com/en/g/trapped-in-the-dollhouse": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
