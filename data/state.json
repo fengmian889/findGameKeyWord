@@ -552,6 +552,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/abyss-knight": {
+      "first_seen": "2026-10-02T22:11:20.043117+00:00",
+      "issue_error": null,
+      "issue_number": 110,
+      "new_games_rank": 145,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-09T22:11:20.043117+00:00",
+        "2026-10-16T22:11:20.043117+00:00",
+        "2026-11-01T22:11:20.043117+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-02/abyss-knight.md",
+      "researched_at": "2026-10-02T22:11:20.043117+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-02T22:11:20.043117+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/adventure-cube": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -3568,6 +3591,20 @@
         "sitemap"
       ],
       "status": "researched"
+    },
+    "https://poki.com/en/g/bullet-bonanza-6451a5e8": {
+      "first_seen": "2026-10-02T22:11:20.043117+00:00",
+      "new_games_rank": 160,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-02T22:11:20.043117+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "pending"
     },
     "https://poki.com/en/g/bullet-bros": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -6691,6 +6728,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/deep-fortress": {
+      "first_seen": "2026-10-02T22:11:20.043117+00:00",
+      "issue_error": null,
+      "issue_number": 110,
+      "new_games_rank": 152,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-09T22:11:20.043117+00:00",
+        "2026-10-16T22:11:20.043117+00:00",
+        "2026-11-01T22:11:20.043117+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-02/deep-fortress.md",
+      "researched_at": "2026-10-02T22:11:20.043117+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-02T22:11:20.043117+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/deer-simulator": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -10616,6 +10676,20 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/gaz-station-simulator": {
+      "first_seen": "2026-10-02T22:11:20.043117+00:00",
+      "new_games_rank": 153,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-02T22:11:20.043117+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "pending"
+    },
     "https://poki.com/en/g/gem-11": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -11056,6 +11130,29 @@
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-25T17:08:20.583980+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
+    "https://poki.com/en/g/good-luck-truck": {
+      "first_seen": "2026-10-02T22:11:20.043117+00:00",
+      "issue_error": null,
+      "issue_number": 110,
+      "new_games_rank": 149,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-09T22:11:20.043117+00:00",
+        "2026-10-16T22:11:20.043117+00:00",
+        "2026-11-01T22:11:20.043117+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-02/good-luck-truck.md",
+      "researched_at": "2026-10-02T22:11:20.043117+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-02T22:11:20.043117+00:00"
       },
       "sources": [
         "new_games"
@@ -14255,6 +14352,22 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/little-planet-lumberjack": {
+      "first_seen": "2026-10-02T22:11:20.043117+00:00",
+      "new_games_rank": 162,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-02T22:11:20.043117+00:00",
+        "sitemap": "2026-10-02T22:11:20.043117+00:00"
+      },
+      "sources": [
+        "new_games",
+        "sitemap"
+      ],
+      "status": "pending"
+    },
     "https://poki.com/en/g/little-steps-big-troubles": {
       "first_seen": "2026-09-08T21:07:31.766395+00:00",
       "issue_error": null,
@@ -14331,6 +14444,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/loop-line-miner": {
+      "first_seen": "2026-10-02T22:11:20.043117+00:00",
+      "issue_error": null,
+      "issue_number": 110,
+      "new_games_rank": 151,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-09T22:11:20.043117+00:00",
+        "2026-10-16T22:11:20.043117+00:00",
+        "2026-11-01T22:11:20.043117+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-02/loop-line-miner.md",
+      "researched_at": "2026-10-02T22:11:20.043117+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-02T22:11:20.043117+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/lost-yeti-html5": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -14727,6 +14863,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/magnet-fishing": {
+      "first_seen": "2026-10-02T22:11:20.043117+00:00",
+      "issue_error": null,
+      "issue_number": 110,
+      "new_games_rank": 144,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-09T22:11:20.043117+00:00",
+        "2026-10-16T22:11:20.043117+00:00",
+        "2026-11-01T22:11:20.043117+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-02/magnet-fishing.md",
+      "researched_at": "2026-10-02T22:11:20.043117+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-02T22:11:20.043117+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/mahjong": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -18841,6 +19000,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/plant-a-pet": {
+      "first_seen": "2026-10-02T22:11:20.043117+00:00",
+      "issue_error": null,
+      "issue_number": 110,
+      "new_games_rank": 146,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-09T22:11:20.043117+00:00",
+        "2026-10-16T22:11:20.043117+00:00",
+        "2026-11-01T22:11:20.043117+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-02/plant-a-pet.md",
+      "researched_at": "2026-10-02T22:11:20.043117+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-02T22:11:20.043117+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/platypus-coffee": {
       "first_seen": "2026-08-19T13:07:32.421455+00:00",
       "issue_error": null,
@@ -19397,6 +19579,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/prisonescapeio": {
+      "first_seen": "2026-10-02T22:11:20.043117+00:00",
+      "issue_error": null,
+      "issue_number": 110,
+      "new_games_rank": 143,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-09T22:11:20.043117+00:00",
+        "2026-10-16T22:11:20.043117+00:00",
+        "2026-11-01T22:11:20.043117+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-02/prisonescapeio.md",
+      "researched_at": "2026-10-02T22:11:20.043117+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-02T22:11:20.043117+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/pro-referee-simulator": {
       "first_seen": "2026-09-23T16:55:05.088054+00:00",
@@ -25082,6 +25287,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/talking-angelas-style-studio": {
+      "first_seen": "2026-10-02T22:11:20.043117+00:00",
+      "issue_error": null,
+      "issue_number": 110,
+      "new_games_rank": 148,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-09T22:11:20.043117+00:00",
+        "2026-10-16T22:11:20.043117+00:00",
+        "2026-11-01T22:11:20.043117+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-02/talking-angelas-style-studio.md",
+      "researched_at": "2026-10-02T22:11:20.043117+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-02T22:11:20.043117+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/talking-tom-cooking": {
       "first_seen": "2026-09-24T17:07:50.976812+00:00",
       "issue_error": null,
@@ -25278,6 +25506,29 @@
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-08-11T19:18:09.505446+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
+    "https://poki.com/en/g/tap-tap-tempo": {
+      "first_seen": "2026-10-02T22:11:20.043117+00:00",
+      "issue_error": null,
+      "issue_number": 110,
+      "new_games_rank": 147,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-09T22:11:20.043117+00:00",
+        "2026-10-16T22:11:20.043117+00:00",
+        "2026-11-01T22:11:20.043117+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-02/tap-tap-tempo.md",
+      "researched_at": "2026-10-02T22:11:20.043117+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-02T22:11:20.043117+00:00"
       },
       "sources": [
         "new_games"
@@ -28190,6 +28441,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/xo-tactics": {
+      "first_seen": "2026-10-02T22:11:20.043117+00:00",
+      "issue_error": null,
+      "issue_number": 110,
+      "new_games_rank": 150,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-09T22:11:20.043117+00:00",
+        "2026-10-16T22:11:20.043117+00:00",
+        "2026-11-01T22:11:20.043117+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-02/xo-tactics.md",
+      "researched_at": "2026-10-02T22:11:20.043117+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-02T22:11:20.043117+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/yarn-fever-unravel-puzzle": {
       "first_seen": "2026-09-11T16:26:13.591004+00:00",
