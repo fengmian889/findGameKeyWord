@@ -1064,7 +1064,7 @@
       "first_seen": "2026-09-14T21:47:58.692531+00:00",
       "issue_error": null,
       "issue_number": 64,
-      "new_games_rank": 143,
+      "new_games_rank": 13,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
@@ -6110,16 +6110,15 @@
     "https://poki.com/en/g/critters-evolution": {
       "first_seen": "2026-09-18T16:22:10.943500+00:00",
       "issue_error": null,
-      "issue_number": 94,
+      "issue_number": 112,
       "new_games_rank": 146,
       "notification_pending": false,
       "recheck_at": [
-        "2026-10-02T16:22:10.943500+00:00",
         "2026-10-18T16:22:10.943500+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-26/critters-evolution.md",
-      "researched_at": "2026-09-26T04:54:20.501305+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-03/critters-evolution.md",
+      "researched_at": "2026-10-03T11:36:38.568660+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-18T16:22:10.943500+00:00"
@@ -6167,17 +6166,16 @@
     "https://poki.com/en/g/crossword-genius": {
       "first_seen": "2026-09-25T17:08:20.583980+00:00",
       "issue_error": null,
-      "issue_number": 93,
+      "issue_number": 112,
       "new_games_rank": 154,
       "notification_pending": false,
       "recheck_at": [
-        "2026-10-02T21:32:49.942443+00:00",
         "2026-10-09T21:32:49.942443+00:00",
         "2026-10-25T21:32:49.942443+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-25/crossword-genius.md",
-      "researched_at": "2026-09-25T21:32:49.942443+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-03/crossword-genius.md",
+      "researched_at": "2026-10-03T11:36:38.568660+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-25T17:08:20.583980+00:00"
@@ -6389,17 +6387,16 @@
     "https://poki.com/en/g/cubevalleyio": {
       "first_seen": "2026-09-25T17:08:20.583980+00:00",
       "issue_error": null,
-      "issue_number": 93,
+      "issue_number": 112,
       "new_games_rank": 155,
       "notification_pending": false,
       "recheck_at": [
-        "2026-10-02T21:32:49.942443+00:00",
         "2026-10-09T21:32:49.942443+00:00",
         "2026-10-25T21:32:49.942443+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-25/cubevalleyio.md",
-      "researched_at": "2026-09-25T21:32:49.942443+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-03/cubevalleyio.md",
+      "researched_at": "2026-10-03T11:36:38.568660+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-25T17:08:20.583980+00:00"
@@ -6907,17 +6904,16 @@
     "https://poki.com/en/g/dice-catch": {
       "first_seen": "2026-09-25T17:08:20.583980+00:00",
       "issue_error": null,
-      "issue_number": 92,
+      "issue_number": 112,
       "new_games_rank": 149,
       "notification_pending": false,
       "recheck_at": [
-        "2026-10-02T17:08:20.583980+00:00",
         "2026-10-09T17:08:20.583980+00:00",
         "2026-10-25T17:08:20.583980+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-25/dice-catch.md",
-      "researched_at": "2026-09-25T17:08:20.583980+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-03/dice-catch.md",
+      "researched_at": "2026-10-03T11:36:38.568660+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-25T17:08:20.583980+00:00"
@@ -8421,16 +8417,15 @@
     "https://poki.com/en/g/emoji-factory": {
       "first_seen": "2026-09-18T16:22:10.943500+00:00",
       "issue_error": null,
-      "issue_number": 94,
+      "issue_number": 112,
       "new_games_rank": 164,
       "notification_pending": false,
       "recheck_at": [
-        "2026-10-02T20:53:00.406186+00:00",
         "2026-10-18T20:53:00.406186+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-26/emoji-factory.md",
-      "researched_at": "2026-09-26T04:54:20.501305+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-03/emoji-factory.md",
+      "researched_at": "2026-10-03T11:36:38.568660+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-18T16:22:10.943500+00:00",
@@ -9207,17 +9202,16 @@
     "https://poki.com/en/g/find-brainrot": {
       "first_seen": "2026-09-25T17:08:20.583980+00:00",
       "issue_error": null,
-      "issue_number": 92,
+      "issue_number": 112,
       "new_games_rank": 148,
       "notification_pending": false,
       "recheck_at": [
-        "2026-10-02T17:08:20.583980+00:00",
         "2026-10-09T17:08:20.583980+00:00",
         "2026-10-25T17:08:20.583980+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-25/find-brainrot.md",
-      "researched_at": "2026-09-25T17:08:20.583980+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-03/find-brainrot.md",
+      "researched_at": "2026-10-03T11:36:38.568660+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-25T17:08:20.583980+00:00"
@@ -9281,16 +9275,15 @@
     "https://poki.com/en/g/fireworks": {
       "first_seen": "2026-09-18T16:22:10.943500+00:00",
       "issue_error": null,
-      "issue_number": 94,
+      "issue_number": 112,
       "new_games_rank": 157,
       "notification_pending": false,
       "recheck_at": [
-        "2026-10-02T16:22:10.943500+00:00",
         "2026-10-18T16:22:10.943500+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-26/fireworks.md",
-      "researched_at": "2026-09-26T04:54:20.501305+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-03/fireworks.md",
+      "researched_at": "2026-10-03T11:36:38.568660+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-18T16:22:10.943500+00:00"
@@ -9686,17 +9679,16 @@
     "https://poki.com/en/g/flying-car-simulator-3c86bf16": {
       "first_seen": "2026-09-25T17:08:20.583980+00:00",
       "issue_error": null,
-      "issue_number": 93,
+      "issue_number": 112,
       "new_games_rank": 157,
       "notification_pending": false,
       "recheck_at": [
-        "2026-10-02T21:32:49.942443+00:00",
         "2026-10-09T21:32:49.942443+00:00",
         "2026-10-25T21:32:49.942443+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-25/flying-car-simulator-3c86bf16.md",
-      "researched_at": "2026-09-25T21:32:49.942443+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-03/flying-car-simulator-3c86bf16.md",
+      "researched_at": "2026-10-03T11:36:38.568660+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-25T17:08:20.583980+00:00"
@@ -9751,17 +9743,16 @@
     "https://poki.com/en/g/food-maker": {
       "first_seen": "2026-09-25T17:08:20.583980+00:00",
       "issue_error": null,
-      "issue_number": 92,
+      "issue_number": 112,
       "new_games_rank": 147,
       "notification_pending": false,
       "recheck_at": [
-        "2026-10-02T17:08:20.583980+00:00",
         "2026-10-09T17:08:20.583980+00:00",
         "2026-10-25T17:08:20.583980+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-25/food-maker.md",
-      "researched_at": "2026-09-25T17:08:20.583980+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-03/food-maker.md",
+      "researched_at": "2026-10-03T11:36:38.568660+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-25T17:08:20.583980+00:00"
@@ -10656,7 +10647,7 @@
       "recheck_plan_started": true,
       "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-25/garden-snakes.md",
       "researched_at": "2026-09-25T04:54:09.596911+00:00",
-      "retry_at": "2026-10-03T05:32:49.496283+00:00",
+      "retry_at": "2026-10-04T11:36:38.568660+00:00",
       "source_first_seen": {
         "new_games": "2026-09-17T16:58:01.496213+00:00"
       },
