@@ -2589,7 +2589,7 @@
       "recheck_plan_started": true,
       "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-22/blumgi-zoo.md",
       "researched_at": "2026-09-22T04:51:34.450281+00:00",
-      "retry_at": "2026-10-04T05:14:52.076083+00:00",
+      "retry_at": "2026-10-05T05:48:35.092692+00:00",
       "source_first_seen": {
         "new_games": "2026-09-14T21:47:58.692531+00:00"
       },
@@ -15951,7 +15951,7 @@
     },
     "https://poki.com/en/g/minefun-io": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
-      "new_games_rank": 2,
+      "new_games_rank": 1,
       "recheck_at": [],
       "recheck_plan_started": false,
       "retry_at": null,
@@ -16525,16 +16525,13 @@
     "https://poki.com/en/g/mountain-car-climb": {
       "first_seen": "2026-09-18T16:22:10.943500+00:00",
       "issue_error": null,
-      "issue_number": 95,
+      "issue_number": null,
       "new_games_rank": 141,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-10-02T16:22:10.943500+00:00",
-        "2026-10-18T16:22:10.943500+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-26/mountain-car-climb.md",
-      "researched_at": "2026-09-26T11:21:12.012007+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-04/mountain-car-climb.md",
+      "researched_at": "2026-10-04T05:48:35.092692+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-18T16:22:10.943500+00:00"
@@ -16823,17 +16820,13 @@
     "https://poki.com/en/g/my-dream-room-design-decor": {
       "first_seen": "2026-09-25T17:08:20.583980+00:00",
       "issue_error": null,
-      "issue_number": 92,
+      "issue_number": 115,
       "new_games_rank": 143,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-10-02T17:08:20.583980+00:00",
-        "2026-10-09T17:08:20.583980+00:00",
-        "2026-10-25T17:08:20.583980+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-25/my-dream-room-design-decor.md",
-      "researched_at": "2026-09-25T17:08:20.583980+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-04/my-dream-room-design-decor.md",
+      "researched_at": "2026-10-04T05:48:35.092692+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-25T17:08:20.583980+00:00"
@@ -17462,17 +17455,16 @@
     "https://poki.com/en/g/obby-with-friends-mini-games": {
       "first_seen": "2026-09-24T11:41:38.701449+00:00",
       "issue_error": null,
-      "issue_number": 87,
+      "issue_number": 115,
       "new_games_rank": 144,
       "notification_pending": false,
       "recheck_at": [
-        "2026-10-01T11:41:38.701449+00:00",
         "2026-10-08T11:41:38.701449+00:00",
         "2026-10-24T11:41:38.701449+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/obby-with-friends-mini-games.md",
-      "researched_at": "2026-09-24T11:41:38.701449+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-04/obby-with-friends-mini-games.md",
+      "researched_at": "2026-10-04T05:48:35.092692+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-24T11:41:38.701449+00:00"
@@ -18094,16 +18086,13 @@
     "https://poki.com/en/g/paper-empire": {
       "first_seen": "2026-09-18T16:22:10.943500+00:00",
       "issue_error": null,
-      "issue_number": 95,
+      "issue_number": null,
       "new_games_rank": 147,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-10-02T16:22:10.943500+00:00",
-        "2026-10-18T16:22:10.943500+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-26/paper-empire.md",
-      "researched_at": "2026-09-26T11:21:12.012007+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-04/paper-empire.md",
+      "researched_at": "2026-10-04T05:48:35.092692+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-18T16:22:10.943500+00:00"
@@ -18244,17 +18233,13 @@
     "https://poki.com/en/g/party-minigames-scary-teacher": {
       "first_seen": "2026-09-23T21:28:29.920256+00:00",
       "issue_error": null,
-      "issue_number": 86,
+      "issue_number": 115,
       "new_games_rank": 142,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-09-30T21:28:29.920256+00:00",
-        "2026-10-07T21:28:29.920256+00:00",
-        "2026-10-23T21:28:29.920256+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-23/party-minigames-scary-teacher.md",
-      "researched_at": "2026-09-23T21:28:29.920256+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-04/party-minigames-scary-teacher.md",
+      "researched_at": "2026-10-04T05:48:35.092692+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-23T21:28:29.920256+00:00"
@@ -18295,17 +18280,13 @@
     "https://poki.com/en/g/pass-or-blast": {
       "first_seen": "2026-09-23T11:31:29.396141+00:00",
       "issue_error": null,
-      "issue_number": 84,
+      "issue_number": null,
       "new_games_rank": 143,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-09-30T11:31:29.396141+00:00",
-        "2026-10-07T11:31:29.396141+00:00",
-        "2026-10-23T11:31:29.396141+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-23/pass-or-blast.md",
-      "researched_at": "2026-09-23T11:31:29.396141+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-04/pass-or-blast.md",
+      "researched_at": "2026-10-04T05:48:35.092692+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-23T11:31:29.396141+00:00"
@@ -18583,17 +18564,13 @@
     "https://poki.com/en/g/pickle-ball-pro": {
       "first_seen": "2026-09-24T11:41:38.701449+00:00",
       "issue_error": null,
-      "issue_number": 87,
+      "issue_number": 115,
       "new_games_rank": 142,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-10-01T11:41:38.701449+00:00",
-        "2026-10-08T11:41:38.701449+00:00",
-        "2026-10-24T11:41:38.701449+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/pickle-ball-pro.md",
-      "researched_at": "2026-09-24T11:41:38.701449+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-04/pickle-ball-pro.md",
+      "researched_at": "2026-10-04T05:48:35.092692+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-24T11:41:38.701449+00:00"
@@ -18634,16 +18611,13 @@
     "https://poki.com/en/g/picture-puzzle": {
       "first_seen": "2026-09-18T11:10:27.110682+00:00",
       "issue_error": null,
-      "issue_number": 95,
+      "issue_number": null,
       "new_games_rank": 145,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-10-02T11:10:27.110682+00:00",
-        "2026-10-18T11:10:27.110682+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-26/picture-puzzle.md",
-      "researched_at": "2026-09-26T11:21:12.012007+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-04/picture-puzzle.md",
+      "researched_at": "2026-10-04T05:48:35.092692+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-18T11:10:27.110682+00:00"
@@ -18656,17 +18630,13 @@
     "https://poki.com/en/g/pilot-life": {
       "first_seen": "2026-09-24T17:07:50.976812+00:00",
       "issue_error": null,
-      "issue_number": 89,
+      "issue_number": 115,
       "new_games_rank": 166,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-10-01T21:29:06.367006+00:00",
-        "2026-10-08T21:29:06.367006+00:00",
-        "2026-10-24T21:29:06.367006+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-24/pilot-life.md",
-      "researched_at": "2026-09-24T21:29:06.367006+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-04/pilot-life.md",
+      "researched_at": "2026-10-04T05:48:35.092692+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-24T17:07:50.976812+00:00",
