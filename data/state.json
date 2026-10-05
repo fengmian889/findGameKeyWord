@@ -2152,6 +2152,25 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/block-isle": {
+      "first_seen": "2026-10-05T14:31:30.053769+00:00",
+      "issue_error": null,
+      "issue_number": 120,
+      "new_games_rank": 146,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-05/block-isle.md",
+      "researched_at": "2026-10-05T14:31:30.053769+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-05T14:31:30.053769+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/block-sandbox": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -5841,6 +5860,25 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/cozy-farm-life": {
+      "first_seen": "2026-10-05T14:31:30.053769+00:00",
+      "issue_error": null,
+      "issue_number": 119,
+      "new_games_rank": 143,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-05/cozy-farm-life.md",
+      "researched_at": "2026-10-05T14:31:30.053769+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-05T14:31:30.053769+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/cozy-garden-design": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -11224,6 +11262,25 @@
       ],
       "status": "researched"
     },
+    "https://poki.com/en/g/gorilla-smash": {
+      "first_seen": "2026-10-05T14:31:30.053769+00:00",
+      "issue_error": null,
+      "issue_number": 120,
+      "new_games_rank": 152,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-05/gorilla-smash.md",
+      "researched_at": "2026-10-05T14:31:30.053769+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-05T14:31:30.053769+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/grab-the-apple": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -12759,6 +12816,25 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/impossible-freekick": {
+      "first_seen": "2026-10-05T14:31:30.053769+00:00",
+      "issue_error": null,
+      "issue_number": 120,
+      "new_games_rank": 150,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-05/impossible-freekick.md",
+      "researched_at": "2026-10-05T14:31:30.053769+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-05T14:31:30.053769+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/in-the-doghouse": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -12819,6 +12895,20 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/infinite-golf": {
+      "first_seen": "2026-10-05T14:31:30.053769+00:00",
+      "new_games_rank": 153,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-05T14:31:30.053769+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "pending"
     },
     "https://poki.com/en/g/infinity-loop": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -14889,6 +14979,25 @@
       ],
       "status": "researched"
     },
+    "https://poki.com/en/g/magnet-golf": {
+      "first_seen": "2026-10-05T14:31:30.053769+00:00",
+      "issue_error": null,
+      "issue_number": 120,
+      "new_games_rank": 149,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-05/magnet-golf.md",
+      "researched_at": "2026-10-05T14:31:30.053769+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-05T14:31:30.053769+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/mahjong": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -15834,6 +15943,25 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/mills": {
+      "first_seen": "2026-10-05T14:31:30.053769+00:00",
+      "issue_error": null,
+      "issue_number": 120,
+      "new_games_rank": 144,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-05/mills.md",
+      "researched_at": "2026-10-05T14:31:30.053769+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-05T14:31:30.053769+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/mimelet": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -16745,6 +16873,20 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/my-aqua-park-idle-water-tycoon": {
+      "first_seen": "2026-10-05T14:31:30.053769+00:00",
+      "new_games_rank": 160,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-05T14:31:30.053769+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "pending"
     },
     "https://poki.com/en/g/my-army-base": {
       "first_seen": "2026-08-10T19:15:10.933642+00:00",
@@ -18727,6 +18869,29 @@
       ],
       "status": "researched"
     },
+    "https://poki.com/en/g/pixaslide": {
+      "first_seen": "2026-10-05T14:31:30.053769+00:00",
+      "issue_error": null,
+      "issue_number": 120,
+      "new_games_rank": 151,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-12T14:31:30.053769+00:00",
+        "2026-10-19T14:31:30.053769+00:00",
+        "2026-11-04T14:31:30.053769+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-05/pixaslide.md",
+      "researched_at": "2026-10-05T14:31:30.053769+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-05T14:31:30.053769+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/pixel-fishing": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -20307,6 +20472,25 @@
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-08-25T18:56:00.967945+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
+    "https://poki.com/en/g/reef-reel": {
+      "first_seen": "2026-10-05T14:31:30.053769+00:00",
+      "issue_error": null,
+      "issue_number": 120,
+      "new_games_rank": 147,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-05/reef-reel.md",
+      "researched_at": "2026-10-05T14:31:30.053769+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-05T14:31:30.053769+00:00"
       },
       "sources": [
         "new_games"
@@ -23953,6 +24137,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/store-master-matchsell": {
+      "first_seen": "2026-10-05T14:31:30.053769+00:00",
+      "issue_error": null,
+      "issue_number": 120,
+      "new_games_rank": 145,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-12T14:31:30.053769+00:00",
+        "2026-10-19T14:31:30.053769+00:00",
+        "2026-11-04T14:31:30.053769+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-05/store-master-matchsell.md",
+      "researched_at": "2026-10-05T14:31:30.053769+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-05T14:31:30.053769+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/store-master-merge-serve": {
       "first_seen": "2026-09-28T13:49:10.597329+00:00",
       "issue_error": null,
@@ -27571,6 +27778,25 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/warren-3d-maze-chase": {
+      "first_seen": "2026-10-05T14:31:30.053769+00:00",
+      "issue_error": null,
+      "issue_number": 120,
+      "new_games_rank": 148,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-05/warren-3d-maze-chase.md",
+      "researched_at": "2026-10-05T14:31:30.053769+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-05T14:31:30.053769+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/water-color-sort": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
