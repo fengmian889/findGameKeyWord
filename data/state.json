@@ -835,17 +835,13 @@
     "https://poki.com/en/g/animals-power-battle": {
       "first_seen": "2026-09-29T12:48:37.640954+00:00",
       "issue_error": null,
-      "issue_number": 100,
+      "issue_number": 125,
       "new_games_rank": 144,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-10-06T12:48:37.640954+00:00",
-        "2026-10-13T12:48:37.640954+00:00",
-        "2026-10-29T12:48:37.640954+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-29/animals-power-battle.md",
-      "researched_at": "2026-09-29T12:48:37.640954+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-06/animals-power-battle.md",
+      "researched_at": "2026-10-06T13:21:19.695847+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-29T12:48:37.640954+00:00"
@@ -956,6 +952,25 @@
       "sources": [
         "new_games",
         "sitemap"
+      ],
+      "status": "researched"
+    },
+    "https://poki.com/en/g/anvil-army": {
+      "first_seen": "2026-10-06T13:21:19.695847+00:00",
+      "issue_error": null,
+      "issue_number": 125,
+      "new_games_rank": 149,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-06/anvil-army.md",
+      "researched_at": "2026-10-06T13:21:19.695847+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-06T13:21:19.695847+00:00"
+      },
+      "sources": [
+        "new_games"
       ],
       "status": "researched"
     },
@@ -1234,17 +1249,13 @@
     "https://poki.com/en/g/aura-farm-run": {
       "first_seen": "2026-09-29T12:48:37.640954+00:00",
       "issue_error": null,
-      "issue_number": 100,
+      "issue_number": 125,
       "new_games_rank": 143,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-10-06T12:48:37.640954+00:00",
-        "2026-10-13T12:48:37.640954+00:00",
-        "2026-10-29T12:48:37.640954+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-29/aura-farm-run.md",
-      "researched_at": "2026-09-29T12:48:37.640954+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-06/aura-farm-run.md",
+      "researched_at": "2026-10-06T13:21:19.695847+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-29T12:48:37.640954+00:00"
@@ -8546,6 +8557,25 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/endless-gunner": {
+      "first_seen": "2026-10-06T13:21:19.695847+00:00",
+      "issue_error": null,
+      "issue_number": 125,
+      "new_games_rank": 147,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-06/endless-gunner.md",
+      "researched_at": "2026-10-06T13:21:19.695847+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-06T13:21:19.695847+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/energy": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -9080,6 +9110,25 @@
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-04T16:20:16.371873+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
+    "https://poki.com/en/g/fast-crash": {
+      "first_seen": "2026-10-06T13:21:19.695847+00:00",
+      "issue_error": null,
+      "issue_number": 125,
+      "new_games_rank": 143,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-06/fast-crash.md",
+      "researched_at": "2026-10-06T13:21:19.695847+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-06T13:21:19.695847+00:00"
       },
       "sources": [
         "new_games"
@@ -12135,6 +12184,25 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/highway-racing": {
+      "first_seen": "2026-10-06T13:21:19.695847+00:00",
+      "issue_error": null,
+      "issue_number": 125,
+      "new_games_rank": 150,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-06/highway-racing.md",
+      "researched_at": "2026-10-06T13:21:19.695847+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-06T13:21:19.695847+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/highway-traffic-racer": {
       "first_seen": "2026-09-14T21:47:58.692531+00:00",
@@ -21134,6 +21202,25 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/rope-man-d34b4ff6": {
+      "first_seen": "2026-10-06T13:21:19.695847+00:00",
+      "issue_error": null,
+      "issue_number": 125,
+      "new_games_rank": 145,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-06/rope-man-d34b4ff6.md",
+      "researched_at": "2026-10-06T13:21:19.695847+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-06T13:21:19.695847+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/roper": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -25032,6 +25119,25 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/superhero-simulator": {
+      "first_seen": "2026-10-06T13:21:19.695847+00:00",
+      "issue_error": null,
+      "issue_number": 125,
+      "new_games_rank": 146,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-06/superhero-simulator.md",
+      "researched_at": "2026-10-06T13:21:19.695847+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-06T13:21:19.695847+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/superhot-prototype": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -26349,6 +26455,25 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/tic-tac-shot": {
+      "first_seen": "2026-10-06T13:21:19.695847+00:00",
+      "issue_error": null,
+      "issue_number": 125,
+      "new_games_rank": 144,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-06/tic-tac-shot.md",
+      "researched_at": "2026-10-06T13:21:19.695847+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-06T13:21:19.695847+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/tic-tac-toe": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -26652,6 +26777,25 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/tiny-witch-shop-cozy-sorting-puzzle": {
+      "first_seen": "2026-10-06T13:21:19.695847+00:00",
+      "issue_error": null,
+      "issue_number": 125,
+      "new_games_rank": 148,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-06/tiny-witch-shop-cozy-sorting-puzzle.md",
+      "researched_at": "2026-10-06T13:21:19.695847+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-06T13:21:19.695847+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/tnt-sandbox": {
       "first_seen": "2026-09-09T16:36:23.590696+00:00",
