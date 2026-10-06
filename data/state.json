@@ -934,6 +934,31 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/anthill-wars": {
+      "first_seen": "2026-10-06T00:01:20.402443+00:00",
+      "issue_error": null,
+      "issue_number": 123,
+      "new_games_rank": 164,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-13T00:01:20.402443+00:00",
+        "2026-10-20T00:01:20.402443+00:00",
+        "2026-11-05T00:01:20.402443+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-06/anthill-wars.md",
+      "researched_at": "2026-10-06T00:01:20.402443+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-06T00:01:20.402443+00:00",
+        "sitemap": "2026-10-06T00:01:20.402443+00:00"
+      },
+      "sources": [
+        "new_games",
+        "sitemap"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/anycolor": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -2608,7 +2633,7 @@
       "recheck_plan_started": true,
       "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-22/blumgi-zoo.md",
       "researched_at": "2026-09-22T04:51:34.450281+00:00",
-      "retry_at": "2026-10-05T05:48:35.092692+00:00",
+      "retry_at": "2026-10-07T00:01:20.402443+00:00",
       "source_first_seen": {
         "new_games": "2026-09-14T21:47:58.692531+00:00"
       },
@@ -4330,17 +4355,13 @@
     "https://poki.com/en/g/cat-connect": {
       "first_seen": "2026-09-28T23:14:32.480879+00:00",
       "issue_error": null,
-      "issue_number": 98,
+      "issue_number": 123,
       "new_games_rank": 146,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-10-05T23:14:32.480879+00:00",
-        "2026-10-12T23:14:32.480879+00:00",
-        "2026-10-28T23:14:32.480879+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-28/cat-connect.md",
-      "researched_at": "2026-09-28T23:14:32.480879+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-06/cat-connect.md",
+      "researched_at": "2026-10-06T00:01:20.402443+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-28T23:14:32.480879+00:00"
@@ -5348,16 +5369,13 @@
     "https://poki.com/en/g/color-clash": {
       "first_seen": "2026-09-21T21:57:28.292791+00:00",
       "issue_error": null,
-      "issue_number": 99,
+      "issue_number": null,
       "new_games_rank": 143,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-10-05T21:57:28.292791+00:00",
-        "2026-10-21T21:57:28.292791+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-29/color-clash.md",
-      "researched_at": "2026-09-29T05:41:07.425573+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-06/color-clash.md",
+      "researched_at": "2026-10-06T00:01:20.402443+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-21T21:57:28.292791+00:00"
@@ -6200,6 +6218,25 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/crossroad": {
+      "first_seen": "2026-10-06T00:01:20.402443+00:00",
+      "issue_error": null,
+      "issue_number": 122,
+      "new_games_rank": 146,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-06/crossroad.md",
+      "researched_at": "2026-10-06T00:01:20.402443+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-06T00:01:20.402443+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/crossword-genius": {
       "first_seen": "2026-09-25T17:08:20.583980+00:00",
@@ -8530,6 +8567,25 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/epic-hero-quest": {
+      "first_seen": "2026-10-06T00:01:20.402443+00:00",
+      "issue_error": null,
+      "issue_number": 121,
+      "new_games_rank": 143,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-06/epic-hero-quest.md",
+      "researched_at": "2026-10-06T00:01:20.402443+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-06T00:01:20.402443+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/era-evolution": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -12898,9 +12954,14 @@
     },
     "https://poki.com/en/g/infinite-golf": {
       "first_seen": "2026-10-05T14:31:30.053769+00:00",
+      "issue_error": null,
+      "issue_number": 123,
       "new_games_rank": 153,
+      "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-06/infinite-golf.md",
+      "researched_at": "2026-10-06T00:01:20.402443+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-10-05T14:31:30.053769+00:00"
@@ -12908,7 +12969,7 @@
       "sources": [
         "new_games"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/infinity-loop": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -16876,9 +16937,18 @@
     },
     "https://poki.com/en/g/my-aqua-park-idle-water-tycoon": {
       "first_seen": "2026-10-05T14:31:30.053769+00:00",
+      "issue_error": null,
+      "issue_number": 123,
       "new_games_rank": 160,
-      "recheck_at": [],
-      "recheck_plan_started": false,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-13T00:01:20.402443+00:00",
+        "2026-10-20T00:01:20.402443+00:00",
+        "2026-11-05T00:01:20.402443+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-06/my-aqua-park-idle-water-tycoon.md",
+      "researched_at": "2026-10-06T00:01:20.402443+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-10-05T14:31:30.053769+00:00"
@@ -16886,7 +16956,7 @@
       "sources": [
         "new_games"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/my-army-base": {
       "first_seen": "2026-08-10T19:15:10.933642+00:00",
@@ -20166,6 +20236,25 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/ragdoll-love": {
+      "first_seen": "2026-10-06T00:01:20.402443+00:00",
+      "issue_error": null,
+      "issue_number": 123,
+      "new_games_rank": 144,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-06/ragdoll-love.md",
+      "researched_at": "2026-10-06T00:01:20.402443+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-06T00:01:20.402443+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/ragdoll-soccer": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -26619,6 +26708,25 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/tornado-00c9d9fd": {
+      "first_seen": "2026-10-06T00:01:20.402443+00:00",
+      "issue_error": null,
+      "issue_number": 123,
+      "new_games_rank": 145,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-06/tornado-00c9d9fd.md",
+      "researched_at": "2026-10-06T00:01:20.402443+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-06T00:01:20.402443+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/total-party-kill": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
