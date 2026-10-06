@@ -1367,6 +1367,29 @@
       ],
       "status": "researched"
     },
+    "https://poki.com/en/g/backrooms-explorers": {
+      "first_seen": "2026-10-06T22:38:35.938909+00:00",
+      "issue_error": null,
+      "issue_number": 126,
+      "new_games_rank": 147,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-13T22:38:35.938909+00:00",
+        "2026-10-20T22:38:35.938909+00:00",
+        "2026-11-05T22:38:35.938909+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-06/backrooms-explorers.md",
+      "researched_at": "2026-10-06T22:38:35.938909+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-06T22:38:35.938909+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/backrooms-recovery": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": 14,
@@ -1468,6 +1491,25 @@
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-18T16:22:10.943500+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
+    "https://poki.com/en/g/ball-connect-color-dot-puzzle": {
+      "first_seen": "2026-10-06T22:38:35.938909+00:00",
+      "issue_error": null,
+      "issue_number": 126,
+      "new_games_rank": 146,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-06/ball-connect-color-dot-puzzle.md",
+      "researched_at": "2026-10-06T22:38:35.938909+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-06T22:38:35.938909+00:00"
       },
       "sources": [
         "new_games"
@@ -2653,6 +2695,25 @@
       ],
       "status": "retry"
     },
+    "https://poki.com/en/g/boat-jam-3d": {
+      "first_seen": "2026-10-06T22:38:35.938909+00:00",
+      "issue_error": null,
+      "issue_number": 126,
+      "new_games_rank": 148,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-06/boat-jam-3d.md",
+      "researched_at": "2026-10-06T22:38:35.938909+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-06T22:38:35.938909+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/bobble": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -3252,6 +3313,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/brightrealm": {
+      "first_seen": "2026-10-06T22:38:35.938909+00:00",
+      "issue_error": null,
+      "issue_number": 126,
+      "new_games_rank": 151,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-13T22:38:35.938909+00:00",
+        "2026-10-20T22:38:35.938909+00:00",
+        "2026-11-05T22:38:35.938909+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-06/brightrealm.md",
+      "researched_at": "2026-10-06T22:38:35.938909+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-06T22:38:35.938909+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/bring-me-cakes": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -6359,6 +6443,29 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/crowns-cannons": {
+      "first_seen": "2026-10-06T22:38:35.938909+00:00",
+      "issue_error": null,
+      "issue_number": 126,
+      "new_games_rank": 149,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-13T22:38:35.938909+00:00",
+        "2026-10-20T22:38:35.938909+00:00",
+        "2026-11-05T22:38:35.938909+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-06/crowns-cannons.md",
+      "researched_at": "2026-10-06T22:38:35.938909+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-06T22:38:35.938909+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/crush-it": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -7785,6 +7892,25 @@
       "sources": [
         "new_games",
         "sitemap"
+      ],
+      "status": "researched"
+    },
+    "https://poki.com/en/g/dress-up-merge": {
+      "first_seen": "2026-10-06T22:38:35.938909+00:00",
+      "issue_error": null,
+      "issue_number": 126,
+      "new_games_rank": 144,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-06/dress-up-merge.md",
+      "researched_at": "2026-10-06T22:38:35.938909+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-06T22:38:35.938909+00:00"
+      },
+      "sources": [
+        "new_games"
       ],
       "status": "researched"
     },
@@ -12815,6 +12941,27 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/idle-pocket-planet": {
+      "first_seen": "2026-10-06T22:38:35.938909+00:00",
+      "issue_error": null,
+      "issue_number": 126,
+      "new_games_rank": 162,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-06/idle-pocket-planet.md",
+      "researched_at": "2026-10-06T22:38:35.938909+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-06T22:38:35.938909+00:00",
+        "sitemap": "2026-10-06T22:38:35.938909+00:00"
+      },
+      "sources": [
+        "new_games",
+        "sitemap"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/idle-settlers": {
       "first_seen": "2026-09-25T17:08:20.583980+00:00",
       "issue_error": null,
@@ -13814,6 +13961,25 @@
       ],
       "status": "baseline"
     },
+    "https://poki.com/en/g/king-rush": {
+      "first_seen": "2026-10-06T22:38:35.938909+00:00",
+      "issue_error": null,
+      "issue_number": 126,
+      "new_games_rank": 143,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-06/king-rush.md",
+      "researched_at": "2026-10-06T22:38:35.938909+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-06T22:38:35.938909+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/kingdom-conquest-io": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": 142,
@@ -14723,6 +14889,25 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/low-tide": {
+      "first_seen": "2026-10-06T22:38:35.938909+00:00",
+      "issue_error": null,
+      "issue_number": 126,
+      "new_games_rank": 150,
+      "notification_pending": false,
+      "recheck_at": [],
+      "recheck_plan_started": false,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-06/low-tide.md",
+      "researched_at": "2026-10-06T22:38:35.938909+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-06T22:38:35.938909+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/lucky-claw-machine": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -18852,6 +19037,29 @@
         "sitemap"
       ],
       "status": "baseline"
+    },
+    "https://poki.com/en/g/picnic-raid": {
+      "first_seen": "2026-10-06T22:38:35.938909+00:00",
+      "issue_error": null,
+      "issue_number": 126,
+      "new_games_rank": 145,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-13T22:38:35.938909+00:00",
+        "2026-10-20T22:38:35.938909+00:00",
+        "2026-11-05T22:38:35.938909+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-06/picnic-raid.md",
+      "researched_at": "2026-10-06T22:38:35.938909+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-06T22:38:35.938909+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
     },
     "https://poki.com/en/g/picture-it": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
