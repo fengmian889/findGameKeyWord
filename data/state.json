@@ -1323,17 +1323,16 @@
     "https://poki.com/en/g/backroad-drift": {
       "first_seen": "2026-09-30T22:13:03.744575+00:00",
       "issue_error": null,
-      "issue_number": 104,
+      "issue_number": 129,
       "new_games_rank": 143,
       "notification_pending": false,
       "recheck_at": [
-        "2026-10-07T22:13:03.744575+00:00",
         "2026-10-14T22:13:03.744575+00:00",
         "2026-10-30T22:13:03.744575+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-30/backroad-drift.md",
-      "researched_at": "2026-09-30T22:13:03.744575+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-07/backroad-drift.md",
+      "researched_at": "2026-10-07T23:03:23.035210+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-30T22:13:03.744575+00:00"
@@ -1616,16 +1615,15 @@
     "https://poki.com/en/g/base-wars": {
       "first_seen": "2026-09-23T16:55:05.088054+00:00",
       "issue_error": null,
-      "issue_number": 105,
+      "issue_number": 129,
       "new_games_rank": 146,
       "notification_pending": false,
       "recheck_at": [
-        "2026-10-07T16:55:05.088054+00:00",
         "2026-10-23T16:55:05.088054+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-01/base-wars.md",
-      "researched_at": "2026-10-01T05:47:58.183571+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-07/base-wars.md",
+      "researched_at": "2026-10-07T23:03:23.035210+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-23T16:55:05.088054+00:00"
@@ -4233,15 +4231,13 @@
     "https://poki.com/en/g/cardtamer": {
       "first_seen": "2026-09-07T21:29:36.795162+00:00",
       "issue_error": null,
-      "issue_number": 78,
+      "issue_number": 129,
       "new_games_rank": 152,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-10-07T21:29:36.795162+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-22/cardtamer.md",
-      "researched_at": "2026-09-22T04:51:34.450281+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-07/cardtamer.md",
+      "researched_at": "2026-10-07T23:03:23.035210+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-07T21:29:36.795162+00:00"
@@ -4987,6 +4983,29 @@
       ],
       "status": "researched"
     },
+    "https://poki.com/en/g/christmas-loop": {
+      "first_seen": "2026-10-07T23:03:23.035210+00:00",
+      "issue_error": null,
+      "issue_number": 129,
+      "new_games_rank": 142,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-14T23:03:23.035210+00:00",
+        "2026-10-21T23:03:23.035210+00:00",
+        "2026-11-06T23:03:23.035210+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-07/christmas-loop.md",
+      "researched_at": "2026-10-07T23:03:23.035210+00:00",
+      "retry_at": null,
+      "source_first_seen": {
+        "new_games": "2026-10-07T23:03:23.035210+00:00"
+      },
+      "sources": [
+        "new_games"
+      ],
+      "status": "researched"
+    },
     "https://poki.com/en/g/circloo": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
       "new_games_rank": null,
@@ -5326,17 +5345,16 @@
     "https://poki.com/en/g/cleanstreets": {
       "first_seen": "2026-09-30T22:13:03.744575+00:00",
       "issue_error": null,
-      "issue_number": 104,
+      "issue_number": 129,
       "new_games_rank": 144,
       "notification_pending": false,
       "recheck_at": [
-        "2026-10-07T22:13:03.744575+00:00",
         "2026-10-14T22:13:03.744575+00:00",
         "2026-10-30T22:13:03.744575+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-30/cleanstreets.md",
-      "researched_at": "2026-09-30T22:13:03.744575+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-07/cleanstreets.md",
+      "researched_at": "2026-10-07T23:03:23.035210+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-30T22:13:03.744575+00:00"
@@ -6971,16 +6989,15 @@
     "https://poki.com/en/g/delivery-guy": {
       "first_seen": "2026-09-23T16:55:05.088054+00:00",
       "issue_error": null,
-      "issue_number": 105,
+      "issue_number": 129,
       "new_games_rank": 142,
       "notification_pending": false,
       "recheck_at": [
-        "2026-10-07T16:55:05.088054+00:00",
         "2026-10-23T16:55:05.088054+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-01/delivery-guy.md",
-      "researched_at": "2026-10-01T05:47:58.183571+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-07/delivery-guy.md",
+      "researched_at": "2026-10-07T23:03:23.035210+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-23T16:55:05.088054+00:00"
@@ -13514,9 +13531,18 @@
     },
     "https://poki.com/en/g/jigsaw-drop-sort-7a9586cf": {
       "first_seen": "2026-10-07T13:17:56.148666+00:00",
+      "issue_error": null,
+      "issue_number": 129,
       "new_games_rank": 153,
-      "recheck_at": [],
-      "recheck_plan_started": false,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-14T23:03:23.035210+00:00",
+        "2026-10-21T23:03:23.035210+00:00",
+        "2026-11-06T23:03:23.035210+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-07/jigsaw-drop-sort-7a9586cf.md",
+      "researched_at": "2026-10-07T23:03:23.035210+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-10-07T13:17:56.148666+00:00"
@@ -13524,7 +13550,7 @@
       "sources": [
         "new_games"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/jigsaw-gems": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -19627,10 +19653,12 @@
       "researched_at": "2026-08-19T13:07:32.421455+00:00",
       "retry_at": null,
       "source_first_seen": {
-        "new_games": "2026-08-19T13:07:32.421455+00:00"
+        "new_games": "2026-08-19T13:07:32.421455+00:00",
+        "sitemap": "2026-10-07T23:03:23.035210+00:00"
       },
       "sources": [
-        "new_games"
+        "new_games",
+        "sitemap"
       ],
       "status": "researched"
     },
@@ -22499,9 +22527,18 @@
     },
     "https://poki.com/en/g/skelly-rush": {
       "first_seen": "2026-10-07T13:17:56.148666+00:00",
+      "issue_error": null,
+      "issue_number": 129,
       "new_games_rank": 154,
-      "recheck_at": [],
-      "recheck_plan_started": false,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-14T23:03:23.035210+00:00",
+        "2026-10-21T23:03:23.035210+00:00",
+        "2026-11-06T23:03:23.035210+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-07/skelly-rush.md",
+      "researched_at": "2026-10-07T23:03:23.035210+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-10-07T13:17:56.148666+00:00"
@@ -22509,7 +22546,7 @@
       "sources": [
         "new_games"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/skibidi-shooter": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -25997,9 +26034,18 @@
     },
     "https://poki.com/en/g/talking-tom-candy-run": {
       "first_seen": "2026-10-07T13:17:56.148666+00:00",
+      "issue_error": null,
+      "issue_number": 129,
       "new_games_rank": 155,
-      "recheck_at": [],
-      "recheck_plan_started": false,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-14T23:03:23.035210+00:00",
+        "2026-10-21T23:03:23.035210+00:00",
+        "2026-11-06T23:03:23.035210+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-07/talking-tom-candy-run.md",
+      "researched_at": "2026-10-07T23:03:23.035210+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-10-07T13:17:56.148666+00:00"
@@ -26007,7 +26053,7 @@
       "sources": [
         "new_games"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/talking-tom-cooking": {
       "first_seen": "2026-09-24T17:07:50.976812+00:00",
@@ -28071,9 +28117,18 @@
     },
     "https://poki.com/en/g/uninstall-humanity": {
       "first_seen": "2026-10-07T13:17:56.148666+00:00",
+      "issue_error": null,
+      "issue_number": 129,
       "new_games_rank": 152,
-      "recheck_at": [],
-      "recheck_plan_started": false,
+      "notification_pending": false,
+      "recheck_at": [
+        "2026-10-14T23:03:23.035210+00:00",
+        "2026-10-21T23:03:23.035210+00:00",
+        "2026-11-06T23:03:23.035210+00:00"
+      ],
+      "recheck_plan_started": true,
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-07/uninstall-humanity.md",
+      "researched_at": "2026-10-07T23:03:23.035210+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-10-07T13:17:56.148666+00:00"
@@ -28081,7 +28136,7 @@
       "sources": [
         "new_games"
       ],
-      "status": "pending"
+      "status": "researched"
     },
     "https://poki.com/en/g/unpuzzle": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
