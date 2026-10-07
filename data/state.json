@@ -31,16 +31,15 @@
     "https://poki.com/en/g/1000-steps-tower": {
       "first_seen": "2026-09-22T16:55:23.561194+00:00",
       "issue_error": null,
-      "issue_number": 101,
+      "issue_number": 127,
       "new_games_rank": 143,
       "notification_pending": false,
       "recheck_at": [
-        "2026-10-06T16:55:23.561194+00:00",
         "2026-10-22T16:55:23.561194+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-29/1000-steps-tower.md",
-      "researched_at": "2026-09-29T22:12:53.195925+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-07/1000-steps-tower.md",
+      "researched_at": "2026-10-07T05:55:08.119300+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-22T16:55:23.561194+00:00"
@@ -1371,7 +1370,7 @@
       "first_seen": "2026-10-06T22:38:35.938909+00:00",
       "issue_error": null,
       "issue_number": 126,
-      "new_games_rank": 147,
+      "new_games_rank": 146,
       "notification_pending": false,
       "recheck_at": [
         "2026-10-13T22:38:35.938909+00:00",
@@ -1501,7 +1500,7 @@
       "first_seen": "2026-10-06T22:38:35.938909+00:00",
       "issue_error": null,
       "issue_number": 126,
-      "new_games_rank": 146,
+      "new_games_rank": 145,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
@@ -1744,23 +1743,23 @@
       "first_seen": "2026-09-22T16:55:23.561194+00:00",
       "issue_error": null,
       "issue_number": 102,
+      "last_error": "404 Client Error: Not Found for url: https://poki.com/en/g/battle-bots-arena",
       "new_games_rank": 144,
       "notification_pending": false,
       "recheck_at": [
-        "2026-10-06T16:55:23.561194+00:00",
         "2026-10-22T16:55:23.561194+00:00"
       ],
       "recheck_plan_started": true,
       "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-30/battle-bots-arena.md",
       "researched_at": "2026-09-30T05:29:00.513974+00:00",
-      "retry_at": null,
+      "retry_at": "2026-10-08T05:55:08.119300+00:00",
       "source_first_seen": {
         "new_games": "2026-09-22T16:55:23.561194+00:00"
       },
       "sources": [
         "new_games"
       ],
-      "status": "researched"
+      "status": "retry"
     },
     "https://poki.com/en/g/battle-golf": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -2686,7 +2685,7 @@
       "recheck_plan_started": true,
       "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-22/blumgi-zoo.md",
       "researched_at": "2026-09-22T04:51:34.450281+00:00",
-      "retry_at": "2026-10-07T00:01:20.402443+00:00",
+      "retry_at": "2026-10-08T05:55:08.119300+00:00",
       "source_first_seen": {
         "new_games": "2026-09-14T21:47:58.692531+00:00"
       },
@@ -2699,7 +2698,7 @@
       "first_seen": "2026-10-06T22:38:35.938909+00:00",
       "issue_error": null,
       "issue_number": 126,
-      "new_games_rank": 148,
+      "new_games_rank": 147,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
@@ -3184,17 +3183,16 @@
     "https://poki.com/en/g/brainrot-fusion-lab": {
       "first_seen": "2026-09-29T22:12:53.195925+00:00",
       "issue_error": null,
-      "issue_number": 101,
+      "issue_number": 127,
       "new_games_rank": 145,
       "notification_pending": false,
       "recheck_at": [
-        "2026-10-06T22:12:53.195925+00:00",
         "2026-10-13T22:12:53.195925+00:00",
         "2026-10-29T22:12:53.195925+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-29/brainrot-fusion-lab.md",
-      "researched_at": "2026-09-29T22:12:53.195925+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-07/brainrot-fusion-lab.md",
+      "researched_at": "2026-10-07T05:55:08.119300+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-29T22:12:53.195925+00:00"
@@ -3318,7 +3316,7 @@
       "first_seen": "2026-10-06T22:38:35.938909+00:00",
       "issue_error": null,
       "issue_number": 126,
-      "new_games_rank": 151,
+      "new_games_rank": 150,
       "notification_pending": false,
       "recheck_at": [
         "2026-10-13T22:38:35.938909+00:00",
@@ -3430,23 +3428,23 @@
       "first_seen": "2026-09-22T16:55:23.561194+00:00",
       "issue_error": null,
       "issue_number": 102,
+      "last_error": "404 Client Error: Not Found for url: https://poki.com/en/g/bubble-pop-arrow-puzzle",
       "new_games_rank": 146,
       "notification_pending": false,
       "recheck_at": [
-        "2026-10-06T16:55:23.561194+00:00",
         "2026-10-22T16:55:23.561194+00:00"
       ],
       "recheck_plan_started": true,
       "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-30/bubble-pop-arrow-puzzle.md",
       "researched_at": "2026-09-30T05:29:00.513974+00:00",
-      "retry_at": null,
+      "retry_at": "2026-10-08T05:55:08.119300+00:00",
       "source_first_seen": {
         "new_games": "2026-09-22T16:55:23.561194+00:00"
       },
       "sources": [
         "new_games"
       ],
-      "status": "researched"
+      "status": "retry"
     },
     "https://poki.com/en/g/bubble-shooter-lak": {
       "first_seen": "2026-08-04T09:33:02.886697+00:00",
@@ -3948,16 +3946,13 @@
     "https://poki.com/en/g/cafe-merge": {
       "first_seen": "2026-09-22T21:16:24.824191+00:00",
       "issue_error": null,
-      "issue_number": 102,
+      "issue_number": null,
       "new_games_rank": 157,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-10-06T21:16:24.824191+00:00",
-        "2026-10-22T21:16:24.824191+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-30/cafe-merge.md",
-      "researched_at": "2026-09-30T05:29:00.513974+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-07/cafe-merge.md",
+      "researched_at": "2026-10-07T05:55:08.119300+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-22T21:16:24.824191+00:00",
@@ -4469,16 +4464,13 @@
     "https://poki.com/en/g/cat-fashion-shop": {
       "first_seen": "2026-09-22T16:55:23.561194+00:00",
       "issue_error": null,
-      "issue_number": 102,
+      "issue_number": 127,
       "new_games_rank": 149,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-10-06T16:55:23.561194+00:00",
-        "2026-10-22T16:55:23.561194+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-30/cat-fashion-shop.md",
-      "researched_at": "2026-09-30T05:29:00.513974+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-07/cat-fashion-shop.md",
+      "researched_at": "2026-10-07T05:55:08.119300+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-22T16:55:23.561194+00:00"
@@ -5350,17 +5342,13 @@
     "https://poki.com/en/g/click-the-boss": {
       "first_seen": "2026-09-29T22:12:53.195925+00:00",
       "issue_error": null,
-      "issue_number": 101,
+      "issue_number": 127,
       "new_games_rank": 148,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-10-06T22:12:53.195925+00:00",
-        "2026-10-13T22:12:53.195925+00:00",
-        "2026-10-29T22:12:53.195925+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-29/click-the-boss.md",
-      "researched_at": "2026-09-29T22:12:53.195925+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-07/click-the-boss.md",
+      "researched_at": "2026-10-07T05:55:08.119300+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-29T22:12:53.195925+00:00"
@@ -6447,7 +6435,7 @@
       "first_seen": "2026-10-06T22:38:35.938909+00:00",
       "issue_error": null,
       "issue_number": 126,
-      "new_games_rank": 149,
+      "new_games_rank": 148,
       "notification_pending": false,
       "recheck_at": [
         "2026-10-13T22:38:35.938909+00:00",
@@ -7899,7 +7887,7 @@
       "first_seen": "2026-10-06T22:38:35.938909+00:00",
       "issue_error": null,
       "issue_number": 126,
-      "new_games_rank": 144,
+      "new_games_rank": 143,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
@@ -9399,16 +9387,13 @@
     "https://poki.com/en/g/fill-the-region": {
       "first_seen": "2026-09-22T16:55:23.561194+00:00",
       "issue_error": null,
-      "issue_number": 102,
+      "issue_number": null,
       "new_games_rank": 152,
       "notification_pending": false,
-      "recheck_at": [
-        "2026-10-06T21:16:24.824191+00:00",
-        "2026-10-22T21:16:24.824191+00:00"
-      ],
+      "recheck_at": [],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-30/fill-the-region.md",
-      "researched_at": "2026-09-30T05:29:00.513974+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-07/fill-the-region.md",
+      "researched_at": "2026-10-07T05:55:08.119300+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-22T16:55:23.561194+00:00"
@@ -10026,16 +10011,15 @@
     "https://poki.com/en/g/food-truck-idle-street-chef": {
       "first_seen": "2026-09-22T16:55:23.561194+00:00",
       "issue_error": null,
-      "issue_number": 102,
+      "issue_number": 127,
       "new_games_rank": 154,
       "notification_pending": false,
       "recheck_at": [
-        "2026-10-06T21:16:24.824191+00:00",
         "2026-10-22T21:16:24.824191+00:00"
       ],
       "recheck_plan_started": true,
-      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-09-30/food-truck-idle-street-chef.md",
-      "researched_at": "2026-09-30T05:29:00.513974+00:00",
+      "report_path": "/home/runner/work/findGameKeyWord/findGameKeyWord/reports/2026-10-07/food-truck-idle-street-chef.md",
+      "researched_at": "2026-10-07T05:55:08.119300+00:00",
       "retry_at": null,
       "source_first_seen": {
         "new_games": "2026-09-22T16:55:23.561194+00:00"
@@ -12945,7 +12929,7 @@
       "first_seen": "2026-10-06T22:38:35.938909+00:00",
       "issue_error": null,
       "issue_number": 126,
-      "new_games_rank": 162,
+      "new_games_rank": 161,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
@@ -13965,7 +13949,7 @@
       "first_seen": "2026-10-06T22:38:35.938909+00:00",
       "issue_error": null,
       "issue_number": 126,
-      "new_games_rank": 143,
+      "new_games_rank": 142,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
@@ -14894,7 +14878,7 @@
       "first_seen": "2026-10-06T22:38:35.938909+00:00",
       "issue_error": null,
       "issue_number": 126,
-      "new_games_rank": 150,
+      "new_games_rank": 149,
       "notification_pending": false,
       "recheck_at": [],
       "recheck_plan_started": false,
@@ -19042,7 +19026,7 @@
       "first_seen": "2026-10-06T22:38:35.938909+00:00",
       "issue_error": null,
       "issue_number": 126,
-      "new_games_rank": 145,
+      "new_games_rank": 144,
       "notification_pending": false,
       "recheck_at": [
         "2026-10-13T22:38:35.938909+00:00",
